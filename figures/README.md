@@ -1,9 +1,17 @@
 # Figures extracted from the experiment documents
 
-Every figure already embedded in `Experiment2_Results_and_Discussion_REVISED.docx`
-and `Experiment3_Results_and_Discussion_REVISED.docx`, exported as separate PNGs
-for reuse in slides, posters and manuscripts. These are the original images from
+Every figure already embedded in the three experiment documents, exported as
+separate PNGs for reuse in slides, posters and manuscripts. These are the original images from
 the documents, copied byte for byte; nothing was regenerated or restyled.
+
+## Experiment 1 (4 figures)
+
+- `E1_Fig1_Correlation_matrix_23_quality_parameters.png` — correlation among the
+  23 quality parameters, significant coefficients only
+- `E1_Fig2_Scree_plot.png`
+- `E1_Fig3_PCA_biplot_36_treatment_combinations.png`
+- `E1_Fig4_Dendrogram_36_treatment_combinations.png` — Ward dendrogram of the
+  36 location x variety x storage combinations, four clusters
 
 ## Experiment 2 (51 figures)
 
@@ -31,5 +39,6 @@ caption. Filenames here follow the document's own figure numbering.
 
 ## Regenerating an archive
 
+    zip -r Experiment1_figures.zip Experiment1
     zip -r Experiment2_figures.zip Experiment2
     zip -r Experiment3_figures.zip Experiment3

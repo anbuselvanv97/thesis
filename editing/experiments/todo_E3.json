@@ -1,0 +1,1282 @@
+[
+{
+"idx": 3,
+"sec": "",
+"mode": "",
+"n": 131,
+"text": "This experiment was carried out to study the sensory and nutritional quality of idli prepared from three aromatic rice landraces of West Bengal and one non-aromatic check. The experiment was laid out in a two factor completely randomised design with three replications and was repeated in two years. Factor A was the variety, namely Gobindabhog (G), Radhunipagal (R), Kalojira (K) and the non-aromatic check Dudeshwar (D). Factor B was the product, namely plain idli (I), idli fortified with carrot extract (CI) and idli fortified with beet extract (BI). This gave twelve treatment combinations, which are written as DBI, DCI, DI, GBI, GCI, GI, KBI, KCI, KI, RBI, RCI and RI. Each parameter is dealt with in turn, the findings being given first under Result and the reasons for them under Discussion.",
+"reuse": null
+},
+{
+"idx": 5,
+"sec": "4.1 Design of the experiment and pooling of the data",
+"mode": "",
+"n": 78,
+"text": "The two years of data were combined only after testing the error variances by the Bartlett chi-square test. The test was not significant for most characters, which showed that the error variances of the two years were similar and that the data could be pooled. It was significant only for manganese, ash, PGI and springiness. For these four characters an Aitken transformation was applied before the analysis of variance and the transformed means were used for testing significance.",
+"reuse": null
+},
+{
+"idx": 6,
+"sec": "4.1 Design of the experiment and pooling of the data",
+"mode": "",
+"n": 50,
+"text": "The coefficient of variation was below 3 per cent for most characters. It was lowest for calcium (0.20 per cent), total phenol and total antioxidant activity (0.34 per cent each), and highest for fat (15.91 per cent), resilience (11.71 per cent), copper (9.65 per cent) and anthocyanin (9.63 per cent).",
+"reuse": null
+},
+{
+"idx": 7,
+"sec": "4.1 Design of the experiment and pooling of the data",
+"mode": "",
+"n": 32,
+"text": "The variety and product interaction was highly significant for most of the nutritional, mineral, colour and textural characters. It was not significant only for taste, texture, appearance, cooking quality and overall acceptability.",
+"reuse": null
+},
+{
+"idx": 8,
+"sec": "4.1 Design of the experiment and pooling of the data",
+"mode": "",
+"n": 126,
+"text": "In the tables that follow, the values of the two years and the pooled value of the twelve treatment combinations are given as mean plus or minus standard deviation. The year values are means of three replications and the pooled values are means of six observations. The standard error of the mean, the critical difference at the 5 per cent level and the coefficient of variation are given below each table. Pooled means followed by the same letter do not differ significantly at the 5 per cent level. Each table is followed by a figure showing the pooled means, in which the vertical bars are the standard error of the mean and the letters above the bars are the groupings at the 5 per cent level.",
+"reuse": null
+},
+{
+"idx": 19,
+"sec": "4.2.1 Amylose content (%)",
+"mode": "",
+"n": 76,
+"text": "Amylose content (Table 4.1 and Fig. 4.1) differed significantly among the twelve treatment combinations. It was highest in DI (16.75 per cent), which was followed by KI (16.25 per cent), and lowest in RBI (9.78 per cent). Among the products the mean value was 15.13 in the plain product, 13.44 in the carrot fortified product and 10.10 in the beet fortified product. Among the varieties it was highest in Kalojira (13.72) and lowest in Radhunipagal (11.14).",
+"reuse": null
+},
+{
+"idx": 20,
+"sec": "4.2.1 Amylose content (%)",
+"mode": "",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.40, with a coefficient of variation of 2.73 per cent.",
+"reuse": null
+},
+{
+"idx": 22,
+"sec": "4.2.1 Amylose content (%)",
+"mode": "Discussion",
+"n": 261,
+"text": "The most likely reason for the fall in amylose from the plain to the beet fortified product is a combination of simple dilution and enzymatic loss. The vegetable extract replaces a part of the rice and black gram solids, so the amylose concentration of the batter falls in proportion to the quantity of extract added, an effect reported whenever vegetable purees are incorporated into cereal formulations (Sharma et al., 2012; Chhikara et al., 2019). Over and above this, the amylolytic microflora that develops during the overnight fermentation hydrolyses a part of the linear amylose chains, since amylose is more readily attacked by bacterial alpha-amylase than the branched amylopectin (Steinkraus, 1997; Iyer and Ananthanarayan, 2008; Nout, 2009). The importance of this fraction lies in the fact that amylose governs the extent of retrogradation and therefore the firmness of the cooled product (Juliano, 1992; Copeland et al., 2009). All twelve combinations fall within the low amylose class of Juliano (1971, 1992), which explains the characteristically soft and moist eating quality of idli prepared from these small grained landraces (Singh et al., 2000; Bhattacharya, 2011). The unequal size of the fall in the different varieties, which produced the significant interaction, is attributable to varietal differences in granule structure and in the accessibility of amylose to enzyme attack (Singh et al., 2003; Champagne, 2004). Kaviyaselvan et al. (2026) recorded a comparable range of amylose in idli prepared from ten rice cultivars with and without pearl millet and likewise found the value to be governed jointly by the cultivar and by the composition of the batter.",
+"reuse": null
+},
+{
+"idx": 31,
+"sec": "4.2.2 Starch content (%)",
+"mode": "Discussion",
+"n": 76,
+"text": "Starch content (Table 4.2 and Fig. 4.2) differed significantly among the twelve treatment combinations. It was highest in DI (51.66 per cent), which was followed by KI (48.76 per cent), and lowest in GBI (24.05 per cent). Among the products the mean value was 47.63 in the plain product, 34.83 in the carrot fortified product and 26.23 in the beet fortified product. Among the varieties it was highest in Dudeshwar (38.51) and lowest in Gobindabhog (33.51).",
+"reuse": null
+},
+{
+"idx": 32,
+"sec": "4.2.2 Starch content (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.50, with a coefficient of variation of 1.20 per cent.",
+"reuse": null
+},
+{
+"idx": 34,
+"sec": "4.2.2 Starch content (%)",
+"mode": "Discussion",
+"n": 181,
+"text": "The probable reason for the sharp fall in starch on fortification is again the dilution of the rice and black gram base by the added extract together with microbial utilisation of starch during fermentation. Beetroot and carrot carry very little starch of their own, so every gram of extract added to the batter displaces an equivalent quantity of rice solids (Sharma et al., 2012; Singh and Hathan, 2014; Chhikara et al., 2019). The lactic acid bacteria and yeasts of the idli batter, chiefly Leuconostoc mesenteroides and Lactobacillus species, secrete amylases that hydrolyse starch to fermentable sugars during the overnight leavening period, and this accounts for a further measurable loss (Mukherjee et al., 1965; Steinkraus et al., 1967; Soni and Sandhu, 1990; Iyer and Ananthanarayan, 2008). The higher starch content of the non-aromatic check compared with the three aromatic landraces is a varietal character and agrees with Verma and Srivastav (2017), who reported a lower carbohydrate load in aromatic Indian rices than in non-aromatic rices, and with the general observation that starch content varies widely between rice genotypes (Champagne, 2004; Bhattacharya, 2011).",
+"reuse": null
+},
+{
+"idx": 43,
+"sec": "4.2.3 Total carbohydrate (%)",
+"mode": "Discussion",
+"n": 76,
+"text": "Total carbohydrate (Table 4.3 and Fig. 4.3) differed significantly among the twelve treatment combinations. It was highest in DI (60.21 per cent), which was followed by GI (58.20 per cent), and lowest in KBI (40.91 per cent). Among the products the mean value was 56.02 in the plain product, 47.98 in the carrot fortified product and 42.82 in the beet fortified product. Among the varieties it was highest in Dudeshwar (52.03) and lowest in Kalojira (46.52).",
+"reuse": null
+},
+{
+"idx": 44,
+"sec": "4.2.3 Total carbohydrate (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.48, with a coefficient of variation of 0.86 per cent.",
+"reuse": null
+},
+{
+"idx": 46,
+"sec": "4.2.3 Total carbohydrate (%)",
+"mode": "Discussion",
+"n": 141,
+"text": "Total carbohydrate followed starch closely because starch is by far its largest fraction in a rice based food, and the probable reason for its decline is therefore the same dilution and fermentative loss described for starch (Steinkraus, 1997; Iyer and Ananthanarayan, 2008; Chhikara et al., 2019). A part of the decline may also be explained by the conversion of carbohydrate to carbon dioxide and organic acids during the leavening of the batter, a loss that is unavoidable in any naturally fermented cereal product (Soni and Sandhu, 1990; Blandino et al., 2003; Poutanen et al., 2009). The consistently higher values of the non-aromatic check reflect a genuine varietal difference in grain composition and agree with the comparison of aromatic and non-aromatic Indian rices made by Verma and Srivastav (2017) and with the values compiled for Indian cereals by Gopalan et al. (2004).",
+"reuse": null
+},
+{
+"idx": 55,
+"sec": "4.2.4 Total soluble sugar (%)",
+"mode": "Discussion",
+"n": 77,
+"text": "Total soluble sugar (Table 4.4 and Fig. 4.4) differed significantly among the twelve treatment combinations. It was highest in RBI (3.83 per cent), which was followed by DBI (3.67 per cent), and lowest in RI (0.53 per cent). Among the products the mean value was 3.35 in the beet fortified product, 2.47 in the carrot fortified product and 0.59 in the plain product. Among the varieties it was highest in Dudeshwar (2.42) and lowest in Gobindabhog (1.73).",
+"reuse": null
+},
+{
+"idx": 56,
+"sec": "4.2.4 Total soluble sugar (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 1.71 per cent.",
+"reuse": null
+},
+{
+"idx": 58,
+"sec": "4.2.4 Total soluble sugar (%)",
+"mode": "Discussion",
+"n": 164,
+"text": "Total soluble sugar behaved in exactly the opposite manner to starch, and two reasons acting in the same direction explain this. First, beetroot is exceptionally rich in free sucrose, glucose and fructose, and adding its extract to the batter introduces a large quantity of soluble sugar directly (Singh and Hathan, 2014; Chhikara et al., 2019). Carrot also carries appreciable free sugars, though less than beetroot (Sharma et al., 2012). Second, the amylases produced by the fermenting microflora hydrolyse a part of the rice starch into maltose and glucose, so that the sugar removed from the starch fraction reappears in the soluble sugar fraction (Mukherjee et al., 1965; Iyer and Ananthanarayan, 2008; Ganzle, 2014). A similar rise in reducing sugars during the fermentation of cereal batters has been reported by Blandino et al. (2003) and by Ghosh and Chattopadhyay (2011) for idli specifically. The rise in soluble sugar is nutritionally relevant because it partly explains the higher predicted glycaemic index of the beet fortified treatments.",
+"reuse": null
+},
+{
+"idx": 67,
+"sec": "4.2.5 Resistant starch (%)",
+"mode": "Discussion",
+"n": 76,
+"text": "Resistant starch (Table 4.5 and Fig. 4.5) differed significantly among the twelve treatment combinations. It was highest in DCI (1.97 per cent), which was followed by DI (1.89 per cent), and lowest in KBI (1.02 per cent). Among the products the mean value was 1.69 in the carrot fortified product, 1.55 in the plain product and 1.34 in the beet fortified product. Among the varieties it was highest in Dudeshwar (1.83) and lowest in Kalojira (1.23).",
+"reuse": null
+},
+{
+"idx": 68,
+"sec": "4.2.5 Resistant starch (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 2.68 per cent.",
+"reuse": null
+},
+{
+"idx": 70,
+"sec": "4.2.5 Resistant starch (%)",
+"mode": "Discussion",
+"n": 165,
+"text": "The most probable reason for the higher resistant starch of the carrot fortified treatments is the combined contribution of added dietary fibre and retrograded amylose. Carrot carries a substantial quantity of cellulose, hemicellulose and pectin, which are measured along with the resistant fraction and which also physically restrict enzyme access to the starch granule (Sharma et al., 2012; Slavin, 2013). In addition, the amylose released during steaming re-associates as the product cools and forms the retrograded RS3 fraction, a process that is well documented in cooked and cooled rice and other cereals (Englyst et al., 1992; Sajilata et al., 2006; Copeland et al., 2009). The lower values of the beet fortified treatments are explained by their very low amylose and high free sugar content, which leaves little material available for retrogradation (Singh and Hathan, 2014; Chhikara et al., 2019). This fraction is nutritionally important because it escapes digestion in the small intestine and is fermented in the colon to short chain fatty acids (Slavin, 2013).",
+"reuse": null
+},
+{
+"idx": 79,
+"sec": "4.2.6 Non-resistant starch (%)",
+"mode": "Discussion",
+"n": 76,
+"text": "Non-resistant starch (Table 4.6 and Fig. 4.6) differed significantly among the twelve treatment combinations. It was highest in DI (50.78 per cent), which was followed by KI (47.56 per cent), and lowest in GBI (23.57 per cent). Among the products the mean value was 46.66 in the plain product, 33.75 in the carrot fortified product and 25.49 in the beet fortified product. Among the varieties it was highest in Dudeshwar (37.18) and lowest in Gobindabhog (32.88).",
+"reuse": null
+},
+{
+"idx": 80,
+"sec": "4.2.6 Non-resistant starch (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.52, with a coefficient of variation of 1.30 per cent.",
+"reuse": null
+},
+{
+"idx": 82,
+"sec": "4.2.6 Non-resistant starch (%)",
+"mode": "Discussion",
+"n": 140,
+"text": "Non-resistant starch is the readily digestible complement of the resistant fraction, so the probable reason for its behaviour is simply that it tracks total starch. It was highest where the rice base was undiluted and lowest in the beet fortified treatments, which carried the least starch of all (Englyst et al., 1992; Sajilata et al., 2006). The gelatinisation that occurs during steaming disrupts the granule structure and converts most of the starch into a rapidly digestible form, which is why this fraction dominates in all the treatments (Bemiller and Whistler, 2009; Copeland et al., 2009). Fermentation contributes further by partially hydrolysing the granule surface and increasing the accessible surface area (Iyer and Ananthanarayan, 2008; Ganzle, 2014). The values recorded here are comparable with those reported for other steamed and fermented cereal products (Blandino et al., 2003; Poutanen et al., 2009).",
+"reuse": null
+},
+{
+"idx": 91,
+"sec": "4.2.7 Predicted glycaemic index (PGI)",
+"mode": "Discussion",
+"n": 74,
+"text": "Predicted glycaemic index (Table 4.7 and Fig. 4.7) differed significantly among the twelve treatment combinations. It was highest in KBI (75.08 PGI), which was followed by GBI (73.61 PGI), and lowest in RCI (58.46 PGI). Among the products the mean value was 73.53 in the beet fortified product, 65.19 in the plain product and 60.49 in the carrot fortified product. Among the varieties it was highest in Kalojira (67.56) and lowest in Radhunipagal (64.53).",
+"reuse": null
+},
+{
+"idx": 92,
+"sec": "4.2.7 Predicted glycaemic index (PGI)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.70, with a coefficient of variation of 0.73 per cent.",
+"reuse": null
+},
+{
+"idx": 94,
+"sec": "4.2.7 Predicted glycaemic index (PGI)",
+"mode": "Discussion",
+"n": 181,
+"text": "The likely reason for the differences in the predicted glycaemic index is that the rate of starch hydrolysis, and not the total quantity of starch, decides the glycaemic response of a cereal food (Jenkins et al., 1981; Goni et al., 1997). The carrot fortified treatments recorded the lowest values because the dietary fibre of carrot forms a physical barrier around the starch granule and slows the access of pancreatic amylase, and because these treatments also carried the highest resistant starch (Sajilata et al., 2006; Sharma et al., 2012; Slavin, 2013). The beet fortified treatments recorded the highest values because beetroot supplies a large quantity of free sugars that are absorbed almost immediately (Singh and Hathan, 2014; Chhikara et al., 2019). Frei et al. (2003) and Panlasigui et al. (1991) both showed for rice that varieties of similar amylose content can differ widely in starch digestibility and glycaemic response, which explains why the ranking of the treatments here did not follow amylose alone. The values obtained fall within the intermediate to high range of the international tables of Foster-Powell et al. (2002).",
+"reuse": null
+},
+{
+"idx": 105,
+"sec": "4.3.1 Total soluble protein (%)",
+"mode": "Discussion",
+"n": 77,
+"text": "Total soluble protein (Table 4.8 and Fig. 4.8) differed significantly among the twelve treatment combinations. It was highest in KBI (2.71 per cent), which was followed by RBI (2.54 per cent), and lowest in DI (1.05 per cent). Among the products the mean value was 2.23 in the beet fortified product, 2.05 in the carrot fortified product and 1.27 in the plain product. Among the varieties it was highest in Kalojira (1.98) and lowest in Dudeshwar (1.71).",
+"reuse": null
+},
+{
+"idx": 106,
+"sec": "4.3.1 Total soluble protein (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 1.96 per cent.",
+"reuse": null
+},
+{
+"idx": 108,
+"sec": "4.3.1 Total soluble protein (%)",
+"mode": "Discussion",
+"n": 162,
+"text": "The most probable reason for the rise in total soluble protein on fortification is the proteolysis that accompanies natural lactic fermentation together with the soluble protein contributed by the vegetable extract. During the overnight leavening of the batter, the proteases of Leuconostoc and Lactobacillus species hydrolyse a part of the rice and black gram protein into soluble peptides and free amino nitrogen, which are recovered in the Folin-Ciocalteu assay of Lowry et al. (1951) but not in the intact protein (Mukherjee et al., 1965; Chavan and Kadam, 1989; Soni and Sandhu, 1990). Ghosh and Chattopadhyay (2011) measured this increase directly in idli batter and reported a marked rise in soluble nitrogen during fermentation, and similar increases have been recorded in other fermented cereal systems (Blandino et al., 2003; Poutanen et al., 2009). Beetroot also carries readily extractable protein of its own, which explains why the beet fortified treatments were the highest for this character (Singh and Hathan, 2014; Chhikara et al., 2019).",
+"reuse": null
+},
+{
+"idx": 117,
+"sec": "4.3.2 Total protein (%)",
+"mode": "Discussion",
+"n": 76,
+"text": "Total protein (Table 4.9 and Fig. 4.9) differed significantly among the twelve treatment combinations. It was highest in KI (13.44 per cent), which was followed by KBI (13.29 per cent), and lowest in DCI (10.92 per cent). Among the products the mean value was 12.83 in the plain product, 12.69 in the beet fortified product and 11.43 in the carrot fortified product. Among the varieties it was highest in Kalojira (12.87) and lowest in Dudeshwar (11.58).",
+"reuse": null
+},
+{
+"idx": 118,
+"sec": "4.3.2 Total protein (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.08, with a coefficient of variation of 0.61 per cent.",
+"reuse": null
+},
+{
+"idx": 120,
+"sec": "4.3.2 Total protein (%)",
+"mode": "Discussion",
+"n": 216,
+"text": "The idli was considerably richer in protein than milled rice, and the most likely reason is the combined contribution of black gram and of microbial biomass. The batter contains rice and black gram in a two to one ratio, and the lysine rich protein of black gram compensates for the lysine deficient protein of rice, giving a product of better amino acid balance than either component alone (Reddy et al., 1981; Ufaz and Galili, 2008; Oghbaei and Prakash, 2016). Fermentation adds further protein through the growth of the microflora and improves its digestibility by partial proteolysis (Chavan and Kadam, 1989; Nout and Sarkar, 1999; Sridevi et al., 2010). The superiority of the three aromatic landraces over the non-aromatic check, and the combination of high protein with low amylose in Radhunipagal, agree with the negative relation between grain protein and amylose reported for rice by Chattopadhyay et al. (2018), and the general level of protein recorded is comparable with the values reported for Indian rices by Rani et al. (2006) and Gopalan et al. (2004). A similar dominance of the grain protein in the finished product was recorded by Kaviyaselvan et al. (2026), who separated the protein of idli into its four solubility fractions and found glutelin to be the largest, followed by prolamin, globulin and albumin.",
+"reuse": null
+},
+{
+"idx": 129,
+"sec": "4.3.3 Fat content (%)",
+"mode": "Discussion",
+"n": 76,
+"text": "Fat content (Table 4.10 and Fig. 4.10) differed significantly among the twelve treatment combinations. It was highest in KI (0.28 per cent), which was followed by GCI (0.28 per cent), and lowest in GBI (0.17 per cent). Among the products the mean value was 0.26 in the carrot fortified product, 0.24 in the plain product and 0.19 in the beet fortified product. Among the varieties it was highest in Dudeshwar (0.25) and lowest in Gobindabhog (0.21).",
+"reuse": null
+},
+{
+"idx": 130,
+"sec": "4.3.3 Fat content (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 15.91 per cent.",
+"reuse": null
+},
+{
+"idx": 132,
+"sec": "4.3.3 Fat content (%)",
+"mode": "Discussion",
+"n": 162,
+"text": "Fat was uniformly low in all the treatments, and the probable reason is that idli is steamed rather than fried, so no fat is added during preparation and the only lipid present is that of the rice and black gram themselves (Reddy et al., 1981; Gopalan et al., 2004). Rice endosperm carries very little lipid once the bran has been removed, and black gram is also a low fat pulse (Champagne, 2004; Oghbaei and Prakash, 2016). The slightly higher values recorded in the carrot fortified treatments are most probably an artefact of the method rather than a true fat gain, because the carotenoids of carrot are lipid soluble and are extracted along with the fat during Soxhlet extraction, where they are weighed as part of the crude fat fraction (Britton, 1995; Rodriguez-Amaya, 2001; Sharma et al., 2012). A small loss of lipid through microbial lipase activity during fermentation may also contribute to the low values overall (Blandino et al., 2003; Nout, 2009).",
+"reuse": null
+},
+{
+"idx": 141,
+"sec": "4.3.4 Ash content (%)",
+"mode": "Discussion",
+"n": 76,
+"text": "Ash content (Table 4.11 and Fig. 4.11) differed significantly among the twelve treatment combinations. It was highest in GBI (5.21 per cent), which was followed by GCI (4.89 per cent), and lowest in DI (2.47 per cent). Among the products the mean value was 4.35 in the beet fortified product, 3.97 in the carrot fortified product and 2.94 in the plain product. Among the varieties it was highest in Gobindabhog (4.57) and lowest in Kalojira (3.35).",
+"reuse": null
+},
+{
+"idx": 142,
+"sec": "4.3.4 Ash content (%)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.24, with a coefficient of variation of 0.98 per cent.",
+"reuse": null
+},
+{
+"idx": 144,
+"sec": "4.3.4 Ash content (%)",
+"mode": "Discussion",
+"n": 163,
+"text": "Ash represents the total mineral load of the product, and the most likely reason for its rise on fortification is the direct mineral contribution of the vegetable extract. Beetroot is a rich source of potassium, sodium, calcium and magnesium, and adding its extract raises the inorganic residue of the product substantially (Singh and Hathan, 2014; Chhikara et al., 2019). Carrot contributes a smaller but still appreciable quantity (Sharma et al., 2012). The high ash content of Gobindabhog among the varieties is consistent with its superior mineral profile discussed in the following section and reflects a genuine varietal difference in grain mineral status (Rani et al., 2006; Hemalatha et al., 2007; Gopalan et al., 2004). Values of this order have been reported for other fermented cereal and pulse products, in which the ash content is generally higher than that of the unfermented raw material because of the loss of dry matter as carbon dioxide during leavening (Blandino et al., 2003; Oghbaei and Prakash, 2016).",
+"reuse": null
+},
+{
+"idx": 153,
+"sec": "4.3.5 Phytate content (mg g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 76,
+"text": "Phytate content (Table 4.12 and Fig. 4.12) differed significantly among the twelve treatment combinations. It was highest in KBI (2.52 mg g\u207b\u00b9), which was followed by RBI (2.03 mg g\u207b\u00b9), and lowest in GI (0.82 mg g\u207b\u00b9). Among the products the mean value was 1.85 in the beet fortified product, 1.49 in the carrot fortified product and 1.10 in the plain product. Among the varieties it was highest in Kalojira (1.92) and lowest in Gobindabhog (1.09).",
+"reuse": null
+},
+{
+"idx": 154,
+"sec": "4.3.5 Phytate content (mg g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 2.50 per cent.",
+"reuse": null
+},
+{
+"idx": 156,
+"sec": "4.3.5 Phytate content (mg g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 201,
+"text": "The most probable reason for the rise in phytate on fortification is that beetroot itself contributes phytate to the batter, since phytate is the principal storage form of phosphorus in plant tissues (Reddy et al., 1982; Singh and Hathan, 2014). Phytate matters because the six phosphate groups of the inositol ring chelate calcium, iron and zinc in the gastrointestinal tract and form insoluble complexes that are poorly absorbed (Haug and Lantzsch, 1983; Sandberg, 2002; Hemalatha et al., 2007). It is therefore encouraging that all the values recorded here are much lower than those normally reported for raw rice and black gram. The likely reason is that phytase from the grain itself and from the fermenting microflora hydrolyses a large part of the phytate during the soaking and overnight fermentation of the batter, a reduction that has been demonstrated in rice, wheat, sorghum and legumes alike (Lestienne et al., 2005; Hotz and Gibson, 2007; Liang et al., 2008; Gupta et al., 2015). The gain in minerals from fortification is thus partly offset by the accompanying rise in phytate, and the phytate to mineral molar ratio rather than the mineral content alone should be used to judge the nutritional value of the product.",
+"reuse": null
+},
+{
+"idx": 167,
+"sec": "4.4.1 Total phenol content (mg GAE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 83,
+"text": "Total phenol content (Table 4.13 and Fig. 4.13) differed significantly among the twelve treatment combinations. It was highest in KBI (290.97 mg GAE 100 g\u207b\u00b9), which was followed by RBI (279.83 mg GAE 100 g\u207b\u00b9), and lowest in DI (53.47 mg GAE 100 g\u207b\u00b9). Among the products the mean value was 265.23 in the beet fortified product, 152.64 in the carrot fortified product and 89.40 in the plain product. Among the varieties it was highest in Kalojira (198.14) and lowest in Dudeshwar (132.08).",
+"reuse": null
+},
+{
+"idx": 168,
+"sec": "4.4.1 Total phenol content (mg GAE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.66, with a coefficient of variation of 0.34 per cent.",
+"reuse": null
+},
+{
+"idx": 170,
+"sec": "4.4.1 Total phenol content (mg GAE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 241,
+"text": "Two independent sources acting together are the most probable explanation for the very wide range recorded for total phenol. The first is the parent grain. The pigmented pericarp of the black husked Kalojira carries a large pool of phenolic acids and proanthocyanidins, and pigmented rice grains have repeatedly been shown to hold several times more phenolics than white grains (Zhang et al., 2010; Sompong et al., 2011; Shao et al., 2014; Goufo and Trindade, 2014). The second is the fortifying material. Beetroot supplies betalains along with an appreciable quantity of phenolic acids, and these compounds are reasonably stable at the mildly acidic pH generated by lactic fermentation and survive the short moist heat of steaming (Kanner et al., 2001; Ravichandran et al., 2013; Chhikara et al., 2019). Fermentation itself may add a third and smaller contribution, since microbial esterases liberate bound phenolic acids from the cell wall matrix and make them extractable, an effect demonstrated in rice, barley and oat systems (Dordevic et al., 2010; Hole et al., 2012; Ti et al., 2014). The superiority of the aromatic landraces over the non-aromatic check also agrees with the comparison made by Ghosh and Roychoudhury (2018). Kaviyaselvan et al. (2026) separated the phenolics of idli into soluble free, soluble bound and insoluble bound forms and found the insoluble bound fraction to be the largest and the pigmented formulations to be consistently richer than the non-pigmented ones, which supports the varietal effect recorded here.",
+"reuse": null
+},
+{
+"idx": 179,
+"sec": "4.4.2 Total flavonoid content (mg QE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 83,
+"text": "Total flavonoid content (Table 4.14 and Fig. 4.14) differed significantly among the twelve treatment combinations. It was highest in KBI (171.34 mg QE 100 g\u207b\u00b9), which was followed by GBI (152.14 mg QE 100 g\u207b\u00b9), and lowest in DI (42.95 mg QE 100 g\u207b\u00b9). Among the products the mean value was 142.75 in the beet fortified product, 89.52 in the carrot fortified product and 60.37 in the plain product. Among the varieties it was highest in Kalojira (115.54) and lowest in Dudeshwar (73.54).",
+"reuse": null
+},
+{
+"idx": 180,
+"sec": "4.4.2 Total flavonoid content (mg QE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.60, with a coefficient of variation of 0.54 per cent.",
+"reuse": null
+},
+{
+"idx": 182,
+"sec": "4.4.2 Total flavonoid content (mg QE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 196,
+"text": "The probable reason for the flavonoid pattern is the same as that for total phenol, since the two fractions share the same origin and the same extraction behaviour. Flavonoids in cereal grains are concentrated in the bran, aleurone and pericarp layers, which are best developed and most heavily pigmented in the black husked Kalojira (Adom and Liu, 2002; Liu, 2007; Sompong et al., 2011; Goufo and Trindade, 2014). Beetroot supplies a further quantity through its betalain and flavonoid fraction (Kanner et al., 2001; Chhikara et al., 2019), and carrot contributes a smaller amount (Sharma et al., 2012). The release of bound flavonoids from the cell wall matrix by microbial enzymes during fermentation is a likely additional contributor, as has been shown for several fermented cereals (Dordevic et al., 2010; Hole et al., 2012; Ti et al., 2014). The identical ranking of the treatments for phenol and flavonoid supports the view that both were governed by the same two sources. The same order was recorded by Kaviyaselvan et al. (2026) in idli prepared from pigmented rice and pearl millet, where the insoluble bound flavonoid fraction was the largest and the pigmented formulations again exceeded the non-pigmented ones.",
+"reuse": null
+},
+{
+"idx": 191,
+"sec": "4.4.3 Total antioxidant activity (mg TE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 83,
+"text": "Total antioxidant activity (Table 4.15 and Fig. 4.15) differed significantly among the twelve treatment combinations. It was highest in KBI (426.88 mg TE 100 g\u207b\u00b9), which was followed by GBI (389.72 mg TE 100 g\u207b\u00b9), and lowest in DI (165.26 mg TE 100 g\u207b\u00b9). Among the products the mean value was 393.45 in the beet fortified product, 287.71 in the carrot fortified product and 185.29 in the plain product. Among the varieties it was highest in Kalojira (314.45) and lowest in Dudeshwar (265.88).",
+"reuse": null
+},
+{
+"idx": 192,
+"sec": "4.4.3 Total antioxidant activity (mg TE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 1.13, with a coefficient of variation of 0.34 per cent.",
+"reuse": null
+},
+{
+"idx": 194,
+"sec": "4.4.3 Total antioxidant activity (mg TE 100 g\u207b\u00b9)",
+"mode": "Discussion",
+"n": 205,
+"text": "The most likely reason for the antioxidant activity pattern is that the antioxidant capacity of a cereal based food is governed almost entirely by its phenolic and flavonoid pool, so this character necessarily followed those two fractions. This relationship is well established for rice and for whole grains generally (Adom and Liu, 2002; Liu, 2007; Shao et al., 2014; Goufo and Trindade, 2014) and is confirmed in the present study by the very high correlations recorded between the three fractions. The betalains of beetroot make an additional and independent contribution, since they are powerful hydrogen donors with a radical scavenging capacity comparable with that of the common flavonoids (Kanner et al., 2001; Stintzing and Carle, 2004; Ravichandran et al., 2013). Fermentation may raise the measured activity further by liberating bound phenolics into the free and more readily assayed form, an increase reported in fermented rice, barley and oat products (Dordevic et al., 2010; Hole et al., 2012; Ti et al., 2014). Kaviyaselvan et al. (2026) also reported that the insoluble bound fraction of idli carried the highest antioxidant activity of the three phenolic fractions, which confirms that the bound phenolics of the bran layer are the main contributors to the antioxidant capacity of the product.",
+"reuse": null
+},
+{
+"idx": 203,
+"sec": "4.4.4 Beta-carotene content",
+"mode": "Discussion",
+"n": 70,
+"text": "Beta-carotene content (Table 4.16 and Fig. 4.16) differed significantly among the twelve treatment combinations. It was highest in KCI (45.77), which was followed by GCI (43.59), and lowest in DI (0.00). Among the products the mean value was 38.85 in the carrot fortified product, 2.44 in the beet fortified product and 0.00 in the plain product. Among the varieties it was highest in Kalojira (15.93) and lowest in Dudeshwar (10.92).",
+"reuse": null
+},
+{
+"idx": 204,
+"sec": "4.4.4 Beta-carotene content",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.08, with a coefficient of variation of 0.48 per cent.",
+"reuse": null
+},
+{
+"idx": 206,
+"sec": "4.4.4 Beta-carotene content",
+"mode": "Discussion",
+"n": 158,
+"text": "Carrot was the only meaningful source of provitamin A in this study, which is the obvious and most probable reason for the pattern recorded. Carrot is among the richest dietary sources of all-trans beta-carotene, and its carotenoids are located in chromoplasts that are readily ruptured during grinding, so the pigment is efficiently transferred to the batter (Britton, 1995; Rodriguez-Amaya, 2001; Sharma et al., 2012). Milled rice and black gram carry essentially no carotenoid, which explains the nil values of the plain treatments (Champagne, 2004; Gopalan et al., 2004). The good retention of the pigment in the finished product is explained by the mild processing conditions, since all-trans beta-carotene is reasonably stable under the short moist heat of steaming but is rapidly lost under frying or prolonged dry heating (Delgado-Vargas et al., 2000; Rodriguez-Amaya, 2001). The mildly acidic pH generated by fermentation may also afford some protection against isomerisation and oxidation during the batter stage (Blandino et al., 2003).",
+"reuse": null
+},
+{
+"idx": 215,
+"sec": "4.4.5 Anthocyanin content",
+"mode": "Discussion",
+"n": 70,
+"text": "Anthocyanin content (Table 4.17 and Fig. 4.17) differed significantly among the twelve treatment combinations. It was highest in KBI (1.86), which was followed by RBI (1.53), and lowest in DCI (0.00). Among the products the mean value was 1.41 in the beet fortified product, 0.00 in the plain product and 0.00 in the carrot fortified product. Among the varieties it was highest in Kalojira (0.62) and lowest in Dudeshwar (0.33).",
+"reuse": null
+},
+{
+"idx": 216,
+"sec": "4.4.5 Anthocyanin content",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.06, with a coefficient of variation of 9.63 per cent.",
+"reuse": null
+},
+{
+"idx": 218,
+"sec": "4.4.5 Anthocyanin content",
+"mode": "Discussion",
+"n": 160,
+"text": "The most probable reason for the anthocyanin pattern is that the pigment came from two sources, both of which were present only in certain treatments. The main source was the betacyanin fraction of beetroot, which is measured together with anthocyanin by the spectrophotometric method used and which was introduced only into the beet fortified treatments (Stintzing and Carle, 2004; Azeredo, 2009; Chhikara et al., 2019). The second and smaller source was the pigment carried over from the black husked kernel of Kalojira, which is why this variety recorded the highest value in the beet fortified group (Sompong et al., 2011; Shao et al., 2014). The retention of the pigment in the finished product is explained by the mildly acidic pH generated during lactic fermentation, since betalains and anthocyanins are both most stable in the pH range of about four to six and degrade rapidly under alkaline conditions or prolonged heating (Herbach et al., 2006; Azeredo, 2009; Ravichandran et al., 2013).",
+"reuse": null
+},
+{
+"idx": 229,
+"sec": "4.5.1 Copper content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 76,
+"text": "Copper content (Table 4.18 and Fig. 4.18) differed significantly among the twelve treatment combinations. It was highest in GBI (0.97 mg L\u207b\u00b9), which was followed by DCI (0.78 mg L\u207b\u00b9), and lowest in DI (0.21 mg L\u207b\u00b9). Among the products the mean value was 0.48 in the beet fortified product, 0.46 in the carrot fortified product and 0.26 in the plain product. Among the varieties it was highest in Gobindabhog (0.56) and lowest in Kalojira (0.28).",
+"reuse": null
+},
+{
+"idx": 230,
+"sec": "4.5.1 Copper content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 9.65 per cent.",
+"reuse": null
+},
+{
+"idx": 232,
+"sec": "4.5.1 Copper content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 153,
+"text": "Copper is largely a varietal character decided by the mineral status of the parent grain and by the soil in which it was grown, which is the most probable reason for the clear separation of the varieties recorded here (Rani et al., 2006; Hemalatha et al., 2007; Gopalan et al., 2004). Gobindabhog carried the best overall mineral profile of the four varieties, which is consistent with its highest ash content. The rise on fortification is explained by the copper contributed by the vegetable extract itself, beetroot being a modest but useful source of trace elements (Singh and Hathan, 2014; Chhikara et al., 2019). It should be added that the availability of copper, like that of the other divalent cations, depends on the phytate content of the product, and the reduction of phytate during soaking and fermentation is likely to have improved its accessibility (Sandberg, 2002; Lestienne et al., 2005; Hotz and Gibson, 2007).",
+"reuse": null
+},
+{
+"idx": 241,
+"sec": "4.5.2 Iron content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 76,
+"text": "Iron content (Table 4.19 and Fig. 4.19) differed significantly among the twelve treatment combinations. It was highest in RI (3.36 mg L\u207b\u00b9), which was followed by GI (2.99 mg L\u207b\u00b9), and lowest in DI (1.36 mg L\u207b\u00b9). Among the products the mean value was 2.30 in the plain product, 1.77 in the beet fortified product and 1.73 in the carrot fortified product. Among the varieties it was highest in Gobindabhog (2.51) and lowest in Kalojira (1.52).",
+"reuse": null
+},
+{
+"idx": 242,
+"sec": "4.5.2 Iron content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 1.77 per cent.",
+"reuse": null
+},
+{
+"idx": 244,
+"sec": "4.5.2 Iron content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 157,
+"text": "The most likely reason for iron being highest in the plain products of the aromatic landraces is that the grain itself is the principal source of this element, so any addition of a low iron vegetable extract dilutes it (Rani et al., 2006; Gopalan et al., 2004; Chhikara et al., 2019). The varietal differences recorded reflect genuine differences in grain iron between the landraces, a variation that is well documented in rice germplasm (Champagne, 2004; Hemalatha et al., 2007). Although rice based diets are generally poor in available iron, the soaking and fermentation steps that precede steaming improve its accessibility considerably by activating phytase and lowering the phytate to iron molar ratio, an improvement demonstrated for rice, wheat and legume systems alike (Sandberg, 2002; Lestienne et al., 2005; Hotz and Gibson, 2007; Liang et al., 2008). The practical value of the present result therefore lies as much in the processing method as in the absolute iron content.",
+"reuse": null
+},
+{
+"idx": 253,
+"sec": "4.5.3 Zinc content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 76,
+"text": "Zinc content (Table 4.20 and Fig. 4.20) differed significantly among the twelve treatment combinations. It was highest in RI (0.89 mg L\u207b\u00b9), which was followed by KBI (0.87 mg L\u207b\u00b9), and lowest in DI (0.64 mg L\u207b\u00b9). Among the products the mean value was 0.76 in the beet fortified product, 0.75 in the plain product and 0.71 in the carrot fortified product. Among the varieties it was highest in Radhunipagal (0.82) and lowest in Dudeshwar (0.66).",
+"reuse": null
+},
+{
+"idx": 254,
+"sec": "4.5.3 Zinc content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 4.63 per cent.",
+"reuse": null
+},
+{
+"idx": 256,
+"sec": "4.5.3 Zinc content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 150,
+"text": "Zinc changed comparatively little with fortification, and the probable reason is that the grain and the black gram, rather than the vegetable extract, are its main source in this product (Gopalan et al., 2004; Hemalatha et al., 2007). The differences recorded were therefore mainly varietal and reflect the grain zinc status of the four landraces (Champagne, 2004; Rani et al., 2006). More important than the absolute content is the availability of the zinc present, since phytate binds zinc strongly and a phytate to zinc molar ratio above fifteen is generally taken to indicate poor absorption (Sandberg, 2002; Hemalatha et al., 2007). The soaking and overnight fermentation of the batter activate endogenous and microbial phytase and lower this ratio appreciably, which has been shown to improve zinc solubility in brown rice and in other cereals (Lestienne et al., 2005; Hotz and Gibson, 2007; Liang et al., 2008; Gupta et al., 2015).",
+"reuse": null
+},
+{
+"idx": 265,
+"sec": "4.5.4 Manganese content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 76,
+"text": "Manganese content (Table 4.21 and Fig. 4.21) differed significantly among the twelve treatment combinations. It was highest in GI (0.69 mg L\u207b\u00b9), which was followed by GBI (0.68 mg L\u207b\u00b9), and lowest in DI (0.37 mg L\u207b\u00b9). Among the products the mean value was 0.55 in the beet fortified product, 0.53 in the plain product and 0.53 in the carrot fortified product. Among the varieties it was highest in Gobindabhog (0.64) and lowest in Dudeshwar (0.40).",
+"reuse": null
+},
+{
+"idx": 266,
+"sec": "4.5.4 Manganese content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.72, with a coefficient of variation of 6.91 per cent.",
+"reuse": null
+},
+{
+"idx": 268,
+"sec": "4.5.4 Manganese content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 148,
+"text": "Manganese was the only character in the study for which the main effect of fortification was not significant, and the most probable reason is that neither beetroot nor carrot is a rich source of this element, so the vegetable extract neither added nor appreciably diluted it (Sharma et al., 2012; Singh and Hathan, 2014; Chhikara et al., 2019). The differences recorded were therefore essentially varietal and reflect the grain manganese status of the landraces, which is known to vary with genotype and with the soil on which the crop is grown (Rani et al., 2006; Hemalatha et al., 2007; Gopalan et al., 2004). The interaction was nevertheless significant, which indicates that the small response to the extract was not identical in every variety, most probably because the base manganese content differed and because phytate, which also binds manganese, differed between the varieties (Sandberg, 2002; Lestienne et al., 2005).",
+"reuse": null
+},
+{
+"idx": 277,
+"sec": "4.5.5 Calcium content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 76,
+"text": "Calcium content (Table 4.22 and Fig. 4.22) differed significantly among the twelve treatment combinations. It was highest in GBI (550.88 mg L\u207b\u00b9), which was followed by DBI (510.62 mg L\u207b\u00b9), and lowest in KI (61.44 mg L\u207b\u00b9). Among the products the mean value was 500.89 in the beet fortified product, 263.31 in the carrot fortified product and 85.07 in the plain product. Among the varieties it was highest in Gobindabhog (371.86) and lowest in Kalojira (211.38).",
+"reuse": null
+},
+{
+"idx": 278,
+"sec": "4.5.5 Calcium content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.66, with a coefficient of variation of 0.20 per cent.",
+"reuse": null
+},
+{
+"idx": 280,
+"sec": "4.5.5 Calcium content (mg L\u207b\u00b9)",
+"mode": "Discussion",
+"n": 172,
+"text": "The very large rise in calcium on fortification has an obvious and direct cause, namely that beetroot is a good source of calcium and its extract introduces a substantial quantity of the element into the batter (Singh and Hathan, 2014; Chhikara et al., 2019). Carrot contributes a smaller amount, which is why the carrot fortified treatments were intermediate (Sharma et al., 2012). Milled rice is very poor in calcium and black gram supplies only a moderate quantity, so the plain treatments recorded the lowest values (Rani et al., 2006; Gopalan et al., 2004). The gain is of practical nutritional importance because rice based diets are widely recognised to be deficient in calcium (Gopalan et al., 2004; Oghbaei and Prakash, 2016). It must, however, be read together with the parallel rise in phytate recorded in the same treatments, since phytate binds calcium and lowers its absorption, and the phytate to calcium ratio therefore decides how much of the added calcium is actually available (Reddy et al., 1982; Sandberg, 2002; Hemalatha et al., 2007).",
+"reuse": null
+},
+{
+"idx": 291,
+"sec": "4.6.1 Lightness (L*)",
+"mode": "Discussion",
+"n": 72,
+"text": "Lightness (Table 4.23 and Fig. 4.23) differed significantly among the twelve treatment combinations. It was highest in DI (72.92 L*), which was followed by KI (69.00 L*), and lowest in DBI (36.47 L*). Among the products the mean value was 67.73 in the plain product, 59.60 in the carrot fortified product and 40.70 in the beet fortified product. Among the varieties it was highest in Dudeshwar (57.03) and lowest in Kalojira (53.60).",
+"reuse": null
+},
+{
+"idx": 292,
+"sec": "4.6.1 Lightness (L*)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.62, with a coefficient of variation of 0.95 per cent.",
+"reuse": null
+},
+{
+"idx": 294,
+"sec": "4.6.1 Lightness (L*)",
+"mode": "Discussion",
+"n": 194,
+"text": "The most probable reason for the fall in lightness on fortification is the direct addition of a strongly coloured pigment to an otherwise white product. Beetroot introduces betacyanin, which absorbs strongly in the green region and produces a deep red to violet colour, while the carotenoids of carrot absorb in the blue region and darken the product to a smaller extent (Delgado-Vargas et al., 2000; Stintzing and Carle, 2004; Ravichandran et al., 2013). The consistently lower lightness of all Kalojira treatments is due to pigment carried over from the black husked kernel during milling and soaking (Lamberts et al., 2007; Sompong et al., 2011). Lightness is an important quality index because it is the colour attribute to which the human eye is most sensitive and it strongly influences the first impression of a steamed cereal product (Francis, 1995; Hutchings, 1999; Pathare et al., 2013). The values recorded show that both fortifying materials produced a change large enough to be immediately obvious to the consumer. Kaviyaselvan et al. (2026) recorded the same effect in idli prepared from black and red rice cultivars, in which the pigmented formulations gave much lower lightness than the non-pigmented ones.",
+"reuse": null
+},
+{
+"idx": 303,
+"sec": "4.6.2 Redness (a*)",
+"mode": "Discussion",
+"n": 72,
+"text": "Redness (Table 4.24 and Fig. 4.24) differed significantly among the twelve treatment combinations. It was highest in DCI (13.26 a*), which was followed by GCI (11.92 a*), and lowest in DI (-1.81 a*). Among the products the mean value was 11.57 in the carrot fortified product, 8.80 in the beet fortified product and -0.68 in the plain product. Among the varieties it was highest in Gobindabhog (7.49) and lowest in Dudeshwar (5.22).",
+"reuse": null
+},
+{
+"idx": 304,
+"sec": "4.6.2 Redness (a*)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 0.53 per cent.",
+"reuse": null
+},
+{
+"idx": 306,
+"sec": "4.6.2 Redness (a*)",
+"mode": "Discussion",
+"n": 177,
+"text": "Redness rose from a slightly negative value in the pale plain product because both fortifying materials shift the surface colour into the red region of the colour space, which is the most probable and direct explanation of the result. The all-trans beta-carotene of carrot gives an orange colour with a strong positive a* value, and the betacyanin of beetroot gives a red to violet colour with an equally strong positive a* value (Britton, 1995; Rodriguez-Amaya, 2001; Stintzing and Carle, 2004). The carrot fortified treatments recorded the highest values because carotenoids raise redness while lowering lightness comparatively little, whereas betalains raise redness but darken the product at the same time (Delgado-Vargas et al., 2000; Ravichandran et al., 2013; Pathare et al., 2013). Retention of both pigments through the steaming step is explained by the short duration and moist nature of the heating and by the mildly acidic pH of the fermented batter (Herbach et al., 2006; Azeredo, 2009). Comparable a* values and the same direction of change were reported for pigmented rice idli by Kaviyaselvan et al. (2026).",
+"reuse": null
+},
+{
+"idx": 315,
+"sec": "4.6.3 Yellowness (b*)",
+"mode": "Discussion",
+"n": 72,
+"text": "Yellowness (Table 4.25 and Fig. 4.25) differed significantly among the twelve treatment combinations. It was highest in DI (110.98 b*), which was followed by KI (106.16 b*), and lowest in DBI (59.45 b*). Among the products the mean value was 104.23 in the plain product, 95.93 in the carrot fortified product and 66.53 in the beet fortified product. Among the varieties it was highest in Gobindabhog (90.25) and lowest in Kalojira (85.47).",
+"reuse": null
+},
+{
+"idx": 316,
+"sec": "4.6.3 Yellowness (b*)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.52, with a coefficient of variation of 0.51 per cent.",
+"reuse": null
+},
+{
+"idx": 318,
+"sec": "4.6.3 Yellowness (b*)",
+"mode": "Discussion",
+"n": 153,
+"text": "The probable reason for the fall in yellowness is that the pale, faintly yellow starch matrix of the plain product was progressively replaced by red pigment as the extract was added, so the b* value declined even though the total pigment load rose (Francis, 1995; Pathare et al., 2013). Betalains absorb strongly across the blue and green region and depress the yellow component, which is why the beet fortified treatments recorded the lowest values (Stintzing and Carle, 2004; Ravichandran et al., 2013). The carrot fortified treatments retained a higher b* value because carotenoids are themselves yellow to orange pigments and add to rather than subtract from this component (Britton, 1995; Rodriguez-Amaya, 2001; Sharma et al., 2012). The relatively high yellowness of the plain product itself is attributable to the natural pigments of the grain and to the slight Maillard browning that occurs at the surface during steaming (Hutchings, 1999; Lamberts et al., 2007).",
+"reuse": null
+},
+{
+"idx": 327,
+"sec": "4.6.4 Total colour difference (\u0394E)",
+"mode": "Discussion",
+"n": 74,
+"text": "Total colour difference (Table 4.26 and Fig. 4.26) differed significantly among the twelve treatment combinations. It was highest in RCI (45.02 \u0394E), which was followed by DCI (42.99 \u0394E), and lowest in RI (28.70 \u0394E). Among the products the mean value was 40.00 in the carrot fortified product, 38.18 in the beet fortified product and 36.10 in the plain product. Among the varieties it was highest in Dudeshwar (40.96) and lowest in Gobindabhog (36.93).",
+"reuse": null
+},
+{
+"idx": 328,
+"sec": "4.6.4 Total colour difference (\u0394E)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.54, with a coefficient of variation of 1.23 per cent.",
+"reuse": null
+},
+{
+"idx": 330,
+"sec": "4.6.4 Total colour difference (\u0394E)",
+"mode": "Discussion",
+"n": 170,
+"text": "The total colour difference expresses the combined change in lightness, redness and yellowness relative to a reference, and the most probable reason for the high values recorded is simply that fortification altered all three coordinates at once (Pathare et al., 2013). Every fortified treatment exceeded the threshold of about three units at which a colour change becomes apparent to an untrained observer, and most exceeded it by more than ten times (Francis, 1995; Hutchings, 1999; Pathare et al., 2013). This confirms that fortification produced a visually distinct product rather than a subtle tint, which is exactly what is required of a natural colourant intended to improve consumer appeal (Delgado-Vargas et al., 2000; Stintzing and Carle, 2004; Chhikara et al., 2019). The magnitude of the change explains the high appearance scores awarded to these treatments by the sensory panel. Kaviyaselvan et al. (2026) similarly reported large colour differences in pigmented rice idli and attributed them mainly to the phenolic and pigment fraction of the grain rather than to the fermentation step.",
+"reuse": null
+},
+{
+"idx": 339,
+"sec": "4.6.5 Hue angle (\u00b0)",
+"mode": "Discussion",
+"n": 73,
+"text": "Hue angle (Table 4.27 and Fig. 4.27) differed significantly among the twelve treatment combinations. It was highest in KI (89.64 \u00b0), which was followed by DBI (85.91 \u00b0), and lowest in GI (-90.21 \u00b0). Among the products the mean value was 82.92 in the carrot fortified product, 82.47 in the beet fortified product and -44.86 in the plain product. Among the varieties it was highest in Kalojira (84.64) and lowest in Gobindabhog (24.74).",
+"reuse": null
+},
+{
+"idx": 340,
+"sec": "4.6.5 Hue angle (\u00b0)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.58, with a coefficient of variation of 1.27 per cent.",
+"reuse": null
+},
+{
+"idx": 342,
+"sec": "4.6.5 Hue angle (\u00b0)",
+"mode": "Discussion",
+"n": 166,
+"text": "The hue angle describes the position of the colour on the colour wheel, and the most probable reason for the very large shift recorded is that the plain product had almost no chromatic character while the fortified products carried a strong and definite red to orange hue (Francis, 1995; Pathare et al., 2013). In the plain product the a* value was close to zero, so the hue angle was unstable and took a strongly negative value; the addition of either pigment moved it decisively into the red region (Hutchings, 1999; Stintzing and Carle, 2004). Kalojira behaved differently from the other three varieties because pigment carried over from the black husk gives its plain product a chromatic character of its own even before fortification (Lamberts et al., 2007; Sompong et al., 2011). The stability of the hue in the finished product is explained by the resistance of both betalains and carotenoids to short moist heating at mildly acidic pH (Herbach et al., 2006; Ravichandran et al., 2013).",
+"reuse": null
+},
+{
+"idx": 351,
+"sec": "4.6.6 Chroma (C*)",
+"mode": "Discussion",
+"n": 72,
+"text": "Chroma (Table 4.28 and Fig. 4.28) differed significantly among the twelve treatment combinations. It was highest in DI (110.83 C*), which was followed by KI (106.09 C*), and lowest in DBI (59.72 C*). Among the products the mean value was 104.40 in the plain product, 96.63 in the carrot fortified product and 66.93 in the beet fortified product. Among the varieties it was highest in Gobindabhog (90.67) and lowest in Kalojira (85.75).",
+"reuse": null
+},
+{
+"idx": 352,
+"sec": "4.6.6 Chroma (C*)",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.52, with a coefficient of variation of 0.50 per cent.",
+"reuse": null
+},
+{
+"idx": 354,
+"sec": "4.6.6 Chroma (C*)",
+"mode": "Discussion",
+"n": 152,
+"text": "Chroma expresses colour saturation and is calculated from the a* and b* values together, so the probable reason for its pattern is that it was dominated by the very large b* values of the pale treatments (Francis, 1995; Pathare et al., 2013). The plain product therefore recorded the highest chroma and the beet fortified product the lowest, even though the latter was visually far more strongly coloured. This apparent contradiction is a known limitation of expressing the colour of dark pigmented foods in terms of chroma alone, since a dark and intensely coloured surface reflects little light and yields low tristimulus values (Hutchings, 1999; Delgado-Vargas et al., 2000; Pathare et al., 2013). The fortified products should therefore be understood as darker but not less saturated in appearance, an interpretation supported by their high sensory appearance scores and by the known behaviour of the betalain pigments concerned (Stintzing and Carle, 2004; Azeredo, 2009).",
+"reuse": null
+},
+{
+"idx": 365,
+"sec": "4.7.1 Hardness",
+"mode": "Discussion",
+"n": 69,
+"text": "Hardness (Table 4.29 and Fig. 4.29) differed significantly among the twelve treatment combinations. It was highest in KI (147.73), which was followed by GBI (107.27), and lowest in DI (45.09). Among the products the mean value was 96.85 in the plain product, 74.22 in the beet fortified product and 72.27 in the carrot fortified product. Among the varieties it was highest in Gobindabhog (96.96) and lowest in Radhunipagal (68.20).",
+"reuse": null
+},
+{
+"idx": 366,
+"sec": "4.7.1 Hardness",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.54, with a coefficient of variation of 0.58 per cent.",
+"reuse": null
+},
+{
+"idx": 368,
+"sec": "4.7.1 Hardness",
+"mode": "Discussion",
+"n": 218,
+"text": "The most probable reason for the softening of the product on fortification is the dilution of the structural network that gives idli its characteristic texture. That network is formed by the interaction of the surface active globulin and arabinogalactan of black gram with the gelatinised starch of rice, the protein stabilising the gas cells produced during fermentation and the starch setting around them during steaming (Reddy et al., 1981; Nisha et al., 2005; Durgadevi and Shetty, 2012). Replacing a part of these solids with a vegetable extract that contributes neither structural protein nor starch necessarily weakens the network and gives a more tender product (Sharma et al., 2012; Chhikara et al., 2019). A second and reinforcing reason is the amylose content of the treatments, since the plain products carried the most amylose and amylose retrogrades on cooling to form a firm gel that stiffens the crumb (Tester et al., 2004; Mohapatra and Bal, 2006; Copeland et al., 2009). The moisture contributed by the extract acts as a plasticiser and further lowers the measured hardness (Rosenthal, 1999; Bourne, 2002). Kaviyaselvan et al. (2026) recorded a similar softening of idli when half the rice flour was replaced with pearl millet and attributed it to differences in starch granule arrangement, amylose content and the integrity of the protein and starch matrix.",
+"reuse": null
+},
+{
+"idx": 377,
+"sec": "4.7.2 Adhesiveness",
+"mode": "Discussion",
+"n": 69,
+"text": "Adhesiveness (Table 4.30 and Fig. 4.30) differed significantly among the twelve treatment combinations. It was highest in DI (-0.19), which was followed by GBI (-0.60), and lowest in RI (-19.58). Among the products the mean value was -2.58 in the carrot fortified product, -6.10 in the plain product and -8.20 in the beet fortified product. Among the varieties it was highest in Kalojira (-1.67) and lowest in Radhunipagal (-12.45).",
+"reuse": null
+},
+{
+"idx": 378,
+"sec": "4.7.2 Adhesiveness",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of -0.73 per cent.",
+"reuse": null
+},
+{
+"idx": 380,
+"sec": "4.7.2 Adhesiveness",
+"mode": "Discussion",
+"n": 185,
+"text": "Adhesiveness expresses the work required to separate the product from the probe and therefore reflects the surface stickiness of the steamed idli, which is the most probable explanation for the differences recorded (Rosenthal, 1999; Bourne, 2002). The moisture and free sugars contributed by the vegetable extract alter the surface of the product and change the way it adheres, and the free sugars of beetroot in particular are known to increase the tackiness of a steamed cereal surface (Wilkinson et al., 2000; Singh and Hathan, 2014; Chhikara et al., 2019). The varietal differences are attributable to differences in amylose content, since leached amylose accumulates at the surface during steaming and is the principal source of stickiness in cooked rice (Tester et al., 2004; Mohapatra and Bal, 2006; Bhattacharya, 2011). The relatively high variability recorded for this character is common in texture profile analysis of soft porous foods and has been noted by several workers (Szczesniak, 2002; Bourne, 2002). Kaviyaselvan et al. (2026) recorded uniformly low adhesiveness in idli and related the small differences obtained to starch fluidity and the extent of gelatinisation in the steamed product.",
+"reuse": null
+},
+{
+"idx": 389,
+"sec": "4.7.3 Springiness",
+"mode": "Discussion",
+"n": 69,
+"text": "Springiness (Table 4.31 and Fig. 4.31) differed significantly among the twelve treatment combinations. It was highest in DI (1.04), which was followed by RI (1.02), and lowest in KBI (0.46). Among the products the mean value was 0.99 in the plain product, 0.73 in the carrot fortified product and 0.54 in the beet fortified product. Among the varieties it was highest in Radhunipagal (0.79) and lowest in Kalojira (0.69).",
+"reuse": null
+},
+{
+"idx": 390,
+"sec": "4.7.3 Springiness",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.68, with a coefficient of variation of 4.40 per cent.",
+"reuse": null
+},
+{
+"idx": 392,
+"sec": "4.7.3 Springiness",
+"mode": "Discussion",
+"n": 195,
+"text": "Springiness expresses the elastic recovery of the product after the first compression, and the most probable reason for its decline on fortification is the weakening of the amylose network that provides that elasticity. The amylose released during steaming re-associates as the product cools and forms a continuous gel that allows the crumb to spring back, so treatments with more amylose necessarily recover better (Tester et al., 2004; Mohapatra and Bal, 2006; Copeland et al., 2009). Since fortification lowered amylose, springiness fell with it, and the correlation between the two characters recorded in the present study supports this explanation. The gas cell structure produced during fermentation also contributes to elastic recovery, and the dilution of the black gram protein that stabilises those cells is a second likely reason for the fall (Reddy et al., 1981; Nisha et al., 2005; Durgadevi and Shetty, 2012). Comparable relationships between springiness and starch structure have been reported for other steamed cereal products (Rosenthal, 1999; Bourne, 2002). A comparable fall in springiness on partial replacement of the rice component was recorded by Kaviyaselvan et al. (2026), who concluded that the cereal fraction contributes to this attribute along with the black gram.",
+"reuse": null
+},
+{
+"idx": 401,
+"sec": "4.7.4 Cohesiveness",
+"mode": "Discussion",
+"n": 69,
+"text": "Cohesiveness (Table 4.32 and Fig. 4.32) differed significantly among the twelve treatment combinations. It was highest in KI (0.94), which was followed by GI (0.91), and lowest in KBI (0.40). Among the products the mean value was 0.85 in the plain product, 0.65 in the carrot fortified product and 0.54 in the beet fortified product. Among the varieties it was highest in Gobindabhog (0.78) and lowest in Dudeshwar (0.57).",
+"reuse": null
+},
+{
+"idx": 402,
+"sec": "4.7.4 Cohesiveness",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 5.50 per cent.",
+"reuse": null
+},
+{
+"idx": 404,
+"sec": "4.7.4 Cohesiveness",
+"mode": "Discussion",
+"n": 153,
+"text": "Cohesiveness measures the strength of the internal bonds that hold the product together, so the most probable reason for its fall on fortification is the dilution of the starch and protein matrix that supplies those bonds (Rosenthal, 1999; Bourne, 2002). Adding a vegetable extract introduces fibre and moisture but no structural protein, so the continuity of the matrix is interrupted and the crumb is more easily broken apart (Wilkinson et al., 2000; Sharma et al., 2012; Chhikara et al., 2019). The strong contribution of black gram protein to this property is well established, since the globulin and arabinogalactan of black gram form the film that binds the gas cell walls together (Reddy et al., 1981; Nisha et al., 2005; Durgadevi and Shetty, 2012). The retrograded amylose network provides a second binding mechanism, which explains why the treatments richest in amylose were also the most cohesive (Tester et al., 2004; Mohapatra and Bal, 2006).",
+"reuse": null
+},
+{
+"idx": 413,
+"sec": "4.7.5 Gumminess",
+"mode": "Discussion",
+"n": 69,
+"text": "Gumminess (Table 4.33 and Fig. 4.33) differed significantly among the twelve treatment combinations. It was highest in KI (11890.93), which was followed by GI (7980.59), and lowest in KBI (2164.66). Among the products the mean value was 7272.78 in the plain product, 3727.10 in the carrot fortified product and 3397.86 in the beet fortified product. Among the varieties it was highest in Gobindabhog (6053.10) and lowest in Dudeshwar (3446.84).",
+"reuse": null
+},
+{
+"idx": 414,
+"sec": "4.7.5 Gumminess",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 102.30, with a coefficient of variation of 1.84 per cent.",
+"reuse": null
+},
+{
+"idx": 416,
+"sec": "4.7.5 Gumminess",
+"mode": "Discussion",
+"n": 182,
+"text": "Gumminess is a secondary parameter calculated as the product of hardness and cohesiveness, so the most probable reason for its behaviour is simply that both of its components fell on fortification and the effect was therefore multiplied (Bourne, 2002; Szczesniak, 2002). Treatments that were both firm and strongly bound recorded very high values, while treatments that were soft and weakly bound recorded low ones. The underlying causes are those already discussed, namely the dilution of the black gram protein and rice starch network by the vegetable extract and the accompanying loss of amylose available for retrogradation (Reddy et al., 1981; Nisha et al., 2005; Tester et al., 2004; Durgadevi and Shetty, 2012). Since gumminess describes the energy needed to disintegrate a semi-solid food to a state ready for swallowing, the lower values of the fortified treatments correspond to a product that is easier to eat, which is consistent with their higher sensory texture scores (Rosenthal, 1999; Wilkinson et al., 2000). Kaviyaselvan et al. (2026) reported the same relationship in idli, gumminess and chewiness both falling when the rice component was partly replaced.",
+"reuse": null
+},
+{
+"idx": 425,
+"sec": "4.7.6 Chewiness",
+"mode": "Discussion",
+"n": 69,
+"text": "Chewiness (Table 4.34 and Fig. 4.34) differed significantly among the twelve treatment combinations. It was highest in KI (10263.60), which was followed by GI (6593.36), and lowest in KBI (945.13). Among the products the mean value was 6148.99 in the plain product, 2212.18 in the carrot fortified product and 1681.00 in the beet fortified product. Among the varieties it was highest in Kalojira (4364.63) and lowest in Dudeshwar (2049.58).",
+"reuse": null
+},
+{
+"idx": 426,
+"sec": "4.7.6 Chewiness",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 83.10, with a coefficient of variation of 2.14 per cent.",
+"reuse": null
+},
+{
+"idx": 428,
+"sec": "4.7.6 Chewiness",
+"mode": "Discussion",
+"n": 150,
+"text": "Chewiness is the product of gumminess and springiness and is therefore doubly dependent on the primary texture parameters, which is the most probable reason for the very wide range recorded (Bourne, 2002; Szczesniak, 2002). Treatments that were simultaneously hard, cohesive and elastic required the greatest work of mastication, and these were the plain products, in which the black gram protein and rice starch network was undiluted and the amylose content highest (Reddy et al., 1981; Nisha et al., 2005; Tester et al., 2004). The fortified treatments, in which all three primary parameters were lower, gave a product that broke down quickly in the mouth (Wilkinson et al., 2000; Durgadevi and Shetty, 2012). The close correspondence between these instrumental values and the texture scores awarded by the panel supports the position of Szczesniak (2002) and Rosenthal (1999) that instrumental texture profile analysis of a steamed cereal food reflects perceived texture reliably.",
+"reuse": null
+},
+{
+"idx": 437,
+"sec": "4.7.7 Resilience",
+"mode": "Discussion",
+"n": 69,
+"text": "Resilience (Table 4.35 and Fig. 4.35) differed significantly among the twelve treatment combinations. It was highest in GI (0.55), which was followed by KI (0.48), and lowest in RBI (0.19). Among the products the mean value was 0.46 in the plain product, 0.27 in the carrot fortified product and 0.22 in the beet fortified product. Among the varieties it was highest in Gobindabhog (0.36) and lowest in Radhunipagal (0.27).",
+"reuse": null
+},
+{
+"idx": 438,
+"sec": "4.7.7 Resilience",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.04, with a coefficient of variation of 11.71 per cent.",
+"reuse": null
+},
+{
+"idx": 440,
+"sec": "4.7.7 Resilience",
+"mode": "Discussion",
+"n": 149,
+"text": "Resilience expresses the instantaneous elastic recovery of the product during the first compression and is therefore closely related to springiness, which is the most probable reason for the two characters behaving alike (Rosenthal, 1999; Bourne, 2002). The recovery depends on the elasticity of the retrograded amylose gel and of the protein films surrounding the gas cells, and both of these were diluted by the vegetable extract (Reddy et al., 1981; Nisha et al., 2005; Tester et al., 2004). The relatively high coefficient of variation recorded for this character is expected, since resilience is measured over a very short interval and is sensitive to small differences in the porosity of individual samples, a limitation noted for soft aerated foods generally (Wilkinson et al., 2000; Szczesniak, 2002; Durgadevi and Shetty, 2012). Kaviyaselvan et al. (2026) likewise found resilience to be influenced by both the cultivar and the composition of the product.",
+"reuse": null
+},
+{
+"idx": 451,
+"sec": "4.8.1 Aroma score",
+"mode": "Discussion",
+"n": 70,
+"text": "Aroma score (Table 4.36 and Fig. 4.36) differed significantly among the twelve treatment combinations. It was highest in GI (7.70), which was followed by GCI (7.25), and lowest in KCI (5.65). Among the products the mean value was 6.82 in the plain product, 6.40 in the beet fortified product and 6.24 in the carrot fortified product. Among the varieties it was highest in Gobindabhog (7.37) and lowest in Dudeshwar (5.83).",
+"reuse": null
+},
+{
+"idx": 452,
+"sec": "4.8.1 Aroma score",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.54, with a coefficient of variation of 7.14 per cent.",
+"reuse": null
+},
+{
+"idx": 454,
+"sec": "4.8.1 Aroma score",
+"mode": "Discussion",
+"n": 171,
+"text": "The most probable reason for the high aroma scores of the plain products of the aromatic landraces is that 2-acetyl-1-pyrroline, the principal volatile responsible for the characteristic aroma of scented rice, survives the entire preparation sequence of soaking, grinding, fermentation and steaming (Buttery et al., 1983; Bhattacharjee et al., 2002; Yoshihashi et al., 2002). Its retention under moist heat has been demonstrated repeatedly, and the aroma of a scented landrace is therefore expressed in cooked and processed products as well as in the grain itself (Wongpornchai et al., 2004; Champagne, 2008; Sakthivel et al., 2009). The lower scores of the fortified treatments within each aromatic variety are most probably due to sensory masking, since the earthy geosmin of beetroot and the terpenes of carrot compete with the rice volatile for the attention of the panel rather than destroying it chemically (Sharma et al., 2012; Ghosh and Roychoudhury, 2018; Chhikara et al., 2019). A small loss through volatilisation during the long fermentation of the batter may also contribute (Blandino et al., 2003).",
+"reuse": null
+},
+{
+"idx": 463,
+"sec": "4.8.2 Taste score",
+"mode": "Discussion",
+"n": 70,
+"text": "Taste score (Table 4.37 and Fig. 4.37) differed significantly among the twelve treatment combinations. It was highest in KBI (7.69), which was followed by RBI (7.29), and lowest in DI (5.16). Among the products the mean value was 7.11 in the beet fortified product, 6.76 in the carrot fortified product and 6.06 in the plain product. Among the varieties it was highest in Kalojira (7.23) and lowest in Dudeshwar (5.91).",
+"reuse": null
+},
+{
+"idx": 464,
+"sec": "4.8.2 Taste score",
+"mode": "Discussion",
+"n": 11,
+"text": "The variety and product interaction was not significant for this character.",
+"reuse": null
+},
+{
+"idx": 466,
+"sec": "4.8.2 Taste score",
+"mode": "Discussion",
+"n": 167,
+"text": "The most probable reason for the improvement in taste on fortification is the free sugar contributed by the vegetable extract, since beetroot and carrot both carry appreciable quantities of sucrose and reducing sugars that sweeten the product perceptibly (Sharma et al., 2012; Singh and Hathan, 2014; Chhikara et al., 2019). The organic acids produced during lactic fermentation give idli its characteristic mild sourness, and the added sweetness balances this acidity and improves the overall taste impression (Soni and Sandhu, 1990; Nout and Sarkar, 1999; Blandino et al., 2003). A second and less direct reason is that the visual appeal of a coloured product raises the scores given for taste, an interaction between the senses that is well documented in sensory evaluation (Amerine et al., 1965; Francis, 1995; Meilgaard et al., 2007). The non-significant interaction indicates that this gain was of the same magnitude in all four varieties, so the effect is a property of the fortifying material rather than of any particular landrace (Pal et al., 2019).",
+"reuse": null
+},
+{
+"idx": 475,
+"sec": "4.8.3 Flavour score",
+"mode": "Discussion",
+"n": 70,
+"text": "Flavour score (Table 4.38 and Fig. 4.38) differed significantly among the twelve treatment combinations. It was highest in KBI (7.96), which was followed by RBI (7.56), and lowest in DI (5.46). Among the products the mean value was 7.38 in the beet fortified product, 7.13 in the carrot fortified product and 6.31 in the plain product. Among the varieties it was highest in Kalojira (7.50) and lowest in Dudeshwar (6.34).",
+"reuse": null
+},
+{
+"idx": 476,
+"sec": "4.8.3 Flavour score",
+"mode": "Discussion",
+"n": 27,
+"text": "The variety and product interaction was significant, the critical difference at the 5 per cent level being 0.28, with a coefficient of variation of 3.51 per cent.",
+"reuse": null
+},
+{
+"idx": 478,
+"sec": "4.8.3 Flavour score",
+"mode": "Discussion",
+"n": 143,
+"text": "Flavour combines the perception of aroma and taste, and the most probable reason for the highest scores being obtained by the fortified treatments is that the gain in taste from the added sugars outweighed the small loss of rice aroma caused by masking (Amerine et al., 1965; Meilgaard et al., 2007). The organic acids and volatile esters formed during lactic fermentation also contribute positively to the flavour of the product, and their concentration is influenced by the fermentable substrate available in the batter, which the vegetable extract increases (Soni and Sandhu, 1990; Nout and Sarkar, 1999; Blandino et al., 2003; Ganzle, 2014). Kalojira scored highest, most probably because its own pigment and phenolic fraction contribute a mild astringency that the panel perceived as depth of flavour, an effect reported for pigmented rice products by Sompong et al. (2011) and Pal et al. (2019).",
+"reuse": null
+},
+{
+"idx": 487,
+"sec": "4.8.4 Texture score",
+"mode": "Discussion",
+"n": 70,
+"text": "Texture score (Table 4.39 and Fig. 4.39) differed significantly among the twelve treatment combinations. It was highest in KBI (8.14), which was followed by RBI (7.74), and lowest in DI (5.64). Among the products the mean value was 7.56 in the beet fortified product, 7.32 in the carrot fortified product and 6.49 in the plain product. Among the varieties it was highest in Kalojira (7.69) and lowest in Dudeshwar (6.52).",
+"reuse": null
+},
+{
+"idx": 488,
+"sec": "4.8.4 Texture score",
+"mode": "Discussion",
+"n": 11,
+"text": "The variety and product interaction was not significant for this character.",
+"reuse": null
+},
+{
+"idx": 490,
+"sec": "4.8.4 Texture score",
+"mode": "Discussion",
+"n": 141,
+"text": "The most probable reason for the higher texture scores of the fortified treatments is that the panel preferred a softer, less chewy and more readily broken product, and the instrumental measurements confirm that this is exactly what fortification produced (Bourne, 2002; Szczesniak, 2002). Consumers of idli expect a soft and spongy crumb, and the dilution of the starch and protein network by the vegetable extract, together with the moisture it contributes, gave precisely that character (Reddy et al., 1981; Nisha et al., 2005; Durgadevi and Shetty, 2012). The close agreement between the instrumental values and the panel scores supports the position of Rosenthal (1999), Wilkinson et al. (2000) and Szczesniak (2002) that texture profile analysis of a steamed cereal product predicts perceived texture reliably, and it means that the instrumental measurement can be used to screen new formulations before sensory evaluation.",
+"reuse": null
+},
+{
+"idx": 499,
+"sec": "4.8.5 Appearance score",
+"mode": "Discussion",
+"n": 70,
+"text": "Appearance score (Table 4.40 and Fig. 4.40) differed significantly among the twelve treatment combinations. It was highest in KBI (8.89), which was followed by RBI (8.49), and lowest in DI (6.39). Among the products the mean value was 8.31 in the beet fortified product, 8.06 in the carrot fortified product and 7.24 in the plain product. Among the varieties it was highest in Kalojira (8.43) and lowest in Dudeshwar (7.27).",
+"reuse": null
+},
+{
+"idx": 500,
+"sec": "4.8.5 Appearance score",
+"mode": "Discussion",
+"n": 11,
+"text": "The variety and product interaction was not significant for this character.",
+"reuse": null
+},
+{
+"idx": 502,
+"sec": "4.8.5 Appearance score",
+"mode": "Discussion",
+"n": 137,
+"text": "The most probable reason for the very high appearance scores of the fortified treatments is the introduction of an attractive natural colour into what is otherwise a plain white product. The colour difference recorded for every fortified treatment was many times above the threshold at which a change becomes visible, so the difference in appearance was immediately obvious to the panel (Francis, 1995; Hutchings, 1999; Pathare et al., 2013). Consumers respond positively to natural pigments in traditional foods, particularly when the colour is recognisably derived from a familiar vegetable rather than from a synthetic additive (Delgado-Vargas et al., 2000; Stintzing and Carle, 2004; Chhikara et al., 2019). Similar improvements in the appearance rating of traditional Indian foods after the addition of pigment rich fractions have been reported by Pal et al. (2019) and Bagchi et al. (2020).",
+"reuse": null
+},
+{
+"idx": 511,
+"sec": "4.8.6 Cooking quality score",
+"mode": "Discussion",
+"n": 71,
+"text": "Cooking quality score (Table 4.41 and Fig. 4.41) differed significantly among the twelve treatment combinations. It was highest in KBI (8.44), which was followed by RBI (8.04), and lowest in DI (5.94). Among the products the mean value was 7.86 in the beet fortified product, 7.61 in the carrot fortified product and 6.79 in the plain product. Among the varieties it was highest in Kalojira (7.98) and lowest in Dudeshwar (6.82).",
+"reuse": null
+},
+{
+"idx": 512,
+"sec": "4.8.6 Cooking quality score",
+"mode": "Discussion",
+"n": 11,
+"text": "The variety and product interaction was not significant for this character.",
+"reuse": null
+},
+{
+"idx": 514,
+"sec": "4.8.6 Cooking quality score",
+"mode": "Discussion",
+"n": 133,
+"text": "Cooking quality as judged by the panel covers the shape, surface finish and uniformity of the steamed product, and the most probable reason for the higher scores of the fortified treatments is that the added moisture and fibre improved the flow of the batter and allowed it to spread evenly in the mould (Reddy et al., 1981; Nisha et al., 2005; Durgadevi and Shetty, 2012). A batter of suitable consistency retains the gas produced during fermentation more evenly and yields a product of regular shape and smooth surface (Mukherjee et al., 1965; Soni and Sandhu, 1990; Sridevi et al., 2010). The uniform colour of the fortified products may also have contributed indirectly, since surface irregularities are less conspicuous on a coloured background than on a white one (Hutchings, 1999; Pathare et al., 2013).",
+"reuse": null
+},
+{
+"idx": 523,
+"sec": "4.8.7 Overall acceptability score",
+"mode": "Discussion",
+"n": 71,
+"text": "Overall acceptability score (Table 4.42 and Fig. 4.42) differed significantly among the twelve treatment combinations. It was highest in KBI (8.64), which was followed by RBI (8.24), and lowest in DI (6.14). Among the products the mean value was 8.06 in the beet fortified product, 7.82 in the carrot fortified product and 6.99 in the plain product. Among the varieties it was highest in Kalojira (8.19) and lowest in Dudeshwar (7.02).",
+"reuse": null
+},
+{
+"idx": 524,
+"sec": "4.8.7 Overall acceptability score",
+"mode": "Discussion",
+"n": 11,
+"text": "The variety and product interaction was not significant for this character.",
+"reuse": null
+},
+{
+"idx": 526,
+"sec": "4.8.7 Overall acceptability score",
+"mode": "Discussion",
+"n": 185,
+"text": "Overall acceptability is a composite judgement, and the most probable reason for the ranking obtained is that the fortified treatments were superior for the three attributes that weigh most heavily in it, namely appearance, texture and taste (Amerine et al., 1965; Meilgaard et al., 2007). The natural pigment made the product visually attractive, the dilution of the starch and protein network made it softer and easier to eat, and the free sugars of the extract improved its taste (Reddy et al., 1981; Sharma et al., 2012; Pathare et al., 2013; Chhikara et al., 2019). The small loss of rice aroma did not offset these gains, which is consistent with the finding that aroma alone was not correlated with acceptability in the present data. The non-significant interaction is an important practical result, since it shows that the advantage of fortification was of the same magnitude in every variety and is therefore a general property of the treatment rather than of any one landrace, a conclusion in line with the reports of Pal et al. (2019) and Bagchi et al. (2020) on pigment enriched traditional Indian foods.",
+"reuse": null
+},
+{
+"idx": 529,
+"sec": "4.9 Correlation among the quality parameters",
+"mode": "Discussion",
+"n": 123,
+"text": "The relations among the forty two quality parameters were examined by working out the Pearson correlation coefficient over twenty four treatment means, that is the twelve treatment combinations in each of the two years. The full matrix is presented as a heat map in Fig. 4.43 and the correlation of overall acceptability with every other parameter in Table 4.43. At twenty two degrees of freedom the coefficient must exceed 0.404 to be significant at the 5 per cent level and 0.515 at the 1 per cent level (Snedecor and Cochran, 1994). It should be kept in mind throughout that a correlation shows only that two characters moved together in this data set. It does not by itself prove that one caused the other.",
+"reuse": null
+},
+{
+"idx": 535,
+"sec": "4.9 Correlation among the quality parameters",
+"mode": "Discussion",
+"n": 160,
+"text": "The three bioactive fractions were very closely related. Total phenol was correlated with total flavonoid (r = 0.983) and with total antioxidant activity (r = 0.971), and total flavonoid with total antioxidant activity (r = 0.945), all three significant at the 1 per cent level. Coefficients of this size are not surprising, because the three assays measure the same group of compounds. The DPPH assay records the hydrogen donating power of the phenolic and flavonoid pool, so its value must follow that pool, as has also been reported for rice by Goufo and Trindade (2014) and for idli by Kaviyaselvan et al. (2026). Total soluble protein was correlated with total phenol (r = 0.767) and phytate with total phenol (r = 0.632). These two relations have a different basis, namely that protein, phytate and bound phenolic acids all lie together in the aleurone and sub-aleurone layers of the grain, so a treatment that raises one tends to raise the others.",
+"reuse": null
+},
+{
+"idx": 536,
+"sec": "4.9 Correlation among the quality parameters",
+"mode": "Discussion",
+"n": 148,
+"text": "The carbohydrate fractions were negatively related to the bioactive fractions throughout. Total carbohydrate was negatively correlated with total phenol (r = -0.913) and starch with total antioxidant activity (r = -0.955). Total carbohydrate was itself correlated with starch (r = 0.895) and amylose (r = 0.824), and lightness with yellowness (r = 0.995) and with total carbohydrate (r = 0.832). This whole block of coefficients expresses a single gradient rather than several separate effects. Each gram of vegetable extract added to the batter replaces a gram of rice and black gram, so starch is removed and pigment is added in the same step (Chhikara et al., 2019). The fortified products were therefore darker, lower in starch and richer in antioxidants at the same time, and lightness moved with total carbohydrate because the pale colour of the plain product comes from its undiluted starch matrix (Pathare et al., 2013).",
+"reuse": null
+},
+{
+"idx": 537,
+"sec": "4.9 Correlation among the quality parameters",
+"mode": "Discussion",
+"n": 135,
+"text": "Several of the textural coefficients are mechanical rather than biological. Hardness was correlated with gumminess (r = 0.913) and chewiness (r = 0.816), which follows from the fact that both are calculated from hardness and cohesiveness rather than measured directly (Bourne, 2002). Springiness was correlated with amylose (r = 0.640) and cohesiveness with amylose (r = 0.484), because amylose forms the gel that lets the crumb recover after compression, so a product with more amylose is firmer and more elastic (Tester et al., 2004). Resistant starch was negatively correlated with the predicted glycaemic index (r = -0.587), which is expected since resistant starch is the fraction that escapes digestion. Ash was correlated with calcium (r = 0.804), which shows that the mineral load of the product was governed largely by the calcium supplied by beetroot.",
+"reuse": null
+},
+{
+"idx": 538,
+"sec": "4.9 Correlation among the quality parameters",
+"mode": "Discussion",
+"n": 210,
+"text": "The coefficients obtained for overall acceptability indicate what the panel actually responded to. It was negatively correlated with total carbohydrate (r = -0.895), non-resistant starch (r = -0.716), starch (r = -0.710), springiness (r = -0.691) and lightness (r = -0.662), and positively correlated with total flavonoid (r = 0.782), total antioxidant activity (r = 0.780), total phenol (r = 0.773), hue angle (r = 0.762), phytate (r = 0.753) and total soluble protein (r = 0.746). In other words the panel gave low scores to products that were starchy, springy and pale and high scores to products that were coloured and pigment rich, which is the profile of the fortified treatments. The likely reason is that colour and tenderness decide the acceptability of a steamed cereal food more than any single chemical constituent does (Pathare et al., 2013; Kaviyaselvan et al., 2026). The positive coefficients for phytate and total soluble protein should not be read as causes, since these constituents simply rose in the same treatments that were fortified and therefore moved with acceptability without influencing it. Aroma was the only sensory attribute not correlated with acceptability (r = -0.123), most probably because aroma comes from the 2-acetyl-1-pyrroline of the rice while acceptability was decided by colour and texture.",
+"reuse": null
+},
+{
+"idx": 539,
+"sec": "4.9 Correlation among the quality parameters",
+"mode": "Discussion",
+"n": 70,
+"text": "One feature of the matrix requires comment. Taste, flavour, texture, appearance, cooking quality and overall acceptability were correlated with one another at exactly unity, the six scores differing only by a constant. This is a property of the way the scores were recorded and not a biological finding. Their relations with the physico-chemical parameters are therefore identical, and only overall acceptability has been used in the multivariate analyses that follow.",
+"reuse": null
+},
+{
+"idx": 542,
+"sec": "4.10 Principal component analysis",
+"mode": "Discussion",
+"n": 134,
+"text": "Principal component analysis was carried out on the standardised values of the forty two parameters over the twenty four treatment means. The method takes a large number of related parameters and finds a few new axes that carry most of the variation, each axis being a weighted mixture of the original parameters. The weights are called loadings, and a high loading means that the parameter contributes strongly to that axis (Jolliffe, 2002). Only components with an eigenvalue above unity were retained, which is the usual practice for food quality data in which many related characters are measured on the same samples (Granato et al., 2018). The eigenvalues are given in Table 4.44, the scree plot in Fig. 4.44, the loadings in Table 4.45 and the biplot of the first two components in Fig. 4.45.",
+"reuse": null
+},
+{
+"idx": 553,
+"sec": "4.10 Principal component analysis",
+"mode": "Discussion",
+"n": 63,
+"text": "Seven components had an eigenvalue above unity. The first component explained 50.12 per cent of the total variation and the second 14.12 per cent, the two together accounting for 64.24 per cent and the first five components for 86.66 per cent. A first component of this size shows that one main effect runs through the whole data set rather than several independent effects.",
+"reuse": null
+},
+{
+"idx": 554,
+"sec": "4.10 Principal component analysis",
+"mode": "Discussion",
+"n": 137,
+"text": "The loadings show what that effect is. The positive end of the first component was defined by total antioxidant activity (1.005), total phenol (0.968), total flavonoid (0.942), total soluble sugar (0.905) and overall acceptability (0.874), and the negative end by total carbohydrate (-0.988), non-resistant starch (-0.965), starch (-0.963), lightness (-0.927), yellowness (-0.893), chroma (-0.888), springiness (-0.875) and amylose (-0.836). This is the same dilution gradient seen in the correlation matrix, since adding a vegetable extract removes starch and adds pigment in one step, so all these parameters must move together in a fixed pattern (Chhikara et al., 2019). The first component can therefore be described as a fortification axis. A single dominant component of this kind is common in fortified and fermented cereal products, where one processing step alters many characters at once (Granato et al., 2018).",
+"reuse": null
+},
+{
+"idx": 555,
+"sec": "4.10 Principal component analysis",
+"mode": "Discussion",
+"n": 118,
+"text": "The second component carried a much smaller share of the variation. Its positive end was defined by total protein (0.922), aroma (0.658), manganese (0.617), gumminess (0.608) and hardness (0.592), and its negative end by resistant starch (-0.783), beta-carotene (-0.644) and total colour difference (-0.590). This axis separates the carrot fortified treatments from the rest. The probable reason is that the two fortifying materials behave differently. Carrot supplies carotenoid and dietary fibre but very little free sugar, so it raises beta-carotene and resistant starch and leaves the product firmer, whereas beetroot supplies free sugar and betalain instead (Sharma et al., 2012). The second component therefore describes the difference between the two vegetables rather than any difference between the varieties.",
+"reuse": null
+},
+{
+"idx": 556,
+"sec": "4.10 Principal component analysis",
+"mode": "Discussion",
+"n": 205,
+"text": "The biplot presents the same result in picture form. Treatments lying close together have a similar quality profile, and a treatment lying near a vector is high in that parameter (Jolliffe, 2002). The twelve treatments separated into three clear groups along the first component in the order plain, carrot fortified and beet fortified, while the four varieties fell in the same order within every group, namely Dudeshwar, Gobindabhog, Radhunipagal and Kalojira. This means that fortification decided the broad position of a treatment and variety decided its position within the group, so fortification was the stronger factor and variety the weaker one. KBI took the extreme positive position, close to the phenol, flavonoid, antioxidant and anthocyanin vectors, and DI the extreme negative position, close to the starch, carbohydrate and lightness vectors. The two years of each treatment always fell close together, most probably because the treatment effects were repeatable across the two seasons, and this provides independent support for pooling the data. A similar use of the method was made by Kaviyaselvan et al. (2026), who applied principal component analysis to twenty seven colour, textural and nutritional attributes of idli and used the position of the products on the biplot to identify the most promising formulations.",
+"reuse": null
+},
+{
+"idx": 559,
+"sec": "4.11 Cluster analysis",
+"mode": "Discussion",
+"n": 119,
+"text": "Cluster analysis was carried out on the standardised values of the forty two parameters of the twelve treatment combinations in order to group the treatments according to their overall quality. The squared Euclidean distance was used as the measure of dissimilarity and the groups were formed by the minimum variance method of Ward (1963), which is widely used for food quality data because it gives compact groups of nearly equal size (Everitt et al., 2011). The dendrogram is given in Fig. 4.46, the composition of the clusters in Table 4.46 and the cluster means in Table 4.47. The cophenetic correlation coefficient was 0.793, which shows that the dendrogram represents the original distance matrix reasonably well (Murtagh and Legendre, 2014).",
+"reuse": null
+},
+{
+"idx": 568,
+"sec": "4.11 Cluster analysis",
+"mode": "Discussion",
+"n": 176,
+"text": "The twelve treatments formed four clusters at a linkage distance of about 9.4. Cluster I contained the three plain products of the aromatic landraces, namely GI, KI and RI. Cluster II contained DI alone. Cluster III contained all four carrot fortified products and Cluster IV all four beet fortified products. The important point is that the first division was decided by fortification and not by variety, since all four beet fortified treatments grouped together whatever the parent variety, and the same was true of the carrot fortified treatments. This confirms the result of the principal component analysis, namely that the type of fortification is the main source of variation in product quality. Variety mattered only at the second level, where the plain product of the non-aromatic check separated from the plain products of the three aromatic landraces and formed a cluster of its own. This separation is itself informative, because it shows that the quality of the non-aromatic check departs from that of the aromatic landraces more than any two aromatic landraces depart from each other.",
+"reuse": null
+},
+{
+"idx": 569,
+"sec": "4.11 Cluster analysis",
+"mode": "Discussion",
+"n": 197,
+"text": "The cluster means describe the four groups clearly. Cluster IV, the beet fortified group, recorded the highest total phenol (265.22 mg GAE 100 g\u207b\u00b9), total flavonoid (142.75 mg QE 100 g\u207b\u00b9), total antioxidant activity (393.44 mg TE 100 g\u207b\u00b9), total soluble protein (2.24 per cent), calcium (500.89 mg L\u207b\u00b9), anthocyanin (1.41) and overall acceptability (8.06), with the lowest amylose, starch, total carbohydrate and lightness. Cluster III, the carrot fortified group, was intermediate for the bioactive fractions but recorded by far the highest beta-carotene (38.85), the highest resistant starch among the fortified groups (1.69 per cent), the lowest predicted glycaemic index (60.49) and the highest redness (11.57). Cluster I, the plain aromatic group, showed high starch, the highest total protein (13.09 per cent), the greatest hardness (114.11) and a moderate acceptability of 7.28. Cluster II, made up of DI alone, recorded the highest amylose, starch and total carbohydrate and the lowest total phenol, flavonoid, antioxidant activity and overall acceptability (6.14). On this basis Cluster IV is the group of choice where a functional product of high antioxidant value and high acceptability is wanted, and Cluster III where a provitamin A rich product of low glycaemic response is wanted.",
+"reuse": null
+},
+{
+"idx": 573,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 82,
+"text": "The present experiment was undertaken to evaluate the sensory and nutritional quality of idli prepared from three traditional aromatic rice landraces of West Bengal, namely Gobindabhog, Radhunipagal and Kalojira, along with the non-aromatic check Dudeshwar, each used plain and fortified with carrot or beet extract. The experiment was laid out in a two factor completely randomised design with three replications and was repeated in two consecutive years, giving twelve treatment combinations and forty two quality parameters. The salient findings are summarised below.",
+"reuse": null
+},
+{
+"idx": 574,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 111,
+"text": "Pooling of the data was justified by the Bartlett chi-square test, which was non-significant for all but four characters. For manganese, ash, PGI and springiness an Aitken transformation was applied before analysis. The experiment was precise, the coefficient of variation remaining below 3 per cent for most characters, with the lowest values for calcium (0.20 per cent) and total phenol and antioxidant activity (0.34 per cent each). The variety and product interaction was highly significant for the great majority of the nutritional, mineral, colour and textural characters, showing that the four varieties did not respond identically to fortification. It was non-significant only for taste, texture, appearance, cooking quality and overall acceptability.",
+"reuse": null
+},
+{
+"idx": 575,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 104,
+"text": "Among the carbohydrate fractions, amylose ranged from 16.75 per cent in DI to 9.78 per cent in RBI, placing every combination in the low amylose class. Starch fell from 51.66 per cent in DI to 24.05 per cent in GBI and total carbohydrate from 60.21 to 40.91 per cent, while total soluble sugar rose in the opposite direction from 0.53 per cent in RI to 3.83 per cent in RBI. Resistant starch was highest in DCI (1.97 per cent) and the predicted glycaemic index lowest in RCI (58.46) and highest in KBI (75.08), the carrot fortified treatments consistently giving the most favourable glycaemic profile.",
+"reuse": null
+},
+{
+"idx": 576,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 96,
+"text": "Among the proximate constituents, total soluble protein ranged from 2.71 per cent in KBI to 1.05 per cent in DI and total protein from 13.44 per cent in KI to 10.92 per cent in DCI, the three aromatic landraces exceeding the non-aromatic check throughout. Fat was uniformly low at 0.17 to 0.28 per cent, as expected of a steamed product. Ash ranged from 5.21 per cent in GBI to 2.47 per cent in DI and phytate from 2.52 mg g\u207b\u00b9 in KBI to 0.82 mg g\u207b\u00b9 in GI, both being highest in the beet fortified treatments.",
+"reuse": null
+},
+{
+"idx": 577,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 98,
+"text": "The bioactive fractions showed the widest variation of any group of characters. Total phenol ranged from 290.97 mg GAE 100 g\u207b\u00b9 in KBI to 53.47 mg GAE 100 g\u207b\u00b9 in DI, a difference of more than five fold, and total flavonoid and total antioxidant activity followed the same order, from 171.34 to 42.95 mg QE 100 g\u207b\u00b9 and from 426.88 to 165.26 mg TE 100 g\u207b\u00b9 respectively. Beta-carotene was contributed almost entirely by carrot, reaching 45.77 in KCI against nil in every plain treatment, while anthocyanin was recorded only in the beet fortified treatments, reaching 1.86 in KBI.",
+"reuse": null
+},
+{
+"idx": 578,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 63,
+"text": "Among the minerals, calcium showed the greatest response to fortification, rising from 61.44 mg L\u207b\u00b9 in KI to 550.88 mg L\u207b\u00b9 in GBI. Copper was highest in GBI (0.97 mg L\u207b\u00b9), iron and zinc in RI (3.36 and 0.89 mg L\u207b\u00b9) and manganese in GI (0.69 mg L\u207b\u00b9). Manganese was the only character for which the main effect of fortification was not significant.",
+"reuse": null
+},
+{
+"idx": 579,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 97,
+"text": "Fortification altered the colour of the product markedly. Lightness fell from 72.92 in DI to 36.47 in DBI, redness rose from -1.81 in DI to 13.26 in DCI and yellowness fell from 110.98 to 59.45. The total colour difference ranged from 28.70 to 45.02, in every case far above the threshold at which a change becomes visible to an untrained eye. The texture was correspondingly softened, hardness falling from 147.73 in KI to 45.09 in DI, springiness from 1.04 to 0.46 and gumminess and chewiness from 11890.93 and 10263.60 in KI to their lowest values in KBI.",
+"reuse": null
+},
+{
+"idx": 580,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 72,
+"text": "On the sensory panel, aroma was scored highest in GI (7.70) and lowest in KCI (5.65), showing that the vegetable extract partly masks the native aroma of the rice. For every other attribute the fortified treatments were superior, overall acceptability ranging from 8.64 in KBI to 6.14 in DI. The non-significant interaction for the main sensory attributes established that the benefit of fortification was of the same magnitude in all four varieties.",
+"reuse": null
+},
+{
+"idx": 581,
+"sec": "4.12.1 Summary",
+"mode": "Discussion",
+"n": 102,
+"text": "The multivariate analyses reinforced these findings. Correlation showed that overall acceptability was governed chiefly by colour and texture, being negatively related to total carbohydrate (r = -0.895) and positively to total flavonoid (r = 0.782). Principal component analysis extracted a first component explaining 50.12 per cent of the variation, which separated the plain, carrot fortified and beet fortified products along a single fortification gradient. Cluster analysis grouped the twelve treatments into four clusters in which the first division was again decided by fortification and not by variety, the plain product of the non-aromatic check standing apart as a cluster of its own.",
+"reuse": null
+},
+{
+"idx": 583,
+"sec": "4.12.2 Conclusion",
+"mode": "Discussion",
+"n": 82,
+"text": "It may be concluded from the present experiment that the variety, the type of fortification and their interaction all exert a significant influence on the nutritional, mineral, colour, textural and sensory quality of idli prepared from aromatic rice, and that fortification is the stronger of the two factors. Both the principal component analysis and the cluster analysis identified fortification, and not variety, as the main source of variation in product quality, while variety operated at a second level within each product group.",
+"reuse": null
+},
+{
+"idx": 584,
+"sec": "4.12.2 Conclusion",
+"mode": "Discussion",
+"n": 80,
+"text": "The three aromatic landraces were superior to the non-aromatic check Dudeshwar for protein, phenol, flavonoid, antioxidant potential and every sensory attribute examined. This provides a sound nutritional justification, in addition to the cultural and aromatic value already recognised, for the continued cultivation and conservation of these landraces. Among them Kalojira was the richest in the bioactive fractions, Gobindabhog carried the best mineral profile with the lowest phytate load, and Radhunipagal gave the softest product with the highest iron and zinc.",
+"reuse": null
+},
+{
+"idx": 585,
+"sec": "4.12.2 Conclusion",
+"mode": "Discussion",
+"n": 110,
+"text": "Fortification with beet extract raised total phenol about three fold, antioxidant activity about two fold and calcium about six fold, and was the sole source of anthocyanin, while fortification with carrot extract was the sole source of beta-carotene and gave the highest resistant starch with the lowest predicted glycaemic index. Both treatments softened the product, improved its colour and raised its acceptability, and did so to the same extent in every variety. The gain in minerals is, however, partly offset by an accompanying rise in phytate, so the phytate to mineral ratio rather than the mineral content alone should be used to judge the nutritional value of the fortified product.",
+"reuse": null
+},
+{
+"idx": 586,
+"sec": "4.12.2 Conclusion",
+"mode": "Discussion",
+"n": 87,
+"text": "On the basis of overall performance, KBI, that is idli prepared from Kalojira and fortified with beet extract, is recommended as the best combination, since it recorded the highest total phenol, flavonoid, antioxidant activity, soluble protein, anthocyanin and overall acceptability. KCI is recommended where a provitamin A rich product of low glycaemic response is required and GBI where a mineral enriched product is required. The plain product of the non-aromatic check was the poorest treatment for almost every character examined and is not suited to this purpose.",
+"reuse": null
+},
+{
+"idx": 587,
+"sec": "4.12.2 Conclusion",
+"mode": "Discussion",
+"n": 79,
+"text": "The wider significance of these findings is that a traditional fermented food can be enriched in phenolics, antioxidants, provitamin A and minerals using nothing more than two commonly available vegetables, without recourse to any synthetic colourant, additive or fortificant, and without any loss of consumer acceptance. This offers a practical route for adding value to the aromatic rice landraces of West Bengal and for improving the nutritional quality of a food that is consumed daily by a large population.",
+"reuse": null
+},
+{
+"idx": 588,
+"sec": "4.12.2 Conclusion",
+"mode": "Discussion",
+"n": 119,
+"text": "Certain limitations should be recognised. The study was confined to four varieties and to a single level of fortification, and the sensory evaluation was carried out by a semi-trained panel rather than a consumer panel. The bioaccessibility of the added minerals and pigments was not measured directly, and the shelf life and microbiological stability of the fortified batter were not examined. Further work may therefore be directed towards optimising the level of vegetable extract, measuring the in vitro bioaccessibility of the added iron, zinc and calcium in the presence of the observed phytate, characterising the individual phenolic acids and betalains by chromatographic methods, and evaluating the storage behaviour and consumer acceptance of the fortified product on a larger scale.",
+"reuse": null
+}
+]

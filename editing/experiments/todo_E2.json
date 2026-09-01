@@ -1,0 +1,1914 @@
+[
+{
+"idx": 8,
+"sec": "",
+"mode": "",
+"n": 99,
+"text": "The seven products in this experiment were prepared from nine traditional aromatic rice cultivars of West Bengal, with Dudeshwar, a non-aromatic cultivar, included as the control. Each product was laid out in a completely randomised design with three replications and repeated over two years. The two years were analysed together as a pooled design, with year as a fixed effect and cultivar as a random effect. The model was Yijk = mu + Yi + Tj + (YT)ij + eijk, and the degrees of freedom were year 1, cultivar 9, year by cultivar 9, error 40 and total 59.",
+"reuse": null
+},
+{
+"idx": 9,
+"sec": "",
+"mode": "",
+"n": 146,
+"text": "The results are set out in two parts. Part A covers the four cooked products, table rice, kichidi, pulao and payash, and Part B the three processed products, popped rice, puffed rice and flattened rice. Within each part every attribute is presented once for the group, with all the products of that part set together in one table and one figure, both giving the means pooled over the two years. Means were separated at the 5 per cent level and are reported with letter groupings; a cultivar is taken to differ from the control only where the two share no letter. Throughout, ** denotes significance at 1 per cent, * at 5 per cent and NS non-significance. Since a high value is favourable for some attributes and a low value for others, each cultivar is compared with the control in the direction appropriate to that attribute.",
+"reuse": null
+},
+{
+"idx": 10,
+"sec": "",
+"mode": "",
+"n": 42,
+"text": "Each part closes with a composite quality score index, a check on the weights of that index using principal component analysis, a cluster analysis of the cultivar and product combinations, and a conclusion. Tables and figures are numbered continuously through both parts.",
+"reuse": "Each part concludes with a composite quality score index, a verification of the weights of that index by principal component analysis, a cluster analysis of the cultivar and product combinations, and a conclusion. Tables and figures are numbered consecutively through both parts."
+},
+{
+"idx": 16,
+"sec": "",
+"mode": "",
+"n": 17,
+"text": "Cultivars: DD, GB, HK, KB, KJ, KN, LB, RP, RT, TP. Products: Table rice, Kichidi, Pulao, Payash.",
+"reuse": null
+},
+{
+"idx": 19,
+"sec": "",
+"mode": "",
+"n": 138,
+"text": "Results. In table rice the values ranged from 15.63 in Harinakhuri to 19.82 % in Kalojira. The control recorded 17.19 %, 8 cultivars exceeded the control, and Kalojira gave the most favourable value. Tulaipanjii recorded the highest value in kichidi at 9.11 % and Kalonunia the lowest at 6.14 %. Against 6.77 % for the control, 3 cultivars exceeded the control, and Tulaipanjii was the most favourable entry. For pulao the values lay between 16.30 and 20.57 %, with the control at 18.35 %. Here 2 cultivars exceeded the control and Kalojira ranked highest. In payash the values ranged from 16.74 in Harinakhuri to 21.02 % in Kalojira. The control recorded 18.91 %, 3 cultivars exceeded the control, and Kalojira gave the most favourable value. The means are set out in Table 1 and shown in Fig. 1.",
+"reuse": null
+},
+{
+"idx": 20,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Cultivars differed significantly in all the products. The year effect was significant in 1 product and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.91 to 3.19 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 22,
+"sec": "",
+"mode": "",
+"n": 67,
+"text": "Discussion. Amylose content determines the firmness and separateness of the cooked grain. A higher content gives a firmer, drier grain that holds its shape, and a lower content a softer, stickier one. Amylose is laid down by granule bound starch synthase I at the Waxy locus, and cultivars differ in the allele they carry. Cooking disorganises the granule but does not alter the amount of amylose present.",
+"reuse": null
+},
+{
+"idx": 23,
+"sec": "",
+"mode": "",
+"n": 85,
+"text": "Earlier work reports much the same. Muchlisyiyah et al. (2023) found apparent amylose decides eating and processing behaviour; Tian et al. (2018) found crystallinity and digestibility fall without amylose changing; Cheng et al. (2019) found heat and moisture rebuild the matrix into a firmer gel; Devi and Badwaik (2022) found amylose explains most of the varietal difference in cooking. The most favourable entry differed between products. Kalojira and Tulaipanjii each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 26,
+"sec": "",
+"mode": "",
+"n": 143,
+"text": "Results. Radhunipagal recorded the highest value in table rice at 28.07 % and Kataribhog the lowest at 20.49 %. Against 23.45 % for the control, 5 cultivars exceeded the control, and Radhunipagal was the most favourable entry. For kichidi the values lay between 34.24 and 42.72 %, with the control at 38.36 %. Here 6 cultivars exceeded the control and Lal Badshabhog ranked highest. In pulao the values ranged from 20.66 in Dudeshwar to 28.51 % in Kataribhog. The control recorded 20.66 %, 8 cultivars exceeded the control, and Kataribhog gave the most favourable value. Kalonunia recorded the highest value in payash at 24.22 % and Tulaipanjii the lowest at 16.57 %. Against 19.22 % for the control, 4 cultivars exceeded the control, and Kalonunia was the most favourable entry. The means are set out in Table 2 and shown in Fig. 2.",
+"reuse": null
+},
+{
+"idx": 27,
+"sec": "",
+"mode": "",
+"n": 57,
+"text": "The cultivars were significantly different in every product. The year effect was not significant in any product, though the year by cultivar interaction was significant in 2, so in those products the difference between cultivars was not of the same magnitude in both years. Coefficients of variation ranged from 2.30 to 2.68 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 29,
+"sec": "",
+"mode": "",
+"n": 70,
+"text": "Discussion. Starch is the energy supplying fraction of the grain and the basis of its texture. A higher value indicates a well filled endosperm and good recovery of the edible fraction. Starch content depends on how efficiently assimilate was moved into the endosperm during grain filling. In the prepared product it is further affected by the loss of low molecular weight material and by the water taken up in cooking.",
+"reuse": null
+},
+{
+"idx": 30,
+"sec": "",
+"mode": "",
+"n": 86,
+"text": "This is consistent with previous studies. Muchlisyiyah et al. (2023) found starch makes up about nine tenths of milled rice by dry weight; Tian et al. (2018) found the residual starch is swollen and less crystalline; Iqbal et al. (2021) found restructured starch resists digestion; Cheng et al. (2019) found how far the starch gelatinises drives texture and digestion. The leading cultivar changed with the product, Kalonunia, Kataribhog, Lal Badshabhog and Radhunipagal ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 33,
+"sec": "",
+"mode": "",
+"n": 133,
+"text": "Results. For table rice the values lay between 2.56 and 3.36 %, with the control at 2.56 %. Here 3 cultivars exceeded the control and Radhunipagal ranked highest. In kichidi the values ranged from 16.49 in Kalojira to 18.23 % in Gobindabhog. The control recorded 16.74 %, no cultivar exceeded the control, and Gobindabhog gave the most favourable value. Kalojira recorded the highest value in pulao at 4.35 % and Dudeshwar the lowest at 3.62 %. Against 3.62 % for the control, 2 cultivars exceeded the control, and Kalojira was the most favourable entry. For payash the values lay between 5.39 and 6.57 %, with the control at 5.39 %. Here one cultivar exceeded the control and Kalonunia ranked highest. The means are set out in Table 3 and shown in Fig. 3.",
+"reuse": null
+},
+{
+"idx": 34,
+"sec": "",
+"mode": "",
+"n": 41,
+"text": "Only 3 of the 4 products showed a significant cultivar effect. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 6.60 to 8.64 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 36,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Discussion. Protein is the main nutritional contribution of rice after energy, and it also firms the cooked grain through disulphide bonding. Most of the protein is glutelin stored in protein bodies beneath the aleurone, and the amount depends on the nitrogen moved into the grain during filling. Cooking does not alter it.",
+"reuse": null
+},
+{
+"idx": 37,
+"sec": "",
+"mode": "",
+"n": 80,
+"text": "Published work points in the same direction. Muchlisyiyah et al. (2023) found total protein is unchanged by hydrothermal treatment; Cheng et al. (2019) found disulphide cross links raise firmness; Akter et al. (2025) found protein rose from 6.68 to 9.42 per cent after treatment; Iqbal et al. (2021) found the protein network controls enzyme access to starch. The leading position was shared between Gobindabhog, Kalojira, Kalonunia and Radhunipagal, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 40,
+"sec": "",
+"mode": "",
+"n": 139,
+"text": "Results. In table rice the values ranged from 0.47 in Dudeshwar to 0.61 % in Radhunipagal. The control recorded 0.47 %, 6 cultivars exceeded the control, and Radhunipagal gave the most favourable value. Gobindabhog recorded the highest value in kichidi at 1.64 % and Dudeshwar the lowest at 1.37 %. Against 1.37 % for the control, 8 cultivars exceeded the control, and Gobindabhog was the most favourable entry. For pulao the values lay between 0.53 and 0.90 %, with the control at 0.53 %. Here 9 cultivars exceeded the control and Tulaipanjii ranked highest. In payash the values ranged from 1.19 in Lal Badshabhog to 1.56 % in Gobindabhog. The control recorded 1.31 %, 6 cultivars exceeded the control, and Gobindabhog gave the most favourable value. The means are set out in Table 4 and shown in Fig. 4.",
+"reuse": null
+},
+{
+"idx": 41,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "All the products showed a significant cultivar effect. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 1.32 to 3.62 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 43,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Discussion. Soluble protein is the fraction that remains extractable, and therefore digestible, after cooking. A higher value indicates that heat has not aggregated the protein. Heat ruptures the protein bodies and then cross links the released chains through disulphide bonds, which lowers the extractable fraction. Cultivars richer in cysteine lose more.",
+"reuse": null
+},
+{
+"idx": 44,
+"sec": "",
+"mode": "",
+"n": 81,
+"text": "The same pattern has been reported before. Muchlisyiyah et al. (2023) found solubility changes while total protein does not; Cheng et al. (2019) found cross linking lowers the extractable fraction; Kabir et al. (2025) found treatment changes how protein and bound phenolics associate; Roy et al. (2019) found solubility falls as steam and soaking get harsher. Gobindabhog, Radhunipagal and Tulaipanjii each headed the ranking in a different product, so this attribute cannot settle the selection for the group as a whole.",
+"reuse": null
+},
+{
+"idx": 47,
+"sec": "",
+"mode": "",
+"n": 142,
+"text": "Results. Radhunipagal recorded the highest value in table rice at 0.34 % and Gobindabhog the lowest at 0.23 %. Against 0.32 % for the control, no cultivar exceeded the control, and Radhunipagal was the most favourable entry. For kichidi the values lay between 10.78 and 13.25 %, with the control at 13.25 %. Here no cultivar exceeded the control and Dudeshwar ranked highest. In pulao the values ranged from 3.06 in Gobindabhog to 3.53 % in Kalojira. The control recorded 3.49 %, no cultivar exceeded the control, and Kalojira gave the most favourable value. Dudeshwar recorded the highest value in payash at 7.06 % and Gobindabhog the lowest at 6.70 %. Against 7.06 % for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. The means are set out in Table 5 and shown in Fig. 5.",
+"reuse": null
+},
+{
+"idx": 48,
+"sec": "",
+"mode": "",
+"n": 55,
+"text": "The cultivar effect was significant in 2 products out of 4. The year effect was significant in 1 product and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 2.62 to 11.44 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 50,
+"sec": "",
+"mode": "",
+"n": 62,
+"text": "Discussion. Lipid is located in the germ and aleurone and carries the fat soluble vitamins and the aroma compounds. A higher content is better, subject to the fact that excess lipid shortens shelf life. Lipid is stored as triacylglycerol in the germ and aleurone, so the value reflects both the size of these tissues in the cultivar and the extent of milling.",
+"reuse": null
+},
+{
+"idx": 51,
+"sec": "",
+"mode": "",
+"n": 89,
+"text": "Earlier reports support this finding. Muchlisyiyah et al. (2023) found lipid sits in germ and aleurone and oxidises readily; Hu et al. (2019) found moving water inside the kernel shifts the lipid bearing tissues; Devi and Badwaik (2022) found traditional cultivars differ widely in proximate composition; Oliveira et al. (2026) found milling is the main route by which the outer layers are lost. No single cultivar was superior in all the products. Dudeshwar, Kalojira and Radhunipagal ranked highest in different ones, so the decision depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 54,
+"sec": "",
+"mode": "",
+"n": 133,
+"text": "Results. For table rice the values lay between 0.13 and 0.43 %, with the control at 0.43 %. Here no cultivar exceeded the control and Dudeshwar ranked highest. In kichidi the values ranged from 1.94 in Radhatilak to 2.39 % in Dudeshwar. The control recorded 2.39 %, no cultivar exceeded the control, and Dudeshwar gave the most favourable value. Dudeshwar recorded the highest value in pulao at 1.08 % and Gobindabhog the lowest at 0.81 %. Against 1.08 % for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. For payash the values lay between 1.24 and 1.60 %, with the control at 1.60 %. Here no cultivar exceeded the control and Dudeshwar ranked highest. The means are set out in Table 6 and shown in Fig. 6.",
+"reuse": null
+},
+{
+"idx": 55,
+"sec": "",
+"mode": "",
+"n": 58,
+"text": "The cultivars separated significantly wherever the attribute was measured. The year effect was not significant in any product, though the year by cultivar interaction was significant in 2, so in those products the difference between cultivars was not of the same magnitude in both years. Coefficients of variation ranged from 0.75 to 7.17 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 57,
+"sec": "",
+"mode": "",
+"n": 43,
+"text": "Discussion. Ash is the residue remaining after ignition and represents the total inorganic contribution of the grain. Ash follows the germ and aleurone, which carry most of the mineral matter, so cultivars with a thicker aleurone or a larger embryo give higher values.",
+"reuse": null
+},
+{
+"idx": 58,
+"sec": "",
+"mode": "",
+"n": 86,
+"text": "Similar results have been published elsewhere. Hu et al. (2019) found ash follows how much germ and aleurone survive; Muchlisyiyah et al. (2023) found the spread in ash comes from the outer grain layers; Jannasch and Wang (2020) found the steeping medium can add to the mineral fraction; Kumar et al. (2022) found ash is redistributed rather than lost on treatment. Dudeshwar gave the most favourable value in every product of this group, and is therefore the cultivar to select where a high value is required.",
+"reuse": null
+},
+{
+"idx": 62,
+"sec": "",
+"mode": "",
+"n": 149,
+"text": "Results. In table rice the values ranged from 0.30 in Dudeshwar to 0.55 mg GAE/g in Kalonunia. The control recorded 0.30 mg GAE/g, 9 cultivars exceeded the control, and Kalonunia gave the most favourable value. Lal Badshabhog recorded the highest value in kichidi at 6.44 mg GAE/g and Radhatilak the lowest at 5.19 mg GAE/g. Against 5.23 mg GAE/g for the control, 8 cultivars exceeded the control, and Lal Badshabhog was the most favourable entry. For pulao the values lay between 1.69 and 3.66 mg GAE/g, with the control at 2.57 mg GAE/g. Here 3 cultivars exceeded the control and Kataribhog ranked highest. In payash the values ranged from 10.16 in Radhunipagal to 52.32 mg GAE/g in Kalonunia. The control recorded 10.98 mg GAE/g, 8 cultivars exceeded the control, and Kalonunia gave the most favourable value. The means are set out in Table 7 and shown in Fig. 7.",
+"reuse": null
+},
+{
+"idx": 63,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Cultivars differed significantly in all the products. The year effect was significant in 3 products and the year by cultivar interaction in 3, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.47 to 3.59 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 65,
+"sec": "",
+"mode": "",
+"n": 64,
+"text": "Discussion. Phenolic acids are the principal antioxidants of the grain and are largely bound to the pericarp cell wall. A higher retained content in the product is better. Most phenolic acid is bound to arabinoxylan in the pericarp wall. Heat cleaves these bonds and releases it, while simultaneously degrading and leaching the free fraction, so the value recorded is the balance of the two.",
+"reuse": null
+},
+{
+"idx": 66,
+"sec": "",
+"mode": "",
+"n": 85,
+"text": "Comparable observations appear in the literature. Phimphilai et al. (2026) found popping and steam cooking cut total phenolics sharply; Shavandi et al. (2023) found infrared puffing raises the extractable fraction; Muchlisyiyah et al. (2023) found heat frees ferulic and p-coumaric acid from the cell wall; Kabir et al. (2025) found soaking and cooking lower phenolic acids, bound exceeding free. The leading cultivar changed with the product, Kalonunia, Kataribhog and Lal Badshabhog ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 69,
+"sec": "",
+"mode": "",
+"n": 113,
+"text": "Results. Gobindabhog recorded the highest value in kichidi at 0.04 mg QE/g and Dudeshwar the lowest at 0.03 mg QE/g. Against 0.03 mg QE/g for the control, 7 cultivars exceeded the control, and Gobindabhog was the most favourable entry. For pulao the values lay between 1.43 and 2.53 mg QE/g, with the control at 1.81 mg QE/g. Here 6 cultivars exceeded the control and Kataribhog ranked highest. In payash the values ranged from 5.20 in Dudeshwar to 22.54 mg QE/g in Kalonunia. The control recorded 5.20 mg QE/g, 9 cultivars exceeded the control, and Kalonunia gave the most favourable value. The means are set out in Table 8 and shown in Fig. 8.",
+"reuse": null
+},
+{
+"idx": 70,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "The cultivars were significantly different in every product. The year effect was significant in 3 products and the year by cultivar interaction in 3, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.68 to 2.36 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 72,
+"sec": "",
+"mode": "",
+"n": 57,
+"text": "Discussion. Flavonoids contribute to antioxidant activity and to pericarp colour. They degrade readily on heating, so the residual content indicates how gently the grain was treated. Flavonoids are synthesised in the pericarp and cultivars differ in the amount deposited. They are readily destroyed by heat, so the residual content reflects both the initial level and the treatment.",
+"reuse": null
+},
+{
+"idx": 73,
+"sec": "",
+"mode": "",
+"n": 77,
+"text": "Previous studies describe the same behaviour. Phimphilai et al. (2026) found flavonoids break down more readily than total phenolics; Kabir et al. (2025) found most flavonoid sits in the bound fraction; Oliveira et al. (2026) found long cooking can cost up to forty per cent; Devi and Badwaik (2022) found traditional cultivars differ several fold. The leading position was shared between Gobindabhog, Kalonunia and Kataribhog, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 76,
+"sec": "",
+"mode": "",
+"n": 143,
+"text": "Results. For table rice the values lay between 7.20 and 8.21 mg TE/g, with the control at 7.20 mg TE/g. Here 6 cultivars exceeded the control and Lal Badshabhog ranked highest. In kichidi the values ranged from 21.84 in Kalojira to 23.98 mg TE/g in Radhunipagal. The control recorded 23.00 mg TE/g, 4 cultivars exceeded the control, and Radhunipagal gave the most favourable value. Kataribhog recorded the highest value in pulao at 9.69 mg TE/g and Dudeshwar the lowest at 7.63 mg TE/g. Against 7.63 mg TE/g for the control, 9 cultivars exceeded the control, and Kataribhog was the most favourable entry. For payash the values lay between 10.11 and 13.84 mg TE/g, with the control at 10.11 mg TE/g. Here 9 cultivars exceeded the control and Kalonunia ranked highest. The means are set out in Table 9 and shown in Fig. 9.",
+"reuse": null
+},
+{
+"idx": 77,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "The cultivar effect was significant throughout the group. The year effect was significant in 4 products and the year by cultivar interaction in 2, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.49 to 1.54 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 79,
+"sec": "",
+"mode": "",
+"n": 47,
+"text": "Discussion. Antioxidant capacity measures the activity of the whole bioactive fraction rather than its quantity, so a higher value is desirable. Antioxidant capacity derives from the surviving phenolics and flavonoids together with browning products formed during heating, so cultivars rich in bound phenolics retain more of it.",
+"reuse": null
+},
+{
+"idx": 80,
+"sec": "",
+"mode": "",
+"n": 82,
+"text": "Earlier work reports much the same. Phimphilai et al. (2026) found capacity tracks phenolic and flavonoid content; Shavandi et al. (2023) found activity moves with total phenolics as puffing changes; Kabir et al. (2025) found the bound phenolics account for most of the activity; Muchlisyiyah et al. (2023) found browning products add to measured activity. Kalonunia, Kataribhog, Lal Badshabhog and Radhunipagal each headed the ranking in a different product, so this attribute cannot settle the selection for the group as a whole.",
+"reuse": null
+},
+{
+"idx": 83,
+"sec": "",
+"mode": "",
+"n": 138,
+"text": "Results. In table rice the values ranged from 0.06 in Kalonunia to 0.15 % in Dudeshwar. The control recorded 0.15 %, 8 cultivars exceeded the control, and Kalonunia gave the most favourable value. Kalonunia recorded the highest value in kichidi at 0.59 % and Dudeshwar the lowest at 0.41 %. Against 0.41 % for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. For pulao the values lay between 0.04 and 0.06 %, with the control at 0.04 %. Here no cultivar exceeded the control and Dudeshwar ranked highest. In payash the values ranged from 0.03 in Gobindabhog to 0.07 % in Kalonunia. The control recorded 0.06 %, 4 cultivars exceeded the control, and Gobindabhog gave the most favourable value. The means are set out in Table 10 and shown in Fig. 10.",
+"reuse": null
+},
+{
+"idx": 84,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "All the products showed a significant cultivar effect. The year effect was significant in 1 product and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 2.25 to 13.09 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 86,
+"sec": "",
+"mode": "",
+"n": 56,
+"text": "Discussion. Phytic acid binds iron, zinc and calcium in the intestine and prevents their absorption. A lower content is therefore better, since it releases the very minerals the grain supplies. Phytate is deposited as globoids in the aleurone during grain filling and is hydrolysed by endogenous phytase during soaking, so the residue depends on both processes.",
+"reuse": null
+},
+{
+"idx": 87,
+"sec": "",
+"mode": "",
+"n": 88,
+"text": "This is consistent with previous studies. Muchlisyiyah et al. (2023) found treated brown rice holds about half the phytate of untreated; Kumar et al. (2022) found less phytate means more iron and zinc absorbed; Bhar et al. (2022) found cutting phytate is a main nutritional argument for processed grain; Hu et al. (2019) found germination and hydrothermal treatment work in different ways. No single cultivar was superior in all the products. Dudeshwar, Gobindabhog and Kalonunia ranked highest in different ones, so the decision depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 91,
+"sec": "",
+"mode": "",
+"n": 142,
+"text": "Results. Dudeshwar recorded the highest value in table rice at 0.55 ppm and Gobindabhog the lowest at 0.39 ppm. Against 0.55 ppm for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. For kichidi the values lay between 0.30 and 0.46 ppm, with the control at 0.38 ppm. Here 5 cultivars exceeded the control and Radhatilak ranked highest. In pulao the values ranged from 0.17 in Tulaipanjii to 0.57 ppm in Harinakhuri. The control recorded 0.52 ppm, one cultivar exceeded the control, and Harinakhuri gave the most favourable value. Dudeshwar recorded the highest value in payash at 0.40 ppm and Radhatilak the lowest at 0.23 ppm. Against 0.40 ppm for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. The means are set out in Table 11 and shown in Fig. 11.",
+"reuse": null
+},
+{
+"idx": 92,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Significance was reached in each of the products. The year effect was significant in 4 products and the year by cultivar interaction in 3, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 6.00 to 6.76 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 94,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Discussion. Copper is required for iron transport and for several enzymes, and cereals are a principal dietary source. A higher content in the product is better. Copper is carried into the grain by COPT and HMA transporters and stored mainly in the aleurone, so cultivars with greater uptake and translocation accumulate more.",
+"reuse": null
+},
+{
+"idx": 95,
+"sec": "",
+"mode": "",
+"n": 88,
+"text": "Published work points in the same direction. Sonu et al. (2025) found genotype governs grain micronutrient concentration; Kumar et al. (2022) found trace metals shift between bran and endosperm rather than being lost; Muchlisyiyah et al. (2023) found soluble minerals move inward from husk and pericarp; Hu et al. (2019) found water moving inside the kernel displaces elements from the aleurone. The most favourable entry differed between products. Dudeshwar, Harinakhuri and Radhatilak each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 98,
+"sec": "",
+"mode": "",
+"n": 134,
+"text": "Results. For table rice the values lay between 2.24 and 9.94 ppm, with the control at 2.24 ppm. Here 9 cultivars exceeded the control and Kalojira ranked highest. In kichidi the values ranged from 1.51 in Lal Badshabhog to 2.23 ppm in Kalojira. The control recorded 2.02 ppm, 2 cultivars exceeded the control, and Kalojira gave the most favourable value. Kalojira recorded the highest value in pulao at 1.43 ppm and Gobindabhog the lowest at 0.89 ppm. Against 1.13 ppm for the control, 2 cultivars exceeded the control, and Kalojira was the most favourable entry. For payash the values lay between 1.50 and 5.03 ppm, with the control at 3.92 ppm. Here one cultivar exceeded the control and Kalonunia ranked highest. The means are set out in Table 12 and shown in Fig. 12.",
+"reuse": null
+},
+{
+"idx": 99,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "The cultivars separated significantly wherever the attribute was measured. The year effect was significant in 4 products and the year by cultivar interaction in 4, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 1.27 to 3.51 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 101,
+"sec": "",
+"mode": "",
+"n": 61,
+"text": "Discussion. Iron deficiency is the commonest nutritional disorder in rice eating populations, so the iron retained in the product is of direct importance. A higher content is better. Grain iron depends on the amount remobilised from the flag leaf and on the chelators that transport it, both of which differ between cultivars. Cooking moves some of it inward from the pericarp.",
+"reuse": null
+},
+{
+"idx": 102,
+"sec": "",
+"mode": "",
+"n": 87,
+"text": "The same pattern has been reported before. Sonu et al. (2025) found grain iron is heritable but few lines reach nutritional targets; Kumar et al. (2022) found iron moves inward and becomes more available; Jannasch and Wang (2020) found the steep water can carry iron and calcium into the endosperm; Akter et al. (2025) found iron fell while protein and zinc were concentrated. The leading cultivar changed with the product, Kalojira and Kalonunia ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 105,
+"sec": "",
+"mode": "",
+"n": 138,
+"text": "Results. In table rice the values ranged from 0.43 in Harinakhuri to 0.58 ppm in Tulaipanjii. The control recorded 0.52 ppm, no cultivar exceeded the control, and Tulaipanjii gave the most favourable value. Radhatilak recorded the highest value in kichidi at 1.06 ppm and Gobindabhog the lowest at 0.36 ppm. Against 0.57 ppm for the control, 5 cultivars exceeded the control, and Radhatilak was the most favourable entry. For pulao the values lay between 0.25 and 0.43 ppm, with the control at 0.25 ppm. Here 8 cultivars exceeded the control and Kalojira ranked highest. In payash the values ranged from 0.37 in Radhunipagal to 0.83 ppm in Kalonunia. The control recorded 0.77 ppm, no cultivar exceeded the control, and Kalonunia gave the most favourable value. The means are set out in Table 13 and shown in Fig. 13.",
+"reuse": null
+},
+{
+"idx": 106,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Cultivars differed significantly in all the products. The year effect was significant in 4 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 4.97 to 6.33 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 108,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "Discussion. Zinc is required for immunity, growth and wound healing, and is the mineral after iron most often deficient in rice based diets. A higher content is better. Zinc loading depends on the HMA2 and HMA4 transporters and on remobilisation during grain filling. It is held in the aleurone largely as phytate salts.",
+"reuse": null
+},
+{
+"idx": 109,
+"sec": "",
+"mode": "",
+"n": 78,
+"text": "Earlier reports support this finding. Kumar et al. (2022) found zinc moves outward on treatment, unlike iron; Sonu et al. (2025) found grain zinc is polygenic with wide genotypic variance; Hu et al. (2019) found zinc is held in the germ and aleurone; Oliveira et al. (2026) found polishing matters more than the thermal step. The leading position was shared between Kalojira, Kalonunia, Radhatilak and Tulaipanjii, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 112,
+"sec": "",
+"mode": "",
+"n": 142,
+"text": "Results. Kataribhog recorded the highest value in table rice at 0.86 ppm and Dudeshwar the lowest at 0.45 ppm. Against 0.45 ppm for the control, 8 cultivars exceeded the control, and Kataribhog was the most favourable entry. For kichidi the values lay between 0.22 and 0.58 ppm, with the control at 0.30 ppm. Here 7 cultivars exceeded the control and Radhatilak ranked highest. In pulao the values ranged from 0.09 in Harinakhuri to 0.41 ppm in Kataribhog. The control recorded 0.24 ppm, 4 cultivars exceeded the control, and Kataribhog gave the most favourable value. Dudeshwar recorded the highest value in payash at 0.38 ppm and Radhunipagal the lowest at 0.17 ppm. Against 0.38 ppm for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. The means are set out in Table 14 and shown in Fig. 14.",
+"reuse": null
+},
+{
+"idx": 113,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "The cultivars were significantly different in every product. The year effect was significant in 4 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 4.14 to 5.82 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 115,
+"sec": "",
+"mode": "",
+"n": 56,
+"text": "Discussion. Manganese is required by superoxide dismutase and certain other enzymes. The dietary requirement is small but cereals supply most of it, so a higher content is better. Manganese enters through NRAMP and MTP transporters and accumulates in the aleurone, so the value depends on uptake and on how much of the outer grain survives milling.",
+"reuse": null
+},
+{
+"idx": 116,
+"sec": "",
+"mode": "",
+"n": 83,
+"text": "Similar results have been published elsewhere. Hu et al. (2019) found aleurone bound elements are displaced as water redistributes; Muchlisyiyah et al. (2023) found soluble minerals migrate inward during steeping; Sonu et al. (2025) found genotype counts for more than environment in mineral density; Kumar et al. (2022) found retention depends on the starting level and the treatment. Dudeshwar, Kataribhog and Radhatilak each headed the ranking in a different product, so this attribute cannot settle the selection for the group as a whole.",
+"reuse": null
+},
+{
+"idx": 120,
+"sec": "",
+"mode": "",
+"n": 126,
+"text": "Results. For table rice the values lay between 66.67 and 73.59, with the control at 72.74. Here one cultivar exceeded the control and Lal Badshabhog ranked highest. In kichidi the values ranged from 50.72 in Lal Badshabhog to 61.85 in Dudeshwar. The control recorded 61.85, no cultivar exceeded the control, and Dudeshwar gave the most favourable value. Kalojira recorded the highest value in pulao at 70.05 and Dudeshwar the lowest at 54.60. Against 54.60 for the control, 9 cultivars exceeded the control, and Kalojira was the most favourable entry. For payash the values lay between 72.42 and 78.21, with the control at 77.63. Here 2 cultivars exceeded the control and Radhatilak ranked highest. The means are set out in Table 15 and shown in Fig. 15.",
+"reuse": null
+},
+{
+"idx": 121,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "The cultivar effect was significant throughout the group. The year effect was significant in 2 products and the year by cultivar interaction in 3, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.20 to 0.49 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 123,
+"sec": "",
+"mode": "",
+"n": 56,
+"text": "Discussion. Lightness measures how pale the product has remained. It falls with browning and with inward movement of pigments, so a higher value generally indicates gentler processing. Lightness falls as browning products accumulate and as pericarp pigments dissolve and migrate inward. Cultivars with more reducing sugar and free amino nitrogen brown further under the same treatment.",
+"reuse": null
+},
+{
+"idx": 124,
+"sec": "",
+"mode": "",
+"n": 87,
+"text": "Comparable observations appear in the literature. Muchlisyiyah et al. (2023) found darkening comes from pigment movement and browning; Srisang et al. (2021) found lightness falls as the thermal treatment gets harsher; Panda et al. (2021) found shorter heating gives a lighter product at the same moisture loss; Akter et al. (2025) found a darker product was still preferred overall. No single cultivar was superior in all the products. Dudeshwar, Kalojira, Lal Badshabhog and Radhatilak ranked highest in different ones, so the decision depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 127,
+"sec": "",
+"mode": "",
+"n": 131,
+"text": "Results. In table rice the values ranged from -5.09 in Lal Badshabhog to -3.05 in Kalojira. The control recorded -4.69, one cultivar exceeded the control, and Lal Badshabhog gave the most favourable value. Gobindabhog recorded the highest value in kichidi at 5.32 and Dudeshwar the lowest at 1.27. Against 1.27 for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. For pulao the values lay between -6.33 and 2.24, with the control at -6.33. Here no cultivar exceeded the control and Dudeshwar ranked highest. In payash the values ranged from -5.70 in Dudeshwar to -4.38 in Kalonunia. The control recorded -5.70, no cultivar exceeded the control, and Dudeshwar gave the most favourable value. The means are set out in Table 16 and shown in Fig. 16.",
+"reuse": null
+},
+{
+"idx": 128,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "All the products showed a significant cultivar effect. The year effect was significant in 2 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from -2.39 to 2.93 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 130,
+"sec": "",
+"mode": "",
+"n": 65,
+"text": "Discussion. The a* value is signed: a positive value places the sample on the red side of the green to red axis and a negative value on the green side. Redness increases as browning proceeds, so a lower value is preferred. Redness rises as melanoidins and their coloured precursors accumulate, and the rate depends on the reducing sugars and free amino acids the cultivar supplies.",
+"reuse": null
+},
+{
+"idx": 131,
+"sec": "",
+"mode": "",
+"n": 78,
+"text": "Previous studies describe the same behaviour. Muchlisyiyah et al. (2023) found the amber shift comes from Maillard browning; Srisang et al. (2021) found colour builds with time and temperature; Ayamdoo et al. (2014) found how far colour develops is cultivar specific; Panda et al. (2021) found shorter heating limits colour development. The most favourable entry differed between products. Dudeshwar and Lal Badshabhog each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 134,
+"sec": "",
+"mode": "",
+"n": 135,
+"text": "Results. Lal Badshabhog recorded the highest value in table rice at 111.41 and Radhunipagal the lowest at 103.18. Against 110.01 for the control, 8 cultivars exceeded the control, and Radhunipagal was the most favourable entry. For kichidi the values lay between 81.65 and 97.61, with the control at 97.61. Here 9 cultivars exceeded the control and Lal Badshabhog ranked highest. In pulao the values ranged from 86.09 in Dudeshwar to 107.22 in Kalojira. The control recorded 86.09, no cultivar exceeded the control, and Dudeshwar gave the most favourable value. Lal Badshabhog recorded the highest value in payash at 117.27 and Kataribhog the lowest at 110.38. Against 116.43 for the control, 7 cultivars exceeded the control, and Kataribhog was the most favourable entry. The means are set out in Table 17 and shown in Fig. 17.",
+"reuse": null
+},
+{
+"idx": 135,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Significance was reached in each of the products. The year effect was significant in 2 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.20 to 0.34 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 137,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "Discussion. Yellowness arises from bran pigments migrating into the endosperm and from early browning products. Except where a golden colour is required, a lower value is better. Yellowness arises from carotenoids and flavonoids carried in from the pericarp during hydration together with early browning products, so cultivars with more pigment give higher values.",
+"reuse": null
+},
+{
+"idx": 138,
+"sec": "",
+"mode": "",
+"n": 83,
+"text": "Earlier work reports much the same. Muchlisyiyah et al. (2023) found bran pigments dissolve on soaking and fix on drying; Srisang et al. (2021) found yellowing is proportional to the heat load; Devi and Badwaik (2022) found colour readings track pigment composition; Oliveira et al. (2026) found final colour depends on pigment and on processing together. The leading cultivar changed with the product, Dudeshwar, Kataribhog, Lal Badshabhog and Radhunipagal ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 141,
+"sec": "",
+"mode": "",
+"n": 126,
+"text": "Results. For table rice the values lay between 32.27 and 40.74, with the control at 39.26. Here 8 cultivars exceeded the control and Radhunipagal ranked highest. In kichidi the values ranged from 26.96 in Lal Badshabhog to 30.98 in Dudeshwar. The control recorded 30.98, 6 cultivars exceeded the control, and Lal Badshabhog gave the most favourable value. Kalojira recorded the highest value in pulao at 16.25 and Gobindabhog the lowest at 0.18. Against 13.44 for the control, 7 cultivars exceeded the control, and Gobindabhog was the most favourable entry. For payash the values lay between 39.10 and 47.01, with the control at 46.00. Here 6 cultivars exceeded the control and Kataribhog ranked highest. The means are set out in Table 18 and shown in Fig. 18.",
+"reuse": null
+},
+{
+"idx": 142,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "The cultivars separated significantly wherever the attribute was measured. The year effect was significant in 2 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.57 to 2.80 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 144,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Discussion. This measures the overall colour distance between the product and the raw grain. A smaller value means the grain has changed in texture without changing greatly in appearance. This combines all three colour coordinates and so registers both pigment migration and browning, each of which scales with what the cultivar provides.",
+"reuse": null
+},
+{
+"idx": 145,
+"sec": "",
+"mode": "",
+"n": 88,
+"text": "This is consistent with previous studies. Muchlisyiyah et al. (2023) found colour is the main barrier to accepting processed rice; Srisang et al. (2021) found a combined colour index separates treatments better than one axis; Panda et al. (2021) found the same processing can be had at a smaller colour cost; Akter et al. (2025) found overall colour change matched what the panel judged. The leading position was shared between Gobindabhog, Kataribhog, Lal Badshabhog and Radhunipagal, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 149,
+"sec": "",
+"mode": "",
+"n": 44,
+"text": "Results. In table rice the values ranged from 3.01 in Dudeshwar to 4.81 in Kalonunia. The control recorded 3.01, 9 cultivars exceeded the control, and Kalonunia gave the most favourable value. The means are set out in Table 19 and shown in Fig. 19.",
+"reuse": null
+},
+{
+"idx": 150,
+"sec": "",
+"mode": "",
+"n": 23,
+"text": "The analysis of variance gave F = 5601.84** for cultivars, a critical difference of 0.04 and a coefficient of variation of 0.50 %.",
+"reuse": null
+},
+{
+"idx": 152,
+"sec": "",
+"mode": "",
+"n": 62,
+"text": "Discussion. Spreading in dilute alkali is inversely related to gelatinisation temperature. A higher spreading value means the grain gelatinises at a lower temperature and so cooks in less time and with less fuel. Disintegration in alkali depends on the crystalline order of the starch granule, which is governed by amylopectin chain length under starch synthase IIa, so the ranking follows gelatinisation temperature.",
+"reuse": null
+},
+{
+"idx": 153,
+"sec": "",
+"mode": "",
+"n": 78,
+"text": "Published work points in the same direction. Little et al. (1958) found the alkali test became the routine measure of gelatinisation; Bocevska et al. (2009) found the spreading score matches instrumental gelatinisation; Ayamdoo et al. (2014) found cultivars of different gelatinisation temperature respond differently; Armstrong et al. (2022) found the spreading value can be predicted by near infrared. Kalonunia gave the most favourable value here, and is therefore the cultivar to select where a high value is required.",
+"reuse": null
+},
+{
+"idx": 156,
+"sec": "",
+"mode": "",
+"n": 47,
+"text": "Results. Radhunipagal recorded the highest value in table rice at 1.77 and Kalonunia the lowest at 1.40. Against 1.71 for the control, 2 cultivars exceeded the control, and Radhunipagal was the most favourable entry. The means are set out in Table 20 and shown in Fig. 20.",
+"reuse": null
+},
+{
+"idx": 157,
+"sec": "",
+"mode": "",
+"n": 23,
+"text": "The analysis of variance gave F = 329.88** for cultivars, a critical difference of 0.04 and a coefficient of variation of 1.15 %.",
+"reuse": null
+},
+{
+"idx": 159,
+"sec": "",
+"mode": "",
+"n": 49,
+"text": "Discussion. Elongation on cooking is the property for which the fine and aromatic grades are valued, since it gives the long slender cooked grain. A higher ratio is better. Elongation depends on the axial arrangement of the endosperm cells and on amylose restraining radial swelling, both under cultivar control.",
+"reuse": null
+},
+{
+"idx": 160,
+"sec": "",
+"mode": "",
+"n": 75,
+"text": "The same pattern has been reported before. Buggenhout et al. (2013) found cultivar is the main determinant of kernel behaviour; Buggenhout et al. (2014) found kernel strength governs the response to stress; Cheng et al. (2019) found expansion follows gelatinisation and setting back; Devi and Badwaik (2022) found traditional cultivars differ widely in cooking behaviour. Radhunipagal gave the most favourable value here, and is therefore the cultivar to select where a high value is required.",
+"reuse": null
+},
+{
+"idx": 163,
+"sec": "",
+"mode": "",
+"n": 39,
+"text": "Results. For table rice the values lay between 2.00 and 4.85, with the control at 4.85. Here no cultivar exceeded the control and Dudeshwar ranked highest. The means are set out in Table 21 and shown in Fig. 21.",
+"reuse": null
+},
+{
+"idx": 164,
+"sec": "",
+"mode": "",
+"n": 23,
+"text": "The analysis of variance gave F = 11006.68** for cultivars, a critical difference of 0.04 and a coefficient of variation of 0.62 %.",
+"reuse": null
+},
+{
+"idx": 166,
+"sec": "",
+"mode": "",
+"n": 59,
+"text": "Discussion. Volume expansion determines the cooked yield from a given weight of raw grain, and in the puffed and popped forms it produces the light open texture. A higher ratio is better. Expansion depends on the degree of starch gelatinisation and on the mechanical resistance of the endosperm, so a compact endosperm with sufficient amylose expands furthest without fissuring.",
+"reuse": null
+},
+{
+"idx": 167,
+"sec": "",
+"mode": "",
+"n": 75,
+"text": "Earlier reports support this finding. Cheng et al. (2019) found swelling is limited by how far the starch gelatinises; Buggenhout et al. (2014) found kernel strength decides whether expansion holds or the grain cracks; Tian et al. (2018) found lower crystallinity changes swelling; Devi and Badwaik (2022) found expansion and water uptake follow amylose content. Dudeshwar gave the most favourable value here, and is therefore the cultivar to select where a high value is required.",
+"reuse": null
+},
+{
+"idx": 171,
+"sec": "",
+"mode": "",
+"n": 129,
+"text": "Results. In table rice the values ranged from 4.94 in Dudeshwar to 8.48 in Kalojira. The control recorded 4.94, 9 cultivars exceeded the control, and Kalojira gave the most favourable value. Kalojira recorded the highest value in kichidi at 8.42 and Dudeshwar the lowest at 6.35. Against 6.35 for the control, 8 cultivars exceeded the control, and Kalojira was the most favourable entry. For pulao the values lay between 5.12 and 8.88, with the control at 5.12. Here 9 cultivars exceeded the control and Radhunipagal ranked highest. In payash the values ranged from 4.87 in Dudeshwar to 8.19 in Gobindabhog. The control recorded 4.87, 9 cultivars exceeded the control, and Gobindabhog gave the most favourable value. The means are set out in Table 22 and shown in Fig. 22.",
+"reuse": null
+},
+{
+"idx": 172,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "All the products showed a significant cultivar effect. The year effect was significant in 1 product and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 3.47 to 4.29 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 174,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Discussion. Aroma distinguishes the traditional aromatic cultivars from ordinary grain and arises mainly from 2-acetyl-1-pyrroline. A higher score is clearly better. Aroma arises mainly from 2-acetyl-1-pyrroline, which accumulates when the BADH2 gene is non functional and its precursor is free to cyclise. The compound is volatile, so thermal exposure also matters.",
+"reuse": null
+},
+{
+"idx": 175,
+"sec": "",
+"mode": "",
+"n": 87,
+"text": "Similar results have been published elsewhere. Ayamdoo et al. (2014) found sensory character shifts with treatment in a cultivar specific way; Muchlisyiyah et al. (2023) found over processing gives off odours through lipid oxidation; Dutta and Mahanta (2014) found aroma is one of the attributes traditional products are graded on; Panda et al. (2021) found shorter heating keeps more of the volatiles. The leading cultivar changed with the product, Gobindabhog, Kalojira and Radhunipagal ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 178,
+"sec": "",
+"mode": "",
+"n": 133,
+"text": "Results. Kataribhog recorded the highest value in table rice at 8.26 and Dudeshwar the lowest at 5.79. Against 5.79 for the control, 9 cultivars exceeded the control, and Kataribhog was the most favourable entry. For kichidi the values lay between 5.43 and 8.81, with the control at 5.43. Here 9 cultivars exceeded the control and Lal Badshabhog ranked highest. In pulao the values ranged from 6.59 in Dudeshwar to 8.86 in Kataribhog. The control recorded 6.59, 6 cultivars exceeded the control, and Kataribhog gave the most favourable value. Tulaipanjii recorded the highest value in payash at 8.18 and Dudeshwar the lowest at 6.05. Against 6.05 for the control, 9 cultivars exceeded the control, and Tulaipanjii was the most favourable entry. The means are set out in Table 23 and shown in Fig. 23.",
+"reuse": null
+},
+{
+"idx": 179,
+"sec": "",
+"mode": "",
+"n": 57,
+"text": "Significance was reached in each of the products. The year effect was not significant in any product, though the year by cultivar interaction was significant in 1, so in that product the difference between cultivars was not of the same magnitude in both years. Coefficients of variation ranged from 2.05 to 3.88 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 181,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "Discussion. Flavour combines aroma, taste and mouthfeel, and is among the strongest determinants of whether a product is accepted or rejected. Flavour combines the volatile fraction with the sugars and amino acids released on cooking and with the texture of the grain, so cultivars strong in aroma and moderate in firmness score well.",
+"reuse": null
+},
+{
+"idx": 182,
+"sec": "",
+"mode": "",
+"n": 84,
+"text": "Comparable observations appear in the literature. Ayamdoo et al. (2014) found flavour responds to processing more sensitively than instruments do; Muchlisyiyah et al. (2023) found flavour improves with firmer texture until treatment goes too far; Roy et al. (2019) found flavour moves with the bioactive and physicochemical properties; Akter et al. (2025) found flavour and texture outweighed colour in overall liking. The leading position was shared between Kataribhog, Lal Badshabhog and Tulaipanjii, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 185,
+"sec": "",
+"mode": "",
+"n": 124,
+"text": "Results. For table rice the values lay between 6.95 and 8.43, with the control at 6.95. Here 9 cultivars exceeded the control and Radhatilak ranked highest. In kichidi the values ranged from 5.80 in Radhatilak to 8.54 in Kalonunia. The control recorded 7.05, 5 cultivars exceeded the control, and Kalonunia gave the most favourable value. Radhunipagal recorded the highest value in pulao at 8.72 and Kataribhog the lowest at 5.96. Against 8.05 for the control, one cultivar exceeded the control, and Radhunipagal was the most favourable entry. For payash the values lay between 6.58 and 8.58, with the control at 6.58. Here 6 cultivars exceeded the control and Gobindabhog ranked highest. The means are set out in Table 24 and shown in Fig. 24.",
+"reuse": null
+},
+{
+"idx": 186,
+"sec": "",
+"mode": "",
+"n": 39,
+"text": "The cultivars separated significantly wherever the attribute was measured. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 1.39 to 4.08 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 188,
+"sec": "",
+"mode": "",
+"n": 37,
+"text": "Discussion. Appearance governs the first impression and therefore whether the product is tried at all. Appearance follows the colour coordinates, which are determined by pigment migration and browning, so the cultivars that remain pale head the ranking.",
+"reuse": null
+},
+{
+"idx": 189,
+"sec": "",
+"mode": "",
+"n": 85,
+"text": "Previous studies describe the same behaviour. Muchlisyiyah et al. (2023) found colour is among the two attributes that most limit acceptance; Dutta and Mahanta (2014) found appearance caps the market whatever the nutritional merit; Srisang et al. (2021) found harder processing gives a visibly darker product; Akter et al. (2025) found a darker product was nonetheless more acceptable overall. Gobindabhog, Kalonunia, Radhatilak and Radhunipagal each headed the ranking in a different product, so this attribute cannot settle the selection for the group as a whole.",
+"reuse": null
+},
+{
+"idx": 192,
+"sec": "",
+"mode": "",
+"n": 130,
+"text": "Results. In table rice the values ranged from 7.43 in Lal Badshabhog to 8.35 in Radhatilak. The control recorded 7.72, 4 cultivars exceeded the control, and Radhatilak gave the most favourable value. Kalojira recorded the highest value in kichidi at 8.51 and Gobindabhog the lowest at 6.88. Against 7.02 for the control, 6 cultivars exceeded the control, and Kalojira was the most favourable entry. For pulao the values lay between 6.83 and 8.01, with the control at 7.93. Here no cultivar exceeded the control and Harinakhuri ranked highest. In payash the values ranged from 6.78 in Kalonunia to 8.41 in Gobindabhog. The control recorded 7.13, 2 cultivars exceeded the control, and Gobindabhog gave the most favourable value. The means are set out in Table 25 and shown in Fig. 25.",
+"reuse": null
+},
+{
+"idx": 193,
+"sec": "",
+"mode": "",
+"n": 37,
+"text": "Cultivars differed significantly in all the products. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 1.44 to 4.51 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 195,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "Discussion. Consistency describes the textural coherence of the finished dish and how well it matches what the preparation requires. Consistency depends on the degree of starch gelatinisation and subsequent retrogradation, and on the protein network surrounding the granules.",
+"reuse": null
+},
+{
+"idx": 196,
+"sec": "",
+"mode": "",
+"n": 83,
+"text": "Earlier work reports much the same. Cheng et al. (2019) found heat and moisture give a firmer, less sticky network; Iqbal et al. (2021) found firmness follows the starch and protein network; Muchlisyiyah et al. (2023) found texture and colour together decide acceptance; Devi and Badwaik (2022) found texture and pasting follow amylose and starch structure. No single cultivar was superior in all the products. Gobindabhog, Harinakhuri, Kalojira and Radhatilak ranked highest in different ones, so the decision depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 199,
+"sec": "",
+"mode": "",
+"n": 135,
+"text": "Results. Radhatilak recorded the highest value in table rice at 8.42 and Lal Badshabhog the lowest at 7.36. Against 7.70 for the control, 5 cultivars exceeded the control, and Radhatilak was the most favourable entry. For kichidi the values lay between 7.00 and 8.45, with the control at 7.07. Here 7 cultivars exceeded the control and Lal Badshabhog ranked highest. In pulao the values ranged from 5.85 in Lal Badshabhog to 8.28 in Radhunipagal. The control recorded 7.08, 6 cultivars exceeded the control, and Radhunipagal gave the most favourable value. Gobindabhog recorded the highest value in payash at 8.18 and Dudeshwar the lowest at 6.80. Against 6.80 for the control, 8 cultivars exceeded the control, and Gobindabhog was the most favourable entry. The means are set out in Table 26 and shown in Fig. 26.",
+"reuse": null
+},
+{
+"idx": 200,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "The cultivars were significantly different in every product. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 1.49 to 3.86 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 202,
+"sec": "",
+"mode": "",
+"n": 41,
+"text": "Discussion. Cooking quality summarises water uptake, cooking time and the structural integrity of the cooked grain. Cooking quality depends on gelatinisation temperature, amylose content and the structural integrity of the grain, which is why it tracks alkali spreading value and amylose.",
+"reuse": null
+},
+{
+"idx": 203,
+"sec": "",
+"mode": "",
+"n": 83,
+"text": "This is consistent with previous studies. Ayamdoo et al. (2014) found cooking behaviour changes steadily with treatment severity; Kwofie and Ngadi (2017) found time and temperature are the processor's main control; Buggenhout et al. (2013) found cultivar and processing history act together; Cheng et al. (2019) found gelatinisation governs water uptake and cooking time. The most favourable entry differed between products. Gobindabhog, Lal Badshabhog, Radhatilak and Radhunipagal each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 207,
+"sec": "",
+"mode": "",
+"n": 162,
+"text": "The analysis of variance answers one attribute at a time, so a single figure was needed to establish which cultivar is best overall. This was done using the total quality scoring approach of Ismail et al. (2001), where each attribute is scored, weighted for its importance, and the weighted scores summed. Kraggerud et al. (2012) later examined whether such a score genuinely reflects overall quality and concluded that it does. Here every attribute on which the cultivars differed significantly was put on a scale of 0 to 100, oriented so that 100 always denotes the better outcome, then averaged within five groups and combined by weight: sensory 30 per cent, nutritional 25, bioactive 20, mineral 15 and colour 10. The weights are a stated convention rather than a property of the data, and the index may be recomputed under any alternative set. The result is given in Table 27, and the score of every cultivar in every group appears in Table 29.",
+"reuse": null
+},
+{
+"idx": 210,
+"sec": "",
+"mode": "",
+"n": 68,
+"text": "On this index the best cultivar was Kalojira for table rice; Radhunipagal for kichidi; Kataribhog for pulao; Gobindabhog for payash. The control came at or near the bottom in every product, so replacing Dudeshwar with the cultivars named here would improve the product without any change in the method of preparation. Table 28 gives, for each product, the cultivar with the best balance of attributes against the control.",
+"reuse": null
+},
+{
+"idx": 215,
+"sec": "",
+"mode": "",
+"n": 45,
+"text": "The table below gives the five group scores and the composite score for every cultivar in every product, so the standing of any entry may be read directly. The weights applied were sensory 30 per cent, nutritional 25, bioactive 20, mineral 15 and colour 10.",
+"reuse": null
+},
+{
+"idx": 220,
+"sec": "",
+"mode": "",
+"n": 176,
+"text": "The weights above were chosen rather than calculated, so the ranking was checked against a second set of weights taken from the data themselves. Principal component analysis was run on the merit scores, and each attribute was then weighted by the sum, over the components with an eigenvalue of one or more, of its squared loading times the share of variance that component carries. This is the usual way of setting weights for a composite indicator without judgement. The two rankings agreed closely, with a mean Spearman correlation of 0.942 and a lowest value of 0.867, and the same cultivar came first in 3 of the 4 products, as Table 30 shows. The ranking therefore follows from the data and not from the particular weights chosen. It should be noted that principal component analysis is used here only to set the weights; the components themselves cannot rank the cultivars for quality, because a component measures the direction of greatest variation and takes no account of whether a high or a low value is the better one.",
+"reuse": null
+},
+{
+"idx": 223,
+"sec": "",
+"mode": "",
+"n": 63,
+"text": "The mean rank correlation was 0.942 and the lowest 0.867, and the same cultivar came first in 3 of the 4 products. The ranking is therefore not an artefact of the weights chosen. Where the two disagreed, the cultivars concerned were close together on the index in any case, so the disagreement is one of order between near equals rather than of substance.",
+"reuse": "The mean rank correlation was 0.942 and the minimum 0.867, and the same cultivar ranked first in 3 of the 4 products. The ranking is therefore not an artefact of the weights adopted. Where the two diverged, the cultivars concerned were in any case closely positioned on the index, so that the divergence is one of order between near-equals rather than of substance."
+},
+{
+"idx": 226,
+"sec": "",
+"mode": "",
+"n": 89,
+"text": "Cluster analysis was used to examine how the cultivars and the products group together when all the attributes are considered simultaneously. The 40 cultivar and product combinations were standardised on the 22 attributes measured in every product, and Ward's method was applied to the Euclidean distances between them. The number of groups was set at 4. Where a cluster contains only one product, it is the method of preparation that determines the quality profile; where cultivars of different products fall together, the two are comparable in the finished form.",
+"reuse": "Cluster analysis was employed to examine how the cultivars and the products group together when all the attributes are considered simultaneously. The 40 cultivar and product combinations were standardised on the 22 attributes determined in every product, and Ward's method was applied to the Euclidean distances between them, the number of groups being set at 4. Where a cluster contains only one product, the method of preparation determines the quality profile; where cultivars of different products fall together, the two are comparable in the finished form."
+},
+{
+"idx": 231,
+"sec": "",
+"mode": "",
+"n": 89,
+"text": "Of the 4 clusters, 3 contain only one product. This indicates that the products differ from one another more than the cultivars differ within any one product. Amarnath and Ravi Kumar (2025) used Ward's method in the same way in rice and drew on the cluster means to pick genotypes for further work, on the reasoning that crosses between distant clusters are more likely to give useful variation. Dutta and Mahanta (2014) made the same point from the product side, that different traditional preparations need genuinely different raw material.",
+"reuse": "Of the 4 clusters, 3 contain only one product. This indicates that the products differ from one another to a greater extent than the cultivars differ within any one product. Amarnath and Ravi Kumar (2025) applied Ward's method comparably in rice and drew upon the cluster means to select genotypes for further work, on the reasoning that crosses between distant clusters are more likely to generate useful variation. Dutta and Mahanta (2014) advanced the same point from the product side, namely that different traditional preparations require genuinely different raw material."
+},
+{
+"idx": 234,
+"sec": "",
+"mode": "",
+"n": 114,
+"text": "Nine traditional aromatic rice cultivars of West Bengal were tested against Dudeshwar, a non-aromatic cultivar used as the control, in the 4 cooked products of this group. Each was grown and prepared in the same way for two years and analysed as a pooled completely randomised design. In every product the cultivars differed significantly for nearly all the attributes measured, while the year and its interaction with cultivar were significant for far fewer. The main finding is therefore straightforward: the choice of cultivar determines the quality of the product, and the year of production makes much less difference. A cultivar selected on one year of results will generally hold its position in the next.",
+"reuse": "Nine traditional aromatic rice cultivars of West Bengal were evaluated against Dudeshwar, a non-aromatic cultivar serving as the control, in the 4 cooked products of this group. Each was grown and prepared identically for two years and analysed as a pooled completely randomised design. In every product the cultivars differed significantly for nearly all the attributes determined, whereas year and its interaction with cultivar were significant for considerably fewer. The principal finding is therefore unambiguous: the choice of cultivar determines the quality of the product, and the year of production is of markedly less consequence. A cultivar selected on one year of results will generally retain its position in the next."
+},
+{
+"idx": 235,
+"sec": "",
+"mode": "",
+"n": 68,
+"text": "On this index the best cultivar was Kalojira for table rice; Radhunipagal for kichidi; Kataribhog for pulao; Gobindabhog for payash. The control came at or near the bottom in every product, so replacing Dudeshwar with the cultivars named here would improve the product without any change in the method of preparation. Table 28 gives, for each product, the cultivar with the best balance of attributes against the control.",
+"reuse": null
+},
+{
+"idx": 236,
+"sec": "",
+"mode": "",
+"n": 176,
+"text": "The weights above were chosen rather than calculated, so the ranking was checked against a second set of weights taken from the data themselves. Principal component analysis was run on the merit scores, and each attribute was then weighted by the sum, over the components with an eigenvalue of one or more, of its squared loading times the share of variance that component carries. This is the usual way of setting weights for a composite indicator without judgement. The two rankings agreed closely, with a mean Spearman correlation of 0.942 and a lowest value of 0.867, and the same cultivar came first in 3 of the 4 products, as Table 30 shows. The ranking therefore follows from the data and not from the particular weights chosen. It should be noted that principal component analysis is used here only to set the weights; the components themselves cannot rank the cultivars for quality, because a component measures the direction of greatest variation and takes no account of whether a high or a low value is the better one.",
+"reuse": null
+},
+{
+"idx": 237,
+"sec": "",
+"mode": "",
+"n": 105,
+"text": "Cluster analysis was then run on all 40 cultivar and product combinations together, using the 22 attributes measured in every product. Ward's method placed them in 4 groups, of which 3 contained a single product only (Table 31 and Fig. 27). When the products are compared with one another, therefore, it is the method of preparation rather than the cultivar that determines the broad quality type, whereas within any one product the cultivar is the variable under the control of the processor. The two findings are complementary rather than contradictory: the preparation determines the type of product and the cultivar its standing within that type.",
+"reuse": null
+},
+{
+"idx": 238,
+"sec": "",
+"mode": "",
+"n": 50,
+"text": "The cultivars named here should be tested again on a larger scale and over more years before being recommended generally. For breeding work aimed at improving the group as a whole, parents are best drawn from different clusters, since crosses between distant clusters are more likely to release useful variation.",
+"reuse": "The cultivars identified here should be re-evaluated on a larger scale and over additional years before being recommended generally. For breeding work directed at improving the group as a whole, parents are best drawn from different clusters, since crosses between distant clusters are more likely to release useful variation."
+},
+{
+"idx": 243,
+"sec": "",
+"mode": "",
+"n": 18,
+"text": "Cultivars: DD, GB, HK, KB, KJ, KN, LB, RP, RT, TP. Products: Popped rice, Puffed rice, Flattened rice.",
+"reuse": null
+},
+{
+"idx": 246,
+"sec": "",
+"mode": "",
+"n": 109,
+"text": "Results. In popped rice the values ranged from 15.66 in Harinakhuri to 19.64 % in Kalojira. The control recorded 16.97 %, 8 cultivars exceeded the control, and Kalojira gave the most favourable value. Kalojira recorded the highest value in puffed rice at 19.69 % and Harinakhuri the lowest at 15.64 %. Against 17.38 % for the control, 7 cultivars exceeded the control, and Kalojira was the most favourable entry. For flattened rice the values lay between 16.00 and 20.01 %, with the control at 17.61 %. Here 8 cultivars exceeded the control and Kalonunia ranked highest. The means are set out in Table 32 and shown in Fig. 28.",
+"reuse": null
+},
+{
+"idx": 247,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Cultivars differed significantly in all the products. The year effect was significant in 1 product and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.10 to 0.89 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 249,
+"sec": "",
+"mode": "",
+"n": 67,
+"text": "Discussion. Amylose content determines the firmness and separateness of the cooked grain. A higher content gives a firmer, drier grain that holds its shape, and a lower content a softer, stickier one. Amylose is laid down by granule bound starch synthase I at the Waxy locus, and cultivars differ in the allele they carry. Cooking disorganises the granule but does not alter the amount of amylose present.",
+"reuse": null
+},
+{
+"idx": 250,
+"sec": "",
+"mode": "",
+"n": 85,
+"text": "Earlier work reports much the same. Muchlisyiyah et al. (2023) found apparent amylose decides eating and processing behaviour; Tian et al. (2018) found crystallinity and digestibility fall without amylose changing; Cheng et al. (2019) found heat and moisture rebuild the matrix into a firmer gel; Devi and Badwaik (2022) found amylose explains most of the varietal difference in cooking. The most favourable entry differed between products. Kalojira and Kalonunia each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 253,
+"sec": "",
+"mode": "",
+"n": 109,
+"text": "Results. Harinakhuri recorded the highest value in popped rice at 77.07 % and Kataribhog the lowest at 73.00 %. Against 73.11 % for the control, 8 cultivars exceeded the control, and Harinakhuri was the most favourable entry. For puffed rice the values lay between 73.85 and 78.50 %, with the control at 75.41 %. Here one cultivar exceeded the control and Harinakhuri ranked highest. In flattened rice the values ranged from 70.22 in Dudeshwar to 74.15 % in Harinakhuri. The control recorded 70.22 %, 8 cultivars exceeded the control, and Harinakhuri gave the most favourable value. The means are set out in Table 33 and shown in Fig. 29.",
+"reuse": null
+},
+{
+"idx": 254,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "The cultivars were significantly different in every product. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 0.31 to 1.41 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 256,
+"sec": "",
+"mode": "",
+"n": 70,
+"text": "Discussion. Starch is the energy supplying fraction of the grain and the basis of its texture. A higher value indicates a well filled endosperm and good recovery of the edible fraction. Starch content depends on how efficiently assimilate was moved into the endosperm during grain filling. In the prepared product it is further affected by the loss of low molecular weight material and by the water taken up in cooking.",
+"reuse": null
+},
+{
+"idx": 257,
+"sec": "",
+"mode": "",
+"n": 84,
+"text": "This is consistent with previous studies. Muchlisyiyah et al. (2023) found starch makes up about nine tenths of milled rice by dry weight; Tian et al. (2018) found the residual starch is swollen and less crystalline; Iqbal et al. (2021) found restructured starch resists digestion; Cheng et al. (2019) found how far the starch gelatinises drives texture and digestion. Harinakhuri gave the most favourable value in every product of this group, and is therefore the cultivar to select where a high value is required.",
+"reuse": null
+},
+{
+"idx": 260,
+"sec": "",
+"mode": "",
+"n": 109,
+"text": "Results. For popped rice the values lay between 6.57 and 7.63 %, with the control at 6.68 %. Here 4 cultivars exceeded the control and Radhunipagal ranked highest. In puffed rice the values ranged from 6.23 in Harinakhuri to 7.15 % in Gobindabhog. The control recorded 6.54 %, 2 cultivars exceeded the control, and Gobindabhog gave the most favourable value. Kalojira recorded the highest value in flattened rice at 7.23 % and Radhatilak the lowest at 6.13 %. Against 6.52 % for the control, one cultivar exceeded the control, and Kalojira was the most favourable entry. The means are set out in Table 34 and shown in Fig. 30.",
+"reuse": null
+},
+{
+"idx": 261,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "The cultivar effect was significant throughout the group. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 2.46 to 4.36 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 263,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Discussion. Protein is the main nutritional contribution of rice after energy, and it also firms the cooked grain through disulphide bonding. Most of the protein is glutelin stored in protein bodies beneath the aleurone, and the amount depends on the nitrogen moved into the grain during filling. Cooking does not alter it.",
+"reuse": null
+},
+{
+"idx": 264,
+"sec": "",
+"mode": "",
+"n": 79,
+"text": "Published work points in the same direction. Muchlisyiyah et al. (2023) found total protein is unchanged by hydrothermal treatment; Cheng et al. (2019) found disulphide cross links raise firmness; Akter et al. (2025) found protein rose from 6.68 to 9.42 per cent after treatment; Iqbal et al. (2021) found the protein network controls enzyme access to starch. The leading position was shared between Gobindabhog, Kalojira and Radhunipagal, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 267,
+"sec": "",
+"mode": "",
+"n": 109,
+"text": "Results. In popped rice the values ranged from 0.47 in Dudeshwar to 0.60 % in Kataribhog. The control recorded 0.47 %, 5 cultivars exceeded the control, and Kataribhog gave the most favourable value. Radhunipagal recorded the highest value in puffed rice at 1.97 % and Dudeshwar the lowest at 1.21 %. Against 1.21 % for the control, 9 cultivars exceeded the control, and Radhunipagal was the most favourable entry. For flattened rice the values lay between 0.93 and 1.39 %, with the control at 1.06 %. Here 7 cultivars exceeded the control and Kalojira ranked highest. The means are set out in Table 35 and shown in Fig. 31.",
+"reuse": null
+},
+{
+"idx": 268,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "All the products showed a significant cultivar effect. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 1.17 to 3.48 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 270,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Discussion. Soluble protein is the fraction that remains extractable, and therefore digestible, after cooking. A higher value indicates that heat has not aggregated the protein. Heat ruptures the protein bodies and then cross links the released chains through disulphide bonds, which lowers the extractable fraction. Cultivars richer in cysteine lose more.",
+"reuse": null
+},
+{
+"idx": 271,
+"sec": "",
+"mode": "",
+"n": 81,
+"text": "The same pattern has been reported before. Muchlisyiyah et al. (2023) found solubility changes while total protein does not; Cheng et al. (2019) found cross linking lowers the extractable fraction; Kabir et al. (2025) found treatment changes how protein and bound phenolics associate; Roy et al. (2019) found solubility falls as steam and soaking get harsher. Kalojira, Kataribhog and Radhunipagal each headed the ranking in a different product, so this attribute cannot settle the selection for the group as a whole.",
+"reuse": null
+},
+{
+"idx": 274,
+"sec": "",
+"mode": "",
+"n": 109,
+"text": "Results. Kalonunia recorded the highest value in popped rice at 1.97 % and Tulaipanjii the lowest at 1.66 %. Against 1.79 % for the control, no cultivar exceeded the control, and Kalonunia was the most favourable entry. For puffed rice the values lay between 0.68 and 0.93 %, with the control at 0.75 %. Here one cultivar exceeded the control and Kalojira ranked highest. In flattened rice the values ranged from 1.33 in Gobindabhog to 1.53 % in Tulaipanjii. The control recorded 1.43 %, no cultivar exceeded the control, and Tulaipanjii gave the most favourable value. The means are set out in Table 36 and shown in Fig. 32.",
+"reuse": null
+},
+{
+"idx": 275,
+"sec": "",
+"mode": "",
+"n": 49,
+"text": "The cultivar effect was significant in 1 products out of 3. The year effect was significant in 1 product, but the interaction was not significant anywhere, so the ranking of the cultivars held in both years. Coefficients of variation ranged from 7.81 to 9.86 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 277,
+"sec": "",
+"mode": "",
+"n": 62,
+"text": "Discussion. Lipid is located in the germ and aleurone and carries the fat soluble vitamins and the aroma compounds. A higher content is better, subject to the fact that excess lipid shortens shelf life. Lipid is stored as triacylglycerol in the germ and aleurone, so the value reflects both the size of these tissues in the cultivar and the extent of milling.",
+"reuse": null
+},
+{
+"idx": 278,
+"sec": "",
+"mode": "",
+"n": 89,
+"text": "Earlier reports support this finding. Muchlisyiyah et al. (2023) found lipid sits in germ and aleurone and oxidises readily; Hu et al. (2019) found moving water inside the kernel shifts the lipid bearing tissues; Devi and Badwaik (2022) found traditional cultivars differ widely in proximate composition; Oliveira et al. (2026) found milling is the main route by which the outer layers are lost. No single cultivar was superior in all the products. Kalojira, Kalonunia and Tulaipanjii ranked highest in different ones, so the decision depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 281,
+"sec": "",
+"mode": "",
+"n": 110,
+"text": "Results. For popped rice the values lay between 1.33 and 1.74 %, with the control at 1.60 %. Here 2 cultivars exceeded the control and Lal Badshabhog ranked highest. In puffed rice the values ranged from 0.26 in Kataribhog to 0.72 % in Dudeshwar. The control recorded 0.72 %, no cultivar exceeded the control, and Dudeshwar gave the most favourable value. Dudeshwar recorded the highest value in flattened rice at 1.48 % and Kataribhog the lowest at 1.09 %. Against 1.48 % for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. The means are set out in Table 37 and shown in Fig. 33.",
+"reuse": null
+},
+{
+"idx": 282,
+"sec": "",
+"mode": "",
+"n": 58,
+"text": "The cultivars separated significantly wherever the attribute was measured. The year effect was not significant in any product, though the year by cultivar interaction was significant in 1, so in that product the difference between cultivars was not of the same magnitude in both years. Coefficients of variation ranged from 1.24 to 3.17 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 284,
+"sec": "",
+"mode": "",
+"n": 43,
+"text": "Discussion. Ash is the residue remaining after ignition and represents the total inorganic contribution of the grain. Ash follows the germ and aleurone, which carry most of the mineral matter, so cultivars with a thicker aleurone or a larger embryo give higher values.",
+"reuse": null
+},
+{
+"idx": 285,
+"sec": "",
+"mode": "",
+"n": 88,
+"text": "Similar results have been published elsewhere. Hu et al. (2019) found ash follows how much germ and aleurone survive; Muchlisyiyah et al. (2023) found the spread in ash comes from the outer grain layers; Jannasch and Wang (2020) found the steeping medium can add to the mineral fraction; Kumar et al. (2022) found ash is redistributed rather than lost on treatment. The most favourable entry differed between products. Dudeshwar and Lal Badshabhog each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 289,
+"sec": "",
+"mode": "",
+"n": 116,
+"text": "Results. In popped rice the values ranged from 3.50 in Harinakhuri to 5.53 mg GAE/g in Tulaipanjii. The control recorded 3.89 mg GAE/g, 4 cultivars exceeded the control, and Tulaipanjii gave the most favourable value. Radhatilak recorded the highest value in puffed rice at 13.74 mg GAE/g and Dudeshwar the lowest at 6.42 mg GAE/g. Against 6.42 mg GAE/g for the control, 9 cultivars exceeded the control, and Radhatilak was the most favourable entry. For flattened rice the values lay between 2.05 and 4.36 mg GAE/g, with the control at 2.54 mg GAE/g. Here 8 cultivars exceeded the control and Gobindabhog ranked highest. The means are set out in Table 38 and shown in Fig. 34.",
+"reuse": null
+},
+{
+"idx": 290,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Cultivars differed significantly in all the products. The year effect was significant in 3 products and the year by cultivar interaction in 3, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 1.22 to 2.30 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 292,
+"sec": "",
+"mode": "",
+"n": 64,
+"text": "Discussion. Phenolic acids are the principal antioxidants of the grain and are largely bound to the pericarp cell wall. A higher retained content in the product is better. Most phenolic acid is bound to arabinoxylan in the pericarp wall. Heat cleaves these bonds and releases it, while simultaneously degrading and leaching the free fraction, so the value recorded is the balance of the two.",
+"reuse": null
+},
+{
+"idx": 293,
+"sec": "",
+"mode": "",
+"n": 84,
+"text": "Comparable observations appear in the literature. Phimphilai et al. (2026) found popping and steam cooking cut total phenolics sharply; Shavandi et al. (2023) found infrared puffing raises the extractable fraction; Muchlisyiyah et al. (2023) found heat frees ferulic and p-coumaric acid from the cell wall; Kabir et al. (2025) found soaking and cooking lower phenolic acids, bound exceeding free. The leading cultivar changed with the product, Gobindabhog, Radhatilak and Tulaipanjii ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 296,
+"sec": "",
+"mode": "",
+"n": 82,
+"text": "Results. Radhatilak recorded the highest value in puffed rice at 0.52 mg QE/g and Dudeshwar the lowest at 0.23 mg QE/g. Against 0.23 mg QE/g for the control, 9 cultivars exceeded the control, and Radhatilak was the most favourable entry. For flattened rice the values lay between 0.03 and 0.41 mg QE/g, with the control at 0.03 mg QE/g. Here 8 cultivars exceeded the control and Gobindabhog ranked highest. The means are set out in Table 39 and shown in Fig. 35.",
+"reuse": null
+},
+{
+"idx": 297,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "The cultivars were significantly different in every product. The year effect was significant in 2 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 4.16 to 8.36 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 299,
+"sec": "",
+"mode": "",
+"n": 57,
+"text": "Discussion. Flavonoids contribute to antioxidant activity and to pericarp colour. They degrade readily on heating, so the residual content indicates how gently the grain was treated. Flavonoids are synthesised in the pericarp and cultivars differ in the amount deposited. They are readily destroyed by heat, so the residual content reflects both the initial level and the treatment.",
+"reuse": null
+},
+{
+"idx": 300,
+"sec": "",
+"mode": "",
+"n": 76,
+"text": "Previous studies describe the same behaviour. Phimphilai et al. (2026) found flavonoids break down more readily than total phenolics; Kabir et al. (2025) found most flavonoid sits in the bound fraction; Oliveira et al. (2026) found long cooking can cost up to forty per cent; Devi and Badwaik (2022) found traditional cultivars differ several fold. The leading position was shared between Gobindabhog and Radhatilak, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 303,
+"sec": "",
+"mode": "",
+"n": 116,
+"text": "Results. For popped rice the values lay between 9.67 and 12.64 mg TE/g, with the control at 9.67 mg TE/g. Here 9 cultivars exceeded the control and Kalonunia ranked highest. In puffed rice the values ranged from 1.46 in Dudeshwar to 4.19 mg TE/g in Radhunipagal. The control recorded 1.46 mg TE/g, 9 cultivars exceeded the control, and Radhunipagal gave the most favourable value. Kataribhog recorded the highest value in flattened rice at 3.14 mg TE/g and Kalonunia the lowest at 1.57 mg TE/g. Against 2.50 mg TE/g for the control, 6 cultivars exceeded the control, and Kataribhog was the most favourable entry. The means are set out in Table 40 and shown in Fig. 36.",
+"reuse": null
+},
+{
+"idx": 304,
+"sec": "",
+"mode": "",
+"n": 46,
+"text": "The cultivar effect was significant throughout the group. The year effect was significant in 3 products, but the interaction was not significant anywhere, so the ranking of the cultivars held in both years. Coefficients of variation ranged from 0.51 to 1.80 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 306,
+"sec": "",
+"mode": "",
+"n": 47,
+"text": "Discussion. Antioxidant capacity measures the activity of the whole bioactive fraction rather than its quantity, so a higher value is desirable. Antioxidant capacity derives from the surviving phenolics and flavonoids together with browning products formed during heating, so cultivars rich in bound phenolics retain more of it.",
+"reuse": null
+},
+{
+"idx": 307,
+"sec": "",
+"mode": "",
+"n": 80,
+"text": "Earlier work reports much the same. Phimphilai et al. (2026) found capacity tracks phenolic and flavonoid content; Shavandi et al. (2023) found activity moves with total phenolics as puffing changes; Kabir et al. (2025) found the bound phenolics account for most of the activity; Muchlisyiyah et al. (2023) found browning products add to measured activity. Kalonunia, Kataribhog and Radhunipagal each headed the ranking in a different product, so this attribute cannot settle the selection for the group as a whole.",
+"reuse": null
+},
+{
+"idx": 310,
+"sec": "",
+"mode": "",
+"n": 109,
+"text": "Results. In popped rice the values ranged from 0.12 in Kalonunia to 0.32 % in Kataribhog. The control recorded 0.26 %, 6 cultivars exceeded the control, and Kalonunia gave the most favourable value. Kalonunia recorded the highest value in puffed rice at 0.44 % and Kalojira the lowest at 0.20 %. Against 0.21 % for the control, one cultivar exceeded the control, and Kalojira was the most favourable entry. For flattened rice the values lay between 0.20 and 0.47 %, with the control at 0.37 %. Here 5 cultivars exceeded the control and Tulaipanjii ranked highest. The means are set out in Table 41 and shown in Fig. 37.",
+"reuse": null
+},
+{
+"idx": 311,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "All the products showed a significant cultivar effect. The year effect was significant in 1 product and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 2.46 to 6.95 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 313,
+"sec": "",
+"mode": "",
+"n": 56,
+"text": "Discussion. Phytic acid binds iron, zinc and calcium in the intestine and prevents their absorption. A lower content is therefore better, since it releases the very minerals the grain supplies. Phytate is deposited as globoids in the aleurone during grain filling and is hydrolysed by endogenous phytase during soaking, so the residue depends on both processes.",
+"reuse": null
+},
+{
+"idx": 314,
+"sec": "",
+"mode": "",
+"n": 88,
+"text": "This is consistent with previous studies. Muchlisyiyah et al. (2023) found treated brown rice holds about half the phytate of untreated; Kumar et al. (2022) found less phytate means more iron and zinc absorbed; Bhar et al. (2022) found cutting phytate is a main nutritional argument for processed grain; Hu et al. (2019) found germination and hydrothermal treatment work in different ways. No single cultivar was superior in all the products. Kalojira, Kalonunia and Tulaipanjii ranked highest in different ones, so the decision depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 318,
+"sec": "",
+"mode": "",
+"n": 111,
+"text": "Results. Dudeshwar recorded the highest value in popped rice at 0.51 ppm and Radhatilak the lowest at 0.38 ppm. Against 0.51 ppm for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. For puffed rice the values lay between 0.29 and 0.62 ppm, with the control at 0.42 ppm. Here 2 cultivars exceeded the control and Kataribhog ranked highest. In flattened rice the values ranged from 0.33 in Radhunipagal to 0.55 ppm in Lal Badshabhog. The control recorded 0.52 ppm, no cultivar exceeded the control, and Lal Badshabhog gave the most favourable value. The means are set out in Table 42 and shown in Fig. 38.",
+"reuse": null
+},
+{
+"idx": 319,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Significance was reached in each of the products. The year effect was significant in 3 products and the year by cultivar interaction in 2, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 6.04 to 6.11 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 321,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Discussion. Copper is required for iron transport and for several enzymes, and cereals are a principal dietary source. A higher content in the product is better. Copper is carried into the grain by COPT and HMA transporters and stored mainly in the aleurone, so cultivars with greater uptake and translocation accumulate more.",
+"reuse": null
+},
+{
+"idx": 322,
+"sec": "",
+"mode": "",
+"n": 89,
+"text": "Published work points in the same direction. Sonu et al. (2025) found genotype governs grain micronutrient concentration; Kumar et al. (2022) found trace metals shift between bran and endosperm rather than being lost; Muchlisyiyah et al. (2023) found soluble minerals move inward from husk and pericarp; Hu et al. (2019) found water moving inside the kernel displaces elements from the aleurone. The most favourable entry differed between products. Dudeshwar, Kataribhog and Lal Badshabhog each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 325,
+"sec": "",
+"mode": "",
+"n": 109,
+"text": "Results. For popped rice the values lay between 2.77 and 3.70 ppm, with the control at 3.10 ppm. Here 4 cultivars exceeded the control and Gobindabhog ranked highest. In puffed rice the values ranged from 0.93 in Radhunipagal to 1.76 ppm in Harinakhuri. The control recorded 1.31 ppm, 4 cultivars exceeded the control, and Harinakhuri gave the most favourable value. Gobindabhog recorded the highest value in flattened rice at 3.75 ppm and Tulaipanjii the lowest at 1.83 ppm. Against 2.59 ppm for the control, 3 cultivars exceeded the control, and Gobindabhog was the most favourable entry. The means are set out in Table 43 and shown in Fig. 39.",
+"reuse": null
+},
+{
+"idx": 326,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "The cultivars separated significantly wherever the attribute was measured. The year effect was significant in 3 products and the year by cultivar interaction in 3, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 1.80 to 3.52 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 328,
+"sec": "",
+"mode": "",
+"n": 61,
+"text": "Discussion. Iron deficiency is the commonest nutritional disorder in rice eating populations, so the iron retained in the product is of direct importance. A higher content is better. Grain iron depends on the amount remobilised from the flag leaf and on the chelators that transport it, both of which differ between cultivars. Cooking moves some of it inward from the pericarp.",
+"reuse": null
+},
+{
+"idx": 329,
+"sec": "",
+"mode": "",
+"n": 87,
+"text": "The same pattern has been reported before. Sonu et al. (2025) found grain iron is heritable but few lines reach nutritional targets; Kumar et al. (2022) found iron moves inward and becomes more available; Jannasch and Wang (2020) found the steep water can carry iron and calcium into the endosperm; Akter et al. (2025) found iron fell while protein and zinc were concentrated. The leading cultivar changed with the product, Gobindabhog and Harinakhuri ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 332,
+"sec": "",
+"mode": "",
+"n": 110,
+"text": "Results. In popped rice the values ranged from 0.60 in Dudeshwar to 0.79 ppm in Kataribhog. The control recorded 0.60 ppm, 6 cultivars exceeded the control, and Kataribhog gave the most favourable value. Kalojira recorded the highest value in puffed rice at 0.42 ppm and Lal Badshabhog the lowest at 0.21 ppm. Against 0.33 ppm for the control, 5 cultivars exceeded the control, and Kalojira was the most favourable entry. For flattened rice the values lay between 0.48 and 1.36 ppm, with the control at 0.57 ppm. Here 2 cultivars exceeded the control and Gobindabhog ranked highest. The means are set out in Table 44 and shown in Fig. 40.",
+"reuse": null
+},
+{
+"idx": 333,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Cultivars differed significantly in all the products. The year effect was significant in 3 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 5.21 to 6.38 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 335,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "Discussion. Zinc is required for immunity, growth and wound healing, and is the mineral after iron most often deficient in rice based diets. A higher content is better. Zinc loading depends on the HMA2 and HMA4 transporters and on remobilisation during grain filling. It is held in the aleurone largely as phytate salts.",
+"reuse": null
+},
+{
+"idx": 336,
+"sec": "",
+"mode": "",
+"n": 77,
+"text": "Earlier reports support this finding. Kumar et al. (2022) found zinc moves outward on treatment, unlike iron; Sonu et al. (2025) found grain zinc is polygenic with wide genotypic variance; Hu et al. (2019) found zinc is held in the germ and aleurone; Oliveira et al. (2026) found polishing matters more than the thermal step. The leading position was shared between Gobindabhog, Kalojira and Kataribhog, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 339,
+"sec": "",
+"mode": "",
+"n": 110,
+"text": "Results. Kalonunia recorded the highest value in popped rice at 0.94 ppm and Dudeshwar the lowest at 0.45 ppm. Against 0.45 ppm for the control, 8 cultivars exceeded the control, and Kalonunia was the most favourable entry. For puffed rice the values lay between 0.18 and 0.45 ppm, with the control at 0.19 ppm. Here 8 cultivars exceeded the control and Gobindabhog ranked highest. In flattened rice the values ranged from 0.38 in Lal Badshabhog to 0.84 ppm in Kalonunia. The control recorded 0.43 ppm, 6 cultivars exceeded the control, and Kalonunia gave the most favourable value. The means are set out in Table 45 and shown in Fig. 41.",
+"reuse": null
+},
+{
+"idx": 340,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "The cultivars were significantly different in every product. The year effect was significant in 3 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 4.30 to 5.96 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 342,
+"sec": "",
+"mode": "",
+"n": 56,
+"text": "Discussion. Manganese is required by superoxide dismutase and certain other enzymes. The dietary requirement is small but cereals supply most of it, so a higher content is better. Manganese enters through NRAMP and MTP transporters and accumulates in the aleurone, so the value depends on uptake and on how much of the outer grain survives milling.",
+"reuse": null
+},
+{
+"idx": 343,
+"sec": "",
+"mode": "",
+"n": 82,
+"text": "Similar results have been published elsewhere. Hu et al. (2019) found aleurone bound elements are displaced as water redistributes; Muchlisyiyah et al. (2023) found soluble minerals migrate inward during steeping; Sonu et al. (2025) found genotype counts for more than environment in mineral density; Kumar et al. (2022) found retention depends on the starting level and the treatment. Gobindabhog and Kalonunia each headed the ranking in a different product, so this attribute cannot settle the selection for the group as a whole.",
+"reuse": null
+},
+{
+"idx": 347,
+"sec": "",
+"mode": "",
+"n": 102,
+"text": "Results. For popped rice the values lay between 64.32 and 72.78, with the control at 69.97. Here 4 cultivars exceeded the control and Kataribhog ranked highest. In puffed rice the values ranged from 67.79 in Tulaipanjii to 75.51 in Kataribhog. The control recorded 72.23, 4 cultivars exceeded the control, and Kataribhog gave the most favourable value. Dudeshwar recorded the highest value in flattened rice at 77.35 and Kalojira the lowest at 69.63. Against 77.35 for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. The means are set out in Table 46 and shown in Fig. 42.",
+"reuse": null
+},
+{
+"idx": 348,
+"sec": "",
+"mode": "",
+"n": 46,
+"text": "The cultivar effect was significant throughout the group. The year effect was significant in 2 products, but the interaction was not significant anywhere, so the ranking of the cultivars held in both years. Coefficients of variation ranged from 0.04 to 0.39 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 350,
+"sec": "",
+"mode": "",
+"n": 56,
+"text": "Discussion. Lightness measures how pale the product has remained. It falls with browning and with inward movement of pigments, so a higher value generally indicates gentler processing. Lightness falls as browning products accumulate and as pericarp pigments dissolve and migrate inward. Cultivars with more reducing sugar and free amino nitrogen brown further under the same treatment.",
+"reuse": null
+},
+{
+"idx": 351,
+"sec": "",
+"mode": "",
+"n": 84,
+"text": "Comparable observations appear in the literature. Muchlisyiyah et al. (2023) found darkening comes from pigment movement and browning; Srisang et al. (2021) found lightness falls as the thermal treatment gets harsher; Panda et al. (2021) found shorter heating gives a lighter product at the same moisture loss; Akter et al. (2025) found a darker product was still preferred overall. No single cultivar was superior in all the products. Dudeshwar and Kataribhog ranked highest in different ones, so the decision depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 354,
+"sec": "",
+"mode": "",
+"n": 102,
+"text": "Results. In popped rice the values ranged from -1.86 in Radhatilak to 1.47 in Tulaipanjii. The control recorded -0.90, 2 cultivars exceeded the control, and Radhatilak gave the most favourable value. Radhunipagal recorded the highest value in puffed rice at 0.55 and Harinakhuri the lowest at -1.40. Against -0.72 for the control, 4 cultivars exceeded the control, and Harinakhuri was the most favourable entry. For flattened rice the values lay between -1.03 and 1.50, with the control at -0.53. Here 3 cultivars exceeded the control and Harinakhuri ranked highest. The means are set out in Table 47 and shown in Fig. 43.",
+"reuse": null
+},
+{
+"idx": 355,
+"sec": "",
+"mode": "",
+"n": 46,
+"text": "All the products showed a significant cultivar effect. The year effect was significant in 1 product, but the interaction was not significant anywhere, so the ranking of the cultivars held in both years. Coefficients of variation ranged from -4.61 to 11.92 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 357,
+"sec": "",
+"mode": "",
+"n": 65,
+"text": "Discussion. The a* value is signed: a positive value places the sample on the red side of the green to red axis and a negative value on the green side. Redness increases as browning proceeds, so a lower value is preferred. Redness rises as melanoidins and their coloured precursors accumulate, and the rate depends on the reducing sugars and free amino acids the cultivar supplies.",
+"reuse": null
+},
+{
+"idx": 358,
+"sec": "",
+"mode": "",
+"n": 77,
+"text": "Previous studies describe the same behaviour. Muchlisyiyah et al. (2023) found the amber shift comes from Maillard browning; Srisang et al. (2021) found colour builds with time and temperature; Ayamdoo et al. (2014) found how far colour develops is cultivar specific; Panda et al. (2021) found shorter heating limits colour development. The most favourable entry differed between products. Harinakhuri and Radhatilak each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 361,
+"sec": "",
+"mode": "",
+"n": 102,
+"text": "Results. Radhatilak recorded the highest value in popped rice at 114.00 and Tulaipanjii the lowest at 101.07. Against 108.11 for the control, 4 cultivars exceeded the control, and Tulaipanjii was the most favourable entry. For puffed rice the values lay between 6.13 and 12.09, with the control at 8.65. Here 3 cultivars exceeded the control and Radhatilak ranked highest. In flattened rice the values ranged from 7.62 in Tulaipanjii to 11.62 in Kalonunia. The control recorded 9.49, 5 cultivars exceeded the control, and Tulaipanjii gave the most favourable value. The means are set out in Table 48 and shown in Fig. 44.",
+"reuse": null
+},
+{
+"idx": 362,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Significance was reached in each of the products. The year effect was significant in 1 product and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.28 to 3.18 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 364,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "Discussion. Yellowness arises from bran pigments migrating into the endosperm and from early browning products. Except where a golden colour is required, a lower value is better. Yellowness arises from carotenoids and flavonoids carried in from the pericarp during hydration together with early browning products, so cultivars with more pigment give higher values.",
+"reuse": null
+},
+{
+"idx": 365,
+"sec": "",
+"mode": "",
+"n": 80,
+"text": "Earlier work reports much the same. Muchlisyiyah et al. (2023) found bran pigments dissolve on soaking and fix on drying; Srisang et al. (2021) found yellowing is proportional to the heat load; Devi and Badwaik (2022) found colour readings track pigment composition; Oliveira et al. (2026) found final colour depends on pigment and on processing together. The leading cultivar changed with the product, Radhatilak and Tulaipanjii ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 368,
+"sec": "",
+"mode": "",
+"n": 102,
+"text": "Results. For popped rice the values lay between 33.99 and 45.45, with the control at 38.86. Here 4 cultivars exceeded the control and Tulaipanjii ranked highest. In puffed rice the values ranged from 35.73 in Kataribhog to 44.73 in Tulaipanjii. The control recorded 43.67, 6 cultivars exceeded the control, and Kataribhog gave the most favourable value. Tulaipanjii recorded the highest value in flattened rice at 45.97 and Kataribhog the lowest at 36.05. Against 44.27 for the control, 6 cultivars exceeded the control, and Kataribhog was the most favourable entry. The means are set out in Table 49 and shown in Fig. 45.",
+"reuse": null
+},
+{
+"idx": 369,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "The cultivars separated significantly wherever the attribute was measured. The year effect was significant in 2 products and the year by cultivar interaction in 1, so the ranking of the cultivars was largely stable from one year to the next. Coefficients of variation ranged from 0.56 to 0.67 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 371,
+"sec": "",
+"mode": "",
+"n": 52,
+"text": "Discussion. This measures the overall colour distance between the product and the raw grain. A smaller value means the grain has changed in texture without changing greatly in appearance. This combines all three colour coordinates and so registers both pigment migration and browning, each of which scales with what the cultivar provides.",
+"reuse": null
+},
+{
+"idx": 372,
+"sec": "",
+"mode": "",
+"n": 85,
+"text": "This is consistent with previous studies. Muchlisyiyah et al. (2023) found colour is the main barrier to accepting processed rice; Srisang et al. (2021) found a combined colour index separates treatments better than one axis; Panda et al. (2021) found the same processing can be had at a smaller colour cost; Akter et al. (2025) found overall colour change matched what the panel judged. The leading position was shared between Kataribhog and Tulaipanjii, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 376,
+"sec": "",
+"mode": "",
+"n": 102,
+"text": "Results. In popped rice the values ranged from 5.98 in Dudeshwar to 8.59 in Kalojira. The control recorded 5.98, 9 cultivars exceeded the control, and Kalojira gave the most favourable value. Kalojira recorded the highest value in puffed rice at 7.99 and Dudeshwar the lowest at 3.98. Against 3.98 for the control, 9 cultivars exceeded the control, and Kalojira was the most favourable entry. For flattened rice the values lay between 4.14 and 6.96, with the control at 4.14. Here 9 cultivars exceeded the control and Kalojira ranked highest. The means are set out in Table 50 and shown in Fig. 46.",
+"reuse": null
+},
+{
+"idx": 377,
+"sec": "",
+"mode": "",
+"n": 37,
+"text": "Cultivars differed significantly in all the products. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 3.08 to 5.26 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 379,
+"sec": "",
+"mode": "",
+"n": 51,
+"text": "Discussion. Aroma distinguishes the traditional aromatic cultivars from ordinary grain and arises mainly from 2-acetyl-1-pyrroline. A higher score is clearly better. Aroma arises mainly from 2-acetyl-1-pyrroline, which accumulates when the BADH2 gene is non functional and its precursor is free to cyclise. The compound is volatile, so thermal exposure also matters.",
+"reuse": null
+},
+{
+"idx": 380,
+"sec": "",
+"mode": "",
+"n": 88,
+"text": "Published work points in the same direction. Ayamdoo et al. (2014) found sensory character shifts with treatment in a cultivar specific way; Muchlisyiyah et al. (2023) found over processing gives off odours through lipid oxidation; Dutta and Mahanta (2014) found aroma is one of the attributes traditional products are graded on; Panda et al. (2021) found shorter heating keeps more of the volatiles. Kalojira gave the most favourable value in every product of this group, and is therefore the cultivar to select where a high value is required.",
+"reuse": null
+},
+{
+"idx": 383,
+"sec": "",
+"mode": "",
+"n": 102,
+"text": "Results. Radhunipagal recorded the highest value in popped rice at 8.68 and Dudeshwar the lowest at 6.03. Against 6.03 for the control, 9 cultivars exceeded the control, and Radhunipagal was the most favourable entry. For puffed rice the values lay between 5.98 and 6.95, with the control at 6.53. Here no cultivar exceeded the control and Radhatilak ranked highest. In flattened rice the values ranged from 4.10 in Dudeshwar to 7.14 in Harinakhuri. The control recorded 4.10, 9 cultivars exceeded the control, and Harinakhuri gave the most favourable value. The means are set out in Table 51 and shown in Fig. 47.",
+"reuse": null
+},
+{
+"idx": 384,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "The cultivars were significantly different in every product. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 2.49 to 4.43 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 386,
+"sec": "",
+"mode": "",
+"n": 53,
+"text": "Discussion. Flavour combines aroma, taste and mouthfeel, and is among the strongest determinants of whether a product is accepted or rejected. Flavour combines the volatile fraction with the sugars and amino acids released on cooking and with the texture of the grain, so cultivars strong in aroma and moderate in firmness score well.",
+"reuse": null
+},
+{
+"idx": 387,
+"sec": "",
+"mode": "",
+"n": 88,
+"text": "The same pattern has been reported before. Ayamdoo et al. (2014) found flavour responds to processing more sensitively than instruments do; Muchlisyiyah et al. (2023) found flavour improves with firmer texture until treatment goes too far; Roy et al. (2019) found flavour moves with the bioactive and physicochemical properties; Akter et al. (2025) found flavour and texture outweighed colour in overall liking. No single cultivar was superior in all the products. Harinakhuri, Radhatilak and Radhunipagal ranked highest in different ones, so the decision depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 390,
+"sec": "",
+"mode": "",
+"n": 103,
+"text": "Results. For popped rice the values lay between 5.95 and 7.13, with the control at 6.42. Here 2 cultivars exceeded the control and Kataribhog ranked highest. In puffed rice the values ranged from 5.91 in Lal Badshabhog to 8.47 in Dudeshwar. The control recorded 8.47, no cultivar exceeded the control, and Dudeshwar gave the most favourable value. Harinakhuri recorded the highest value in flattened rice at 7.91 and Tulaipanjii the lowest at 6.32. Against 6.72 for the control, 3 cultivars exceeded the control, and Harinakhuri was the most favourable entry. The means are set out in Table 52 and shown in Fig. 48.",
+"reuse": null
+},
+{
+"idx": 391,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "The cultivar effect was significant throughout the group. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 2.27 to 5.01 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 393,
+"sec": "",
+"mode": "",
+"n": 37,
+"text": "Discussion. Appearance governs the first impression and therefore whether the product is tried at all. Appearance follows the colour coordinates, which are determined by pigment migration and browning, so the cultivars that remain pale head the ranking.",
+"reuse": null
+},
+{
+"idx": 394,
+"sec": "",
+"mode": "",
+"n": 85,
+"text": "Earlier reports support this finding. Muchlisyiyah et al. (2023) found colour is among the two attributes that most limit acceptance; Dutta and Mahanta (2014) found appearance caps the market whatever the nutritional merit; Srisang et al. (2021) found harder processing gives a visibly darker product; Akter et al. (2025) found a darker product was nonetheless more acceptable overall. The most favourable entry differed between products. Dudeshwar, Harinakhuri and Kataribhog each ranked highest in one product or another, so the selection depends on the product concerned.",
+"reuse": null
+},
+{
+"idx": 397,
+"sec": "",
+"mode": "",
+"n": 102,
+"text": "Results. In popped rice the values ranged from 5.99 in Radhunipagal to 7.21 in Kataribhog. The control recorded 6.56, one cultivar exceeded the control, and Kataribhog gave the most favourable value. Dudeshwar recorded the highest value in puffed rice at 8.52 and Kalojira the lowest at 5.76. Against 8.52 for the control, no cultivar exceeded the control, and Dudeshwar was the most favourable entry. For flattened rice the values lay between 6.25 and 7.71, with the control at 6.70. Here one cultivar exceeded the control and Harinakhuri ranked highest. The means are set out in Table 53 and shown in Fig. 49.",
+"reuse": null
+},
+{
+"idx": 398,
+"sec": "",
+"mode": "",
+"n": 57,
+"text": "All the products showed a significant cultivar effect. The year effect was not significant in any product, though the year by cultivar interaction was significant in 1, so in that product the difference between cultivars was not of the same magnitude in both years. Coefficients of variation ranged from 3.58 to 4.03 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 400,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "Discussion. Consistency describes the textural coherence of the finished dish and how well it matches what the preparation requires. Consistency depends on the degree of starch gelatinisation and subsequent retrogradation, and on the protein network surrounding the granules.",
+"reuse": null
+},
+{
+"idx": 401,
+"sec": "",
+"mode": "",
+"n": 81,
+"text": "Similar results have been published elsewhere. Cheng et al. (2019) found heat and moisture give a firmer, less sticky network; Iqbal et al. (2021) found firmness follows the starch and protein network; Muchlisyiyah et al. (2023) found texture and colour together decide acceptance; Devi and Badwaik (2022) found texture and pasting follow amylose and starch structure. The leading cultivar changed with the product, Dudeshwar, Harinakhuri and Kataribhog ranking highest in turn, so no single recommendation covers the group on this attribute.",
+"reuse": null
+},
+{
+"idx": 404,
+"sec": "",
+"mode": "",
+"n": 103,
+"text": "Results. Gobindabhog recorded the highest value in popped rice at 7.07 and Lal Badshabhog the lowest at 6.08. Against 6.56 for the control, no cultivar exceeded the control, and Gobindabhog was the most favourable entry. For puffed rice the values lay between 6.00 and 8.44, with the control at 8.44. Here no cultivar exceeded the control and Dudeshwar ranked highest. In flattened rice the values ranged from 6.12 in Tulaipanjii to 7.56 in Harinakhuri. The control recorded 6.57, 2 cultivars exceeded the control, and Harinakhuri gave the most favourable value. The means are set out in Table 54 and shown in Fig. 50.",
+"reuse": null
+},
+{
+"idx": 405,
+"sec": "",
+"mode": "",
+"n": 38,
+"text": "Significance was reached in each of the products. Neither the year nor its interaction with cultivar was significant, so the order held in both years. Coefficients of variation ranged from 3.58 to 4.05 %, indicating good experimental precision.",
+"reuse": null
+},
+{
+"idx": 407,
+"sec": "",
+"mode": "",
+"n": 41,
+"text": "Discussion. Cooking quality summarises water uptake, cooking time and the structural integrity of the cooked grain. Cooking quality depends on gelatinisation temperature, amylose content and the structural integrity of the grain, which is why it tracks alkali spreading value and amylose.",
+"reuse": null
+},
+{
+"idx": 408,
+"sec": "",
+"mode": "",
+"n": 76,
+"text": "Comparable observations appear in the literature. Ayamdoo et al. (2014) found cooking behaviour changes steadily with treatment severity; Kwofie and Ngadi (2017) found time and temperature are the processor's main control; Buggenhout et al. (2013) found cultivar and processing history act together; Cheng et al. (2019) found gelatinisation governs water uptake and cooking time. The leading position was shared between Dudeshwar, Gobindabhog and Harinakhuri, so the selection on this attribute must be made product by product.",
+"reuse": null
+},
+{
+"idx": 412,
+"sec": "",
+"mode": "",
+"n": 162,
+"text": "The analysis of variance answers one attribute at a time, so a single figure was needed to establish which cultivar is best overall. This was done using the total quality scoring approach of Ismail et al. (2001), where each attribute is scored, weighted for its importance, and the weighted scores summed. Kraggerud et al. (2012) later examined whether such a score genuinely reflects overall quality and concluded that it does. Here every attribute on which the cultivars differed significantly was put on a scale of 0 to 100, oriented so that 100 always denotes the better outcome, then averaged within five groups and combined by weight: sensory 30 per cent, nutritional 25, bioactive 20, mineral 15 and colour 10. The weights are a stated convention rather than a property of the data, and the index may be recomputed under any alternative set. The result is given in Table 55, and the score of every cultivar in every group appears in Table 57.",
+"reuse": null
+},
+{
+"idx": 415,
+"sec": "",
+"mode": "",
+"n": 67,
+"text": "On this index the best cultivar was Gobindabhog for popped rice; Radhatilak for puffed rice; Harinakhuri for flattened rice. The control came at or near the bottom in every product, so replacing Dudeshwar with the cultivars named here would improve the product without any change in the method of preparation. Table 56 gives, for each product, the cultivar with the best balance of attributes against the control.",
+"reuse": null
+},
+{
+"idx": 420,
+"sec": "",
+"mode": "",
+"n": 45,
+"text": "The table below gives the five group scores and the composite score for every cultivar in every product, so the standing of any entry may be read directly. The weights applied were sensory 30 per cent, nutritional 25, bioactive 20, mineral 15 and colour 10.",
+"reuse": null
+},
+{
+"idx": 425,
+"sec": "",
+"mode": "",
+"n": 176,
+"text": "The weights above were chosen rather than calculated, so the ranking was checked against a second set of weights taken from the data themselves. Principal component analysis was run on the merit scores, and each attribute was then weighted by the sum, over the components with an eigenvalue of one or more, of its squared loading times the share of variance that component carries. This is the usual way of setting weights for a composite indicator without judgement. The two rankings agreed closely, with a mean Spearman correlation of 0.952 and a lowest value of 0.939, and the same cultivar came first in 3 of the 3 products, as Table 58 shows. The ranking therefore follows from the data and not from the particular weights chosen. It should be noted that principal component analysis is used here only to set the weights; the components themselves cannot rank the cultivars for quality, because a component measures the direction of greatest variation and takes no account of whether a high or a low value is the better one.",
+"reuse": null
+},
+{
+"idx": 428,
+"sec": "",
+"mode": "",
+"n": 63,
+"text": "The mean rank correlation was 0.952 and the lowest 0.939, and the same cultivar came first in 3 of the 3 products. The ranking is therefore not an artefact of the weights chosen. Where the two disagreed, the cultivars concerned were close together on the index in any case, so the disagreement is one of order between near equals rather than of substance.",
+"reuse": "The mean rank correlation was 0.952 and the minimum 0.939, and the same cultivar ranked first in 3 of the 3 products. The ranking is therefore not an artefact of the weights adopted. Where the two diverged, the cultivars concerned were in any case closely positioned on the index, so that the divergence is one of order between near-equals rather than of substance."
+},
+{
+"idx": 431,
+"sec": "",
+"mode": "",
+"n": 89,
+"text": "Cluster analysis was used to examine how the cultivars and the products group together when all the attributes are considered simultaneously. The 30 cultivar and product combinations were standardised on the 22 attributes measured in every product, and Ward's method was applied to the Euclidean distances between them. The number of groups was set at 3. Where a cluster contains only one product, it is the method of preparation that determines the quality profile; where cultivars of different products fall together, the two are comparable in the finished form.",
+"reuse": "Cluster analysis was employed to examine how the cultivars and the products group together when all the attributes are considered simultaneously. The 30 cultivar and product combinations were standardised on the 22 attributes determined in every product, and Ward's method was applied to the Euclidean distances between them, the number of groups being set at 3. Where a cluster contains only one product, the method of preparation determines the quality profile; where cultivars of different products fall together, the two are comparable in the finished form."
+},
+{
+"idx": 436,
+"sec": "",
+"mode": "",
+"n": 89,
+"text": "Of the 3 clusters, 2 contain only one product. This indicates that the products differ from one another more than the cultivars differ within any one product. Amarnath and Ravi Kumar (2025) used Ward's method in the same way in rice and drew on the cluster means to pick genotypes for further work, on the reasoning that crosses between distant clusters are more likely to give useful variation. Dutta and Mahanta (2014) made the same point from the product side, that different traditional preparations need genuinely different raw material.",
+"reuse": "Of the 3 clusters, 2 contain only one product. This indicates that the products differ from one another to a greater extent than the cultivars differ within any one product. Amarnath and Ravi Kumar (2025) applied Ward's method comparably in rice and drew upon the cluster means to select genotypes for further work, on the reasoning that crosses between distant clusters are more likely to generate useful variation. Dutta and Mahanta (2014) advanced the same point from the product side, namely that different traditional preparations require genuinely different raw material."
+},
+{
+"idx": 439,
+"sec": "",
+"mode": "",
+"n": 114,
+"text": "Nine traditional aromatic rice cultivars of West Bengal were tested against Dudeshwar, a non-aromatic cultivar used as the control, in the 3 processed products of this group. Each was grown and prepared in the same way for two years and analysed as a pooled completely randomised design. In every product the cultivars differed significantly for nearly all the attributes measured, while the year and its interaction with cultivar were significant for far fewer. The main finding is therefore straightforward: the choice of cultivar determines the quality of the product, and the year of production makes much less difference. A cultivar selected on one year of results will generally hold its position in the next.",
+"reuse": "Nine traditional aromatic rice cultivars of West Bengal were evaluated against Dudeshwar, a non-aromatic cultivar serving as the control, in the 3 processed products of this group. Each was grown and prepared identically for two years and analysed as a pooled completely randomised design. In every product the cultivars differed significantly for nearly all the attributes determined, whereas year and its interaction with cultivar were significant for considerably fewer. The principal finding is therefore unambiguous: the choice of cultivar determines the quality of the product, and the year of production is of markedly less consequence. A cultivar selected on one year of results will generally retain its position in the next."
+},
+{
+"idx": 440,
+"sec": "",
+"mode": "",
+"n": 67,
+"text": "On this index the best cultivar was Gobindabhog for popped rice; Radhatilak for puffed rice; Harinakhuri for flattened rice. The control came at or near the bottom in every product, so replacing Dudeshwar with the cultivars named here would improve the product without any change in the method of preparation. Table 56 gives, for each product, the cultivar with the best balance of attributes against the control.",
+"reuse": null
+},
+{
+"idx": 441,
+"sec": "",
+"mode": "",
+"n": 176,
+"text": "The weights above were chosen rather than calculated, so the ranking was checked against a second set of weights taken from the data themselves. Principal component analysis was run on the merit scores, and each attribute was then weighted by the sum, over the components with an eigenvalue of one or more, of its squared loading times the share of variance that component carries. This is the usual way of setting weights for a composite indicator without judgement. The two rankings agreed closely, with a mean Spearman correlation of 0.952 and a lowest value of 0.939, and the same cultivar came first in 3 of the 3 products, as Table 58 shows. The ranking therefore follows from the data and not from the particular weights chosen. It should be noted that principal component analysis is used here only to set the weights; the components themselves cannot rank the cultivars for quality, because a component measures the direction of greatest variation and takes no account of whether a high or a low value is the better one.",
+"reuse": null
+},
+{
+"idx": 442,
+"sec": "",
+"mode": "",
+"n": 105,
+"text": "Cluster analysis was then run on all 30 cultivar and product combinations together, using the 22 attributes measured in every product. Ward's method placed them in 3 groups, of which 2 contained a single product only (Table 59 and Fig. 51). When the products are compared with one another, therefore, it is the method of preparation rather than the cultivar that determines the broad quality type, whereas within any one product the cultivar is the variable under the control of the processor. The two findings are complementary rather than contradictory: the preparation determines the type of product and the cultivar its standing within that type.",
+"reuse": null
+},
+{
+"idx": 443,
+"sec": "",
+"mode": "",
+"n": 50,
+"text": "The cultivars named here should be tested again on a larger scale and over more years before being recommended generally. For breeding work aimed at improving the group as a whole, parents are best drawn from different clusters, since crosses between distant clusters are more likely to release useful variation.",
+"reuse": "The cultivars identified here should be re-evaluated on a larger scale and over additional years before being recommended generally. For breeding work directed at improving the group as a whole, parents are best drawn from different clusters, since crosses between distant clusters are more likely to release useful variation."
+},
+{
+"idx": 447,
+"sec": "",
+"mode": "",
+"n": 103,
+"text": "Seven traditional products were prepared from nine aromatic rice cultivars of West Bengal together with Dudeshwar, a non-aromatic cultivar used as the control. Four of the products are cooked, namely table rice, kichidi, pulao and payash, and three are processed, namely popped rice, puffed rice and flattened rice. Each was laid out in a completely randomised design with three replications and repeated over two years, the two years being analysed together as a pooled design. Between 22 and 25 quality attributes were determined in each product, covering the nutritional, bioactive, mineral, colour and sensory groups, giving 162 attribute and product combinations in all.",
+"reuse": null
+},
+{
+"idx": 449,
+"sec": "",
+"mode": "",
+"n": 137,
+"text": "The cultivar effect was significant in 157 of the 162 combinations, that is 96.9 per cent. The year effect was significant in 68 (42.0 per cent) and the year by cultivar interaction in 49 (30.2 per cent). The margin between these three figures is the central result of the experiment. Almost every attribute separated the cultivars, fewer than half separated the years, and fewer than a third showed the cultivar differences changing in size between years. The identity of the cultivar therefore governs the quality of the finished product, the year of production has a smaller and less consistent effect, and the ranking of the cultivars is largely stable from one year to the next. In practical terms a cultivar chosen on one year of data can be expected to hold its position in the following year.",
+"reuse": null
+},
+{
+"idx": 450,
+"sec": "",
+"mode": "",
+"n": 36,
+"text": "Coefficients of variation were low throughout, which shows that the trials were well controlled and that the differences reported are not an artefact of experimental error. Table B sets out the position for each product separately.",
+"reuse": null
+},
+{
+"idx": 454,
+"sec": "",
+"mode": "",
+"n": 108,
+"text": "Because the analysis of variance answers one attribute at a time, and because a high value is favourable for some attributes and a low value for others, a single figure was needed to rank the cultivars overall. This was obtained by the total quality scoring approach of Ismail et al. (2001), whose validity as a measure of overall quality was later examined by Kraggerud et al. (2012). Every attribute on which the cultivars differed significantly was scored from 0 to 100 in the favourable direction, averaged within the five groups, and combined by weight, sensory carrying 30 per cent, nutritional 25, bioactive 20, mineral 15 and colour 10.",
+"reuse": null
+},
+{
+"idx": 455,
+"sec": "",
+"mode": "",
+"n": 80,
+"text": "On this index the best cultivar was Gobindabhog for payash and popped rice; Kalojira for table rice; Radhunipagal for kichidi; Kataribhog for pulao; Radhatilak for puffed rice; Harinakhuri for flattened rice. No single cultivar was best for all seven products, so the choice of raw material must follow the product intended. Kalojira appeared among the first three in four products and Gobindabhog, Kalonunia and Radhatilak in three each, so these four are the entries of widest usefulness across the group.",
+"reuse": null
+},
+{
+"idx": 456,
+"sec": "",
+"mode": "",
+"n": 67,
+"text": "The control ranked last of the ten entries in six of the seven products and ninth in the seventh. The margin between the best cultivar and the control ranged from 16.5 points in puffed rice to 45.7 in payash. Replacing Dudeshwar with the cultivars named here would therefore raise the quality of every product appreciably, and would do so without any change in the method of preparation.",
+"reuse": null
+},
+{
+"idx": 457,
+"sec": "",
+"mode": "",
+"n": 8,
+"text": "How far the ranking can be relied upon",
+"reuse": null
+},
+{
+"idx": 458,
+"sec": "",
+"mode": "",
+"n": 127,
+"text": "The weights used in the index were chosen rather than calculated, and the ranking was therefore checked against a second set of weights derived from the data. Principal component analysis was applied to the merit scores, and each attribute was weighted by the sum, over the components with an eigenvalue of one or more, of its squared loading times the share of variance that component carries. Taking the seven products together, the mean rank correlation between the two rankings was 0.946, the lowest was 0.867, and the same cultivar came first in 6 of the seven. The ranking is therefore a property of the data and not of the weights adopted. Where the two disagreed, the cultivars concerned were close together on the index in any case.",
+"reuse": null
+},
+{
+"idx": 459,
+"sec": "",
+"mode": "",
+"n": 84,
+"text": "A second and quite independent check is provided by the count of attributes on which each cultivar exceeded the control, which uses no weights at all. The cultivar with the best net balance was the same as the cultivar with the highest index in three of the seven products, and in the remainder the two entries were again close on the index. Taken together, the two checks show that the recommendations do not depend on the particular scheme by which the index was constructed.",
+"reuse": null
+},
+{
+"idx": 460,
+"sec": "",
+"mode": "",
+"n": 50,
+"text": "It should be noted that principal component analysis is used here only to set the weights. The components themselves cannot rank the cultivars for quality, because a component measures the direction of greatest variation and takes no account of whether a high or a low value is the better one.",
+"reuse": null
+},
+{
+"idx": 462,
+"sec": "",
+"mode": "",
+"n": 109,
+"text": "Cluster analysis was run on all 70 cultivar and product combinations across the two parts, using the attributes measured in every product of each part. Ward's method gave 7 groups, of which 5 contained a single product only. The clusters therefore correspond to products rather than to cultivars. When one preparation is compared with another it is the method of preparation, not the cultivar, that determines the broad quality type; within any one preparation the cultivar is the variable under the control of the processor. The two findings are complementary rather than contradictory. The preparation fixes the type of product and the cultivar fixes its standing within that type.",
+"reuse": null
+},
+{
+"idx": 464,
+"sec": "",
+"mode": "",
+"n": 119,
+"text": "The quality of these seven traditional products is determined principally by the cultivar from which they are made. Nine of the ten entries tested were superior to the non-aromatic control, and for each product a specific cultivar can be recommended: Gobindabhog for payash and popped rice; Kalojira for table rice; Radhunipagal for kichidi; Kataribhog for pulao; Radhatilak for puffed rice; Harinakhuri for flattened rice. These recommendations rest on a composite quality score index that has been shown to be insensitive to the weights used and to agree with an unweighted count against the control. Where a processor makes more than one of these products, Kalojira, Gobindabhog, Kalonunia and Radhatilak are the entries that perform well across the widest range.",
+"reuse": null
+},
+{
+"idx": 465,
+"sec": "",
+"mode": "",
+"n": 99,
+"text": "Three qualifications should be stated. First, the index ranks these ten entries relative to one another and is not an absolute scale, so it would have to be recomputed if further cultivars were added. Second, the trials covered two years at one location, and confirmation over more years and more sites is needed before any general recommendation is issued. Third, the weights placed on the five attribute groups reflect a judgement about their relative importance, and a processor whose market rests chiefly on one aspect of quality would be right to recompute the index under weights of their own.",
+"reuse": null
+},
+{
+"idx": 466,
+"sec": "",
+"mode": "",
+"n": 59,
+"text": "For breeding work directed at improving this group of cultivars, parents are best drawn from different clusters, since crosses between distant clusters are the more likely to release useful variation. The cultivars identified here also merit testing in products beyond the seven examined, since the cluster analysis indicates that each preparation makes its own demands of the raw material.",
+"reuse": null
+}
+]
